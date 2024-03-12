@@ -10,7 +10,7 @@ sections:
       slides:
       - title: Machine to Human
         content: Study how the brain robustly perceives the visual environment through various machine and deep learning techniques
-        align: left
+        align: right
         background:
           image:
             filename: machine_to_human.jpg
@@ -20,7 +20,7 @@ sections:
           color: '#666'
       - title: Human to Machine
         content: Design a more advanced vision model drawing from insights in Psychology and Neuroscience literature to bring value to real-world applications
-        align: left
+        align: center
         background:
           image:
             filename: human_to_machine.jpg
@@ -30,7 +30,7 @@ sections:
           color: '#555'
       - title: Human and Machine
         content: Pursue a future where human-machine interaction is seamless and intuitive by bridging the cognitive and functional gap between human visual intelligence and machine vision capabilities
-        align: right
+        align: left
         background:
           image:
             filename: human_and_machine.jpg
