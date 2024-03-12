@@ -8,8 +8,8 @@ sections:
   - block: slider
     content:
       slides:
-      - title: 👋 Welcome to the group
-        content: Take a look at what we're working on...
+      - title: Machine to Human
+        content: Study how the brain robustly perceives the visual environment through various machine and deep learning techniques
         align: center
         background:
           image:
@@ -18,8 +18,8 @@ sections:
               brightness: 0.7
           position: right
           color: '#666'
-      - title: Lunch & Learn ☕️
-        content: 'Share your knowledge with the group and explore exciting new topics together!'
+      - title: Human to Machine
+        content: Design a more advanced vision model drawing from insights in Psychology and Neuroscience literature to bring value to real-world applications
         align: left
         background:
           image:
@@ -28,8 +28,8 @@ sections:
               brightness: 0.7
           position: center
           color: '#555'
-      - title: World-Class Semiconductor Lab
-        content: 'Just opened last month!'
+      - title: Human and Machine
+        content: Pursue a future where human-machine interaction is seamless and intuitive by bridging the cognitive and functional gap between human visual intelligence and machine vision capabilities
         align: right
         background:
           image:
