@@ -9,7 +9,7 @@ sections:
     content:
       slides:
       - title: Machine to Human
-        content: Study how the brain robustly perceives the visual environment through various machine and deep learning techniques
+        content: Understand how the brain maintains reliable and robust perception of the complex visual world, leveraging a range of machine and deep learning techniques
         align: right
         background:
           image:
