@@ -10,7 +10,7 @@ sections:
       slides:
       - title: Machine to Human
         content: Study how the brain robustly perceives the visual environment through various machine and deep learning techniques
-        align: center
+        align: left
         background:
           image:
             filename: machine_to_human.jpg
@@ -38,11 +38,11 @@ sections:
               brightness: 0.5
           position: center
           color: '#333'
-        link:
-          icon: graduation-cap
-          icon_pack: fas
-          text: Join Us
-          url: ../contact/
+        # link:
+        #   icon: graduation-cap
+        #   icon_pack: fas
+        #   text: Join Us
+        #   url: ../contact/
     design:
       # Slide height is automatic unless you force a specific height (e.g. '400px')
       slide_height: ''
