@@ -20,7 +20,7 @@ sections:
           color: '#666'
       - title: Human to Machine
         content: Design a more advanced vision model drawing from insights in Psychology and Neuroscience literature to bring value to real-world applications
-        align: center
+        align: left
         background:
           image:
             filename: human_to_machine.jpg
