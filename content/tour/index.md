@@ -20,7 +20,7 @@ sections:
           color: '#666'
         Image by <a href="https://www.freepik.com/free-photo/doctor-looking-ct-scan_25053976.htm#&position=13&from_view=search&track=ais&uuid=85ac9bf9-ff54-4a1b-acf2-e27914c0628b">Freepik</a>
       - title: Human to Machine
-        content: Design a more advanced vision model drawing from insights in Psychology and Neuroscience literature to bring value to real-world applications
+        content: Design a more advanced vision model drawing from insights in psychology and neuroscience literature to bring value to real-world applications
         align: left
         background:
           image:
