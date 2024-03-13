@@ -38,12 +38,6 @@ sections:
               brightness: 0.5
           position: center
           color: '#333'
-          cta:
-            label: '**Get Started**'
-            url: https://hugoblox.com/templates/
-          cta_alt:
-            label: Ask a question
-            url: https://discord.gg/z8wNYzb
         # link:
         #   icon: graduation-cap
         #   icon_pack: fas
@@ -57,7 +51,11 @@ sections:
       loop: false
       # Duration of transition between slides (in ms)
       interval: 2000
-
+    
+    items:
+      - title: Build your future-proof website
+        text: As easy as 1, 2, 3!
+        feature_icon: check
 
     
       # link:
