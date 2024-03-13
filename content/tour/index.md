@@ -57,6 +57,9 @@ sections:
       text: yaho
       align: right
       color: '#000'
+    spacing:
+      # Customize the section spacing. Order is top, right, bottom, left.
+      padding: ['20px', '0', '20px', '0']
 
 
     
