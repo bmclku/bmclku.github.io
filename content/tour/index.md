@@ -17,6 +17,7 @@ sections:
             filters:
               brightness: 0.7
             alt_text: An optional description of the image for screen readers.
+            caption: 'Photo by [Geo](https://github.com/gcushen/)'
           position: right
           color: '#666'
         # link:
