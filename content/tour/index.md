@@ -55,5 +55,6 @@ sections:
       # Duration of transition between slides (in ms)
       interval: 2000
   - block:
-    content: [I'm an external link](https://www.google.com)
+    content: 
+      text: [I'm an external link](https://www.google.com)
 ---
