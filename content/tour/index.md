@@ -43,6 +43,10 @@ sections:
         #   icon_pack: fas
         #   text: Join Us
         #   url: ../contact/
+      items:
+      - title: Build your future-proof website
+        text: As easy as 1, 2, 3!
+        feature_icon: check
     design:
       # Slide height is automatic unless you force a specific height (e.g. '400px')
       slide_height: ''
@@ -52,10 +56,7 @@ sections:
       # Duration of transition between slides (in ms)
       interval: 2000
     
-    items:
-      - title: Build your future-proof website
-        text: As easy as 1, 2, 3!
-        feature_icon: check
+    
 
     
       # link:
