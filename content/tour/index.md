@@ -18,9 +18,11 @@ sections:
               brightness: 0.7
           position: right
           color: '#666'
-        link:
-          text: Image by Freepik
-          url: https://www.freepik.com/free-photo/doctor-looking-ct-scan_25053976.htm#&position=13&from_view=search&track=ais&uuid=85ac9bf9-ff54-4a1b-acf2-e27914c0628b
+        content:
+          text: [I'm an external link](https://www.google.com)
+        # link:
+          # text: Image by Freepik
+          # url: https://www.freepik.com/free-photo/doctor-looking-ct-scan_25053976.htm#&position=13&from_view=search&track=ais&uuid=85ac9bf9-ff54-4a1b-acf2-e27914c0628b
       - title: Human to Machine
         content: Design a more advanced vision model drawing from insights in psychology and neuroscience literature to bring value to real-world applications
         align: left
