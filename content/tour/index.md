@@ -31,7 +31,7 @@ sections:
       - title: Human and Machine
         content: Pursue a future where human-machine interaction is seamless and intuitive by bridging the cognitive and functional gap between human visual intelligence and machine vision capabilities
         align: left
-        background:
+        banner:
           image:
             filename: human_and_machine.jpg
             filters:
