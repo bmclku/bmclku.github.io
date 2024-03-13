@@ -18,10 +18,6 @@ sections:
               brightness: 0.7
           position: right
           color: '#666'
-        # link:
-          # text: Image by Freepik
-          # url: https://www.freepik.com/free-photo/doctor-looking-ct-scan_25053976.htm#&position=13&from_view=search&track=ais&uuid=85ac9bf9-ff54-4a1b-acf2-e27914c0628b
-        caption: 'Photo by [Geo](https://github.com/gcushen/)'
       - title: Human to Machine
         content: Design a more advanced vision model drawing from insights in psychology and neuroscience literature to bring value to real-world applications
         align: left
@@ -40,6 +36,7 @@ sections:
             filename: human_and_machine.jpg
             filters:
               brightness: 0.5
+              size: cover
           position: center
           color: '#333'
         # link:
@@ -60,4 +57,9 @@ sections:
       text: yaho
       align: right
       color: '#000'
+
+    
+      # link:
+        # text: Image by Freepik
+        # url: https://www.freepik.com/free-photo/doctor-looking-ct-scan_25053976.htm#&position=13&from_view=search&track=ais&uuid=85ac9bf9-ff54-4a1b-acf2-e27914c0628b
 ---
