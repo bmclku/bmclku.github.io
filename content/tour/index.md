@@ -51,14 +51,10 @@ sections:
       loop: false
       # Duration of transition between slides (in ms)
       interval: 2000
-  - block: markdown
-    content: 
-      text: yaho
-      align: right
-      color: '#000'
-    spacing:
-      # Customize the section spacing. Order is top, right, bottom, left.
-      padding: ['0', '0', '0', '0']
+  content: 
+    text: yaho
+    align: right
+    color: '#000'
 
 
     
@@ -66,3 +62,4 @@ sections:
         # text: Image by Freepik
         # url: https://www.freepik.com/free-photo/doctor-looking-ct-scan_25053976.htm#&position=13&from_view=search&track=ais&uuid=85ac9bf9-ff54-4a1b-acf2-e27914c0628b
 ---
+haha
