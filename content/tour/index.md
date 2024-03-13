@@ -47,6 +47,8 @@ sections:
         #   text: Join Us
         #   url: ../contact/
     content: 
+      title:
+      subtitle:
       text: yaho1
     design:
       # Slide height is automatic unless you force a specific height (e.g. '400px')
