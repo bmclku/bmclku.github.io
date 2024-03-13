@@ -36,7 +36,6 @@ sections:
             filename: human_and_machine.jpg
             filters:
               brightness: 0.5
-            size: contain
           position: center
           color: '#333'
         # link:
@@ -59,7 +58,7 @@ sections:
       color: '#000'
     spacing:
       # Customize the section spacing. Order is top, right, bottom, left.
-      padding: ['20px', '0', '20px', '0']
+      padding: ['0', '0', '0', '0']
 
 
     
