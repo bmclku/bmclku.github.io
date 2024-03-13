@@ -11,7 +11,6 @@ sections:
       - title: Machine to Human
         content: Understand how the brain maintains reliable and robust perception of the complex visual world, leveraging a range of machine and deep learning techniques
         align: right
-        content: [I'm an external link](https://www.google.com)
         background:
           image:
             filename: machine_to_human.jpg
@@ -55,4 +54,6 @@ sections:
       loop: false
       # Duration of transition between slides (in ms)
       interval: 2000
+  - block:
+    content: [I'm an external link](https://www.google.com)
 ---
