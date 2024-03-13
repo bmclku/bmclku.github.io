@@ -60,8 +60,7 @@ sections:
     content:
       title:
       subtitle:
-      text: |
-        {{% cta cta_link="./people/" cta_text="Meet the team →" %}}
+      text: haha
     design:
       columns: '1'
 ---
