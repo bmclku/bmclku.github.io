@@ -36,7 +36,7 @@ sections:
             filename: human_and_machine.jpg
             filters:
               brightness: 0.5
-              size: cover
+            size: cover
           position: center
           color: '#333'
         # link:
