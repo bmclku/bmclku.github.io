@@ -48,8 +48,8 @@ sections:
       interval: 2000
     
   - block: markdown
-    content:
-      text: [I'm an external link](https://www.google.com)
+    content: yaho
+      # text: [I'm an external link](https://www.google.com)
       # Image by Freepik
       # url: https://www.freepik.com/free-photo/doctor-looking-ct-scan_25053976.htm#&position=13&from_view=search&track=ais&uuid=85ac9bf9-ff54-4a1b-acf2-e27914c0628b
 ---
