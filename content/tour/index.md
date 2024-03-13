@@ -38,14 +38,9 @@ sections:
               brightness: 0.5
           position: center
           color: '#333'
-          cta:
-            label: Get Started
-            url: https://wowchemy.com/templates/
-        # link:
-        #   icon: graduation-cap
-        #   icon_pack: fas
-        #   text: Join Us
-        #   url: ../contact/
+        link:
+          text: Join Us
+          url: ../contact/
     design:
       # Slide height is automatic unless you force a specific height (e.g. '400px')
       slide_height: ''
