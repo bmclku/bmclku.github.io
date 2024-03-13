@@ -38,6 +38,12 @@ sections:
               brightness: 0.5
           position: center
           color: '#333'
+          cta:
+            label: '**Get Started**'
+            url: https://hugoblox.com/templates/
+          cta_alt:
+            label: Ask a question
+            url: https://discord.gg/z8wNYzb
         # link:
         #   icon: graduation-cap
         #   icon_pack: fas
