@@ -54,7 +54,7 @@ sections:
       loop: false
       # Duration of transition between slides (in ms)
       interval: 2000
-  - block:
+  - block: markdown
     content: 
       text: [I'm an external link](https://www.google.com)
 ---
