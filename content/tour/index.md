@@ -38,9 +38,6 @@ sections:
               brightness: 0.5
           position: center
           color: '#333'
-        link:
-          text: Join Us
-          url: ../contact/
     design:
       # Slide height is automatic unless you force a specific height (e.g. '400px')
       slide_height: ''
@@ -50,12 +47,9 @@ sections:
       # Duration of transition between slides (in ms)
       interval: 2000
     
-    
-
-    
-      # link:
-        # text: Image by Freepik
-        # url: https://www.freepik.com/free-photo/doctor-looking-ct-scan_25053976.htm#&position=13&from_view=search&track=ais&uuid=85ac9bf9-ff54-4a1b-acf2-e27914c0628b
+    link:
+      text: Image by Freepik
+      url: https://www.freepik.com/free-photo/doctor-looking-ct-scan_25053976.htm#&position=13&from_view=search&track=ais&uuid=85ac9bf9-ff54-4a1b-acf2-e27914c0628b
 ---
 
 👋 Hi, there! I'm **Alice**, a machine learning researcher at Netflix.
