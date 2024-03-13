@@ -16,6 +16,7 @@ sections:
             filename: machine_to_human.jpg
             filters:
               brightness: 0.7
+            alt_text: An optional description of the image for screen readers.
           position: right
           color: '#666'
         # link:
@@ -46,10 +47,6 @@ sections:
         #   icon_pack: fas
         #   text: Join Us
         #   url: ../contact/
-    content: 
-      title:
-      subtitle:
-      text: yaho1
     design:
       # Slide height is automatic unless you force a specific height (e.g. '400px')
       slide_height: ''
