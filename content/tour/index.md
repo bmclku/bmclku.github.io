@@ -47,5 +47,12 @@ sections:
       # Duration of transition between slides (in ms)
       interval: 2000
   
-byline: "[Cyril Bonnet](https://github.com/monsieurnebo), Web Developer"
+  - block: markdown
+    content:
+      title:
+      subtitle:
+      text: |
+        {{% cta cta_link="./people/" cta_text="Meet the team →" %}}
+    design:
+      columns: '1'
 ---
