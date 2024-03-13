@@ -47,6 +47,7 @@ sections:
       # Duration of transition between slides (in ms)
       interval: 2000
     
+  - block: markdown
     link:
       text: Image by Freepik
       url: https://www.freepik.com/free-photo/doctor-looking-ct-scan_25053976.htm#&position=13&from_view=search&track=ais&uuid=85ac9bf9-ff54-4a1b-acf2-e27914c0628b
