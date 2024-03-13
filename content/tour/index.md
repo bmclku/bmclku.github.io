@@ -11,6 +11,7 @@ sections:
       - title: Machine to Human
         content: Understand how the brain maintains reliable and robust perception of the complex visual world, leveraging a range of machine and deep learning techniques
         align: right
+        content: [I'm an external link](https://www.google.com)
         background:
           image:
             filename: machine_to_human.jpg
@@ -18,7 +19,6 @@ sections:
               brightness: 0.7
           position: right
           color: '#666'
-        content: [I'm an external link](https://www.google.com)
         # link:
           # text: Image by Freepik
           # url: https://www.freepik.com/free-photo/doctor-looking-ct-scan_25053976.htm#&position=13&from_view=search&track=ais&uuid=85ac9bf9-ff54-4a1b-acf2-e27914c0628b
