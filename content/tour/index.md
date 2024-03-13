@@ -16,13 +16,12 @@ sections:
             filename: machine_to_human.jpg
             filters:
               brightness: 0.7
-            alt_text: An optional description of the image for screen readers.
-            caption: 'Photo by [Geo](https://github.com/gcushen/)'
           position: right
           color: '#666'
         # link:
           # text: Image by Freepik
           # url: https://www.freepik.com/free-photo/doctor-looking-ct-scan_25053976.htm#&position=13&from_view=search&track=ais&uuid=85ac9bf9-ff54-4a1b-acf2-e27914c0628b
+        caption: 'Photo by [Geo](https://github.com/gcushen/)'
       - title: Human to Machine
         content: Design a more advanced vision model drawing from insights in psychology and neuroscience literature to bring value to real-world applications
         align: left
