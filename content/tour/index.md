@@ -51,10 +51,6 @@ sections:
       loop: false
       # Duration of transition between slides (in ms)
       interval: 2000
-  content: 
-    text: yaho
-    align: right
-    color: '#000'
 
 
     
@@ -62,3 +58,8 @@ sections:
         # text: Image by Freepik
         # url: https://www.freepik.com/free-photo/doctor-looking-ct-scan_25053976.htm#&position=13&from_view=search&track=ais&uuid=85ac9bf9-ff54-4a1b-acf2-e27914c0628b
 ---
+
+👋 Hi, there! I'm **Alice**, a machine learning researcher at Netflix.
+{style="font-size: 1.2rem; background: #FFB76B; background: linear-gradient(to right, #FFB76B 0%, #FFA73D 30%, #FF7C00 60%, #FF7F04 100%); -webkit-background-clip: text; -webkit-text-fill-color: transparent;"}
+
+Check out my [resumé](/about/) and portfolio below 😍
