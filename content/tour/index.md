@@ -37,6 +37,7 @@ sections:
             filters:
               brightness: 0.5
             size: cover
+          caption: yaho..
           position: center
           color: '#333'
         # link:
