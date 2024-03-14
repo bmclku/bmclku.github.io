@@ -51,7 +51,7 @@ sections:
     content:
       title:
       subtitle:
-      text: Hello world 1 😃 ![](cake.svg)
+      text: {{< gallery album="demo" >}}
     design:
       spacing:
         padding: [0, 0, 0, 0]
