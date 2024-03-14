@@ -22,12 +22,12 @@ sections:
       title: Recent News
       subtitle: " "
       text: |
-        <b>2024. 01. 04.</b> Our paper "Improved modeling of human vision by incorporating robustness to blur in convolutional neural networks" has been accepted for publication in Nature Communications!
-        <b>2024. 01. 04.</b> Our paper "Improved modeling of human vision by incorporating robustness to blur in convolutional neural networks" has been accepted for publication in Nature Communications!
+        <div><b>2024. 01. 04.</b> Our paper "Improved modeling of human vision by incorporating robustness to blur in convolutional neural networks" has been accepted for publication in Nature Communications!</div>
+        <div><b>2024. 01. 04.</b> Our paper "Improved modeling of human vision by incorporating robustness to blur in convolutional neural networks" has been accepted for publication in Nature Communications!</div>
     design:
       columns: '1'
       background:
-        color: '#E4E7EB'
+        color: '#f6f9fb'
 
   - block: collection
     content:
