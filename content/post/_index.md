@@ -1,5 +1,5 @@
 ---
-title: Our current research intersts
+title: Research Intersts
 
 # Listing view
 view: compact
