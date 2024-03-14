@@ -51,10 +51,8 @@ sections:
     content:
       title:
       subtitle:
-      text: hahaah
-      # text: [I'm an external link](https://www.google.com)
-      # text-align: right
-      align: right
+      text: Hello world 1 😃
+        ![](cake.svg)
     design:
       spacing:
         padding: [0, 0, 0, 0]
