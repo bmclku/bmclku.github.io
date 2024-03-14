@@ -23,6 +23,7 @@ sections:
       subtitle: " "
       text:
       count: 5
+      align: center
       filters:
         author: ''
         category: ''
