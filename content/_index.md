@@ -19,10 +19,10 @@ sections:
   
   - block: collection
     content:
-      title: Latest News
+      title: Current Research Interests
       subtitle:
       text:
-      count: 5
+      count: 3
       filters:
         author: ''
         category: ''
@@ -34,7 +34,7 @@ sections:
       page_type: post
     design:
       view: card
-      columns: '1'
+      columns: '3'
   
   - block: markdown
     content:
