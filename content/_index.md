@@ -36,6 +36,8 @@ sections:
     design:
       view: showcase
       columns: '1'
+      background:
+        color: '#FFFFFF'
   
   - block: markdown
     content:
