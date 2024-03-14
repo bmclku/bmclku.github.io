@@ -2,7 +2,7 @@
 title: Tour
 date: 2022-10-24
 
-type: widget_page
+type: landing
 
 sections:
   - block: slider
@@ -57,7 +57,8 @@ sections:
     design:
       spacing:
         padding: ['0', '0', '0', '0']
-      font_size_max: 0.1
+      background:
+        color: '#090a0b'
 ---
 
 Why I cannot see any text here?
