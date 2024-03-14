@@ -24,13 +24,14 @@ sections:
         image: 
           filename: front_banner.jpg
           filters:
-            brightness: 0.3
+            brightness: 0.5
           parallax: false
           position: center
-          size: cover
-          text_color_light: false
+          size: contain
+          text_color_light: true
       spacing:
         padding: ['20px', '0', '20px', '0']
+        margin: [0, 0, 0, 0]
       css_class: fullscreen
 
   # - block: markdown
