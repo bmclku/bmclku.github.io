@@ -19,10 +19,10 @@ sections:
   
   - block: collection
     content:
-      title: Current Research Interests
+      title: Research Interests
       subtitle:
       text:
-      count: 3
+      count: 5
       filters:
         author: ''
         category: ''
