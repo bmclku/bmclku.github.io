@@ -19,14 +19,14 @@ sections:
   
   - block: markdown
     content:
-      title: Latest News
+      title: Recent News
       subtitle: " "
       text: |
         2024. 01. 04. Our paper "Improved modeling of human vision by incorporating robustness to blur in convolutional neural networks" has been accepted for publication in Nature Communications!
     design:
       columns: '1'
       background:
-        color: '#999'
+        color: '#C5C6C7'
 
   - block: collection
     content:
