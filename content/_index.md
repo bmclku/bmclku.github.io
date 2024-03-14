@@ -5,25 +5,45 @@ date: 2022-10-24
 type: landing
 
 sections:
-  - block: hero
-    content:
-      title: |
-        Wowchemy
-        Research Group
-      image:
-        filename: welcome.jpg
-      text: |
-        <br>
-        The **Wowchemy Research Group** has been a center of excellence for Artificial Intelligence research, teaching, and practice since its founding in 2016.
+  # - block: hero
+  #   content:
+  #     title: |
+  #       Wowchemy
+  #       Research Group
+  #     image:
+  #       filename: welcome.jpg
+  #     text: |
+  #       <br>
+  #       The **Wowchemy Research Group** has been a center of excellence for Artificial Intelligence research, teaching, and practice since its founding in 2016.
   
+  - block: markdown
+    content:
+      title:
+      subtitle: ''
+      text:
+    design:
+      columns: '1'
+      background:
+        image: 
+          filename: coders.jpg
+          filters:
+            brightness: 1
+          parallax: false
+          position: center
+          size: cover
+          text_color_light: true
+      spacing:
+        padding: ['20px', '0', '20px', '0']
+      css_class: fullscreen
+
   - block: markdown
     content:
       title: Latest News
       subtitle: " "
       text: |
         <div><b>2024. 03.</b> Our paper "Improved modeling of human vision by incorporating robustness to blur in convolutional neural networks" has been published in <i>Nature Communications</i>!</div>
-        <div><b>2024. 03.</b> The Human-Machine Vision Lab's website has launched.</div>
-        <div><b>2024. 03.</b> Hojin Jang has been appointed to the position of Assistant Professor in the Department of Brain and Cognitive Engineering at Korea University.</div>
+        <div><b>2024. 03.</b> The Human-Machine Vision Lab's website has launched!</div>
+        <div><b>2024. 03.</b> Hojin Jang has been appointed to the position of Assistant Professor in the Department of Brain and Cognitive Engineering at Korea University!</div>
     design:
       columns: '1'
       background:
@@ -50,26 +70,6 @@ sections:
       columns: '1'
       background:
         color: '#FFFFFF'
-  
-  # - block: markdown
-  #   content:
-  #     title:
-  #     subtitle: ''
-  #     text:
-  #   design:
-  #     columns: '1'
-  #     background:
-  #       image: 
-  #         filename: coders.jpg
-  #         filters:
-  #           brightness: 1
-  #         parallax: false
-  #         position: center
-  #         size: cover
-  #         text_color_light: true
-  #     spacing:
-  #       padding: ['20px', '0', '20px', '0']
-  #     css_class: fullscreen
   
   # - block: markdown
   #   content:
