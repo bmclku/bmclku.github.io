@@ -53,7 +53,7 @@ sections:
       subtitle:
       text: hahaah
       # text: [I'm an external link](https://www.google.com)
-        align: right
+    align: right
     design:
       spacing:
         padding: ['0', '0', '0', '0']
