@@ -20,7 +20,7 @@ sections:
   - block: collection
     content:
       title: Research Interests
-      subtitle:
+      subtitle: " "
       text:
       count: 5
       filters:
