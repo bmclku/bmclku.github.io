@@ -20,11 +20,13 @@ sections:
   - block: markdown
     content:
       title: Latest News
-      subtitle:" "
+      subtitle: " "
       text: |
         {{% cta cta_link="./people/" cta_text="Meet the team →" %}}
     design:
       columns: '1'
+      background:
+        color: '#333'
 
   - block: collection
     content:
