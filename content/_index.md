@@ -22,10 +22,10 @@ sections:
       columns: '1'
       background:
         image: 
-          filename: front_banner.png
+          filename: front_banner.jpg
           filters:
             brightness: 0.7
-          parallax: false
+          parallax: true
           position: center
           size: cover
           text_color_light: true
