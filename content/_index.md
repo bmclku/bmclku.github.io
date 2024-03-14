@@ -26,7 +26,7 @@ sections:
     design:
       columns: '1'
       background:
-        color: '#777'
+        color: '#999'
 
   - block: collection
     content:
