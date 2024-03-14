@@ -7,7 +7,7 @@ Exploring how psychological and neuroscientific knowledge can advance machine vi
 
 <!--more-->
 
-Interestingly, it is crucial to recognize that many machine vision models have been influenced by discoveries in neuroscience. For example, the foundational principles of popular models such as convolutional neural networks, recurrent neural networks, and reinforcement learning can be traced back to theories and findings within psychology and neuroscience. Given the brain's evolutionary refinement over millions of years for efficient adaptation to the visual world, it can serve as a valuable reference for understanding and modeling intelligence.
+Interestingly, it is crucial to recognize that many machine vision models have been influenced by discoveries in neuroscience. For example, the foundational principles of popular machine models such as convolutional neural networks, recurrent neural networks, and reinforcement learning can be traced back to theories and findings within psychology and neuroscience. Given the brain's evolutionary refinement over millions of years for efficient adaptation to the visual world, it can serve as a valuable reference for understanding and modeling intelligence.
 
 The rapid advancements in deep learning techniques has sparked debate over the significance of the brain in understanding and modeling intelligence. Despite some machine models achieving remarkable performance from purely engineering-driven approaches, we believe that they still lack essential components of human vision, which could be pivotal for enhancing their efficacy and reliability.
 
