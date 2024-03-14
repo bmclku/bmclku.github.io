@@ -25,7 +25,7 @@ sections:
           filename: front_banner.jpg
           filters:
             brightness: 0.7
-          parallax: true
+          parallax: false
           position: center
           size: cover
           text_color_light: true
