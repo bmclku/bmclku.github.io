@@ -21,9 +21,9 @@ sections:
     content:
       title: Research Interests
       subtitle: " "
-      text:
-      count: 5
+      text: " "
       align: center
+      count: 5
       filters:
         author: ''
         category: ''
