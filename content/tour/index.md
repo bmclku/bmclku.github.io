@@ -55,6 +55,9 @@ sections:
       cta:
         label: '**Get Started**'
         url: https://hugoblox.com/templates/
+      cta_alt:
+        label: Ask a question
+        url: https://discord.gg/z8wNYzb
     design:
       spacing:
         padding: [0, 0, 0, 0]
