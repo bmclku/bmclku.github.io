@@ -35,7 +35,7 @@ sections:
       page_type: post
     design:
       view: showcase
-      columns: '3'
+      columns: '1'
   
   - block: markdown
     content:
