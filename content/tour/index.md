@@ -56,7 +56,8 @@ sections:
       # text-align: right
     design:
       spacing:
-        padding: ['0', '0', '0', '0']
+        padding: [0, 0, 0, 0]
+        margin: [0, 0, 0, 0]
       background:
         color: '#FFFFFF'
 ---
