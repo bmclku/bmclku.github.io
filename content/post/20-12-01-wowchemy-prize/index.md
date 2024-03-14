@@ -3,7 +3,7 @@ title: Biologically Plausible Models
 date: 
 ---
 
-Exploring the integration of insights from psychology and neuroscience into the advancement of machine vision systems presents a compelling research avenue. Our group is interested in investigating machine models that not only mirror biological systems but also provide tangible advantages for applications in the real world.
+Exploring how psychological and neuroscientific knowledge can advance machine vision models presents a promising research direction. Our group is interested in investigating machine models that not only mirror biological systems but also provide tangible advantages for applications in the real world.
 
 <!--more-->
 
