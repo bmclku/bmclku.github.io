@@ -58,6 +58,7 @@ sections:
       spacing:
         padding: [0, 0, 0, 0]
         margin: [0, 0, 0, 0]
+      font_size_max: 0.5
       background:
         color: '#FFFFFF'
 ---
