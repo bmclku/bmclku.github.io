@@ -20,9 +20,9 @@ sections:
   - block: collection
     content:
       title: Research Interests
+        align: center
       subtitle: " "
       text: " "
-      align: center
       count: 5
       filters:
         author: ''
