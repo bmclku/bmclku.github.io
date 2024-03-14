@@ -52,6 +52,9 @@ sections:
       title:
       subtitle:
       text: hoo
+      cta:
+        label: '**Get Started**'
+        url: https://hugoblox.com/templates/
     design:
       spacing:
         padding: [0, 0, 0, 0]
