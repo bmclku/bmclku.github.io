@@ -52,4 +52,7 @@ sections:
       title:
       subtitle:
       text: haha
+    design:
+      spacing:
+        padding: ['5px', '0', '5px', '0']
 ---
