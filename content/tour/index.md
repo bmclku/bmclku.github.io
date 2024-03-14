@@ -61,6 +61,8 @@ sections:
         margin: [0, 0, 0, 0]
       background:
         color: '#FFFFFF'
+      css_style:
+        align-items: right
 ---
 
 Why I cannot see any text here?
