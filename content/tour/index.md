@@ -58,7 +58,7 @@ sections:
       spacing:
         padding: ['0', '0', '0', '0']
       background:
-        color: '#090a0b'
+        color: '#FFFFFF'
 ---
 
 Why I cannot see any text here?
