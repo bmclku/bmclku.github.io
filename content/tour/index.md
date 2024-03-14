@@ -52,16 +52,9 @@ sections:
       title:
       subtitle:
       text: hoo
-      cta:
-        label: '**Get Started**'
-        url: https://hugoblox.com/templates/
-      cta_alt:
-        label: Ask a question
-        url: https://discord.gg/z8wNYzb
       cta_note:
-        label: >-
-          <div style="text-shadow: none;"><a class="github-button" href="https://github.com/HugoBlox/hugo-blox-builder" data-icon="octicon-star" data-size="large" data-show-count="true" aria-label="Star">Star Hugo Blox Builder</a></div><div style="text-shadow: none;"><a class="github-button" href="https://github.com/HugoBlox/theme-academic-cv" data-icon="octicon-star" data-size="large" data-show-count="true" aria-label="Star">Star the Academic template</a></div>
-      
+        label: 
+          <div style="text-shadow: none;">Images <a href="https://www.freepik.com/free-photo/doctor-looking-ct-scan_25053976.htm#&position=13&from_view=search&track=ais&uuid=85ac9bf9-ff54-4a1b-acf2-e27914c0628b">1</a> <a href="https://www.freepik.com/free-photo/middle-eastern-cybersecurity-professional_136128971.htm#fromView=search&page=1&position=0&uuid=97f23ac3-53fb-4ed3-bdd2-625d0e6d3941">2</a> <a href="https://www.freepik.com/free-photo/young-doctor-wearing-vr-goggles-examining-mannequin-vr-simulation-future-technology-concept_9077084.htm#fromView=search&page=2&position=39&uuid=da1248e7-cc90-4989-bfbb-af3fcdd2fd9a">3</a> by Freepik</div>
     design:
       spacing:
         padding: [0, 0, 0, 0]
