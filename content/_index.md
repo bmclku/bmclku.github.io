@@ -46,22 +46,22 @@ sections:
   #     background:
   #       color: '#f6f9fb'
 
-  - block: features
-    content:
-      title: Latest News
-      subtitle: " "
-      text: |
-        <div><b>2024. 03.</b> Our paper "Improved modeling of human vision by incorporating robustness to blur in convolutional neural networks" has been published in <i>Nature Communications</i>!</div>
-        <div><b>2024. 03.</b> The Human-Machine Vision Lab's website has launched!</div>
-        <div><b>2024. 03.</b> Hojin Jang has been appointed to the position of Assistant Professor in the Department of Brain and Cognitive Engineering at Korea University!</div>
-      items:
-        - name: Optimized SEO
-          icon: magnifying-glass
-          description: Automatic sitemaps, RSS feeds, and rich metadata take the pain out of SEO and syndication.
-    design:
-      columns: '1'
-      background:
-        color: '#f6f9fb'
+  # - block: features
+  #   content:
+  #     title: Latest News
+  #     subtitle: " "
+  #     text: |
+  #       <div><b>2024. 03.</b> Our paper "Improved modeling of human vision by incorporating robustness to blur in convolutional neural networks" has been published in <i>Nature Communications</i>!</div>
+  #       <div><b>2024. 03.</b> The Human-Machine Vision Lab's website has launched!</div>
+  #       <div><b>2024. 03.</b> Hojin Jang has been appointed to the position of Assistant Professor in the Department of Brain and Cognitive Engineering at Korea University!</div>
+  #     items:
+  #       - name: Optimized SEO
+  #         icon: magnifying-glass
+  #         description: Automatic sitemaps, RSS feeds, and rich metadata take the pain out of SEO and syndication.
+  #   design:
+  #     columns: '1'
+  #     background:
+  #       color: '#f6f9fb'
 
   - block: collection
     content:
