@@ -54,7 +54,7 @@ sections:
       # text: 
       cta_note:
         label: >- 
-          <div align="right" style="font-size:10px;">Images <a href="https://www.freepik.com/free-photo/doctor-looking-ct-scan_25053976.htm#&position=13&from_view=search&track=ais&uuid=85ac9bf9-ff54-4a1b-acf2-e27914c0628b">1</a> <a href="https://www.freepik.com/free-photo/middle-eastern-cybersecurity-professional_136128971.htm#fromView=search&page=1&position=0&uuid=97f23ac3-53fb-4ed3-bdd2-625d0e6d3941">2</a> <a href="https://www.freepik.com/free-photo/young-doctor-wearing-vr-goggles-examining-mannequin-vr-simulation-future-technology-concept_9077084.htm#fromView=search&page=2&position=39&uuid=da1248e7-cc90-4989-bfbb-af3fcdd2fd9a">3</a> by Freepik</div>
+          <div align="right" style="font-size:12px;">Images <a href="https://www.freepik.com/free-photo/doctor-looking-ct-scan_25053976.htm#&position=13&from_view=search&track=ais&uuid=85ac9bf9-ff54-4a1b-acf2-e27914c0628b">1</a> <a href="https://www.freepik.com/free-photo/middle-eastern-cybersecurity-professional_136128971.htm#fromView=search&page=1&position=0&uuid=97f23ac3-53fb-4ed3-bdd2-625d0e6d3941">2</a> <a href="https://www.freepik.com/free-photo/young-doctor-wearing-vr-goggles-examining-mannequin-vr-simulation-future-technology-concept_9077084.htm#fromView=search&page=2&position=39&uuid=da1248e7-cc90-4989-bfbb-af3fcdd2fd9a">3</a> by Freepik</div>
     design:
       spacing:
         padding: [0, 0, 0, 0]
