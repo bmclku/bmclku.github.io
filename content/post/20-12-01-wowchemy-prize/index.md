@@ -1,5 +1,5 @@
 ---
-title: Biologically Plausible Machine Models
+title: Biologically Plausible Models
 date: 
 ---
 
