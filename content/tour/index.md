@@ -47,11 +47,11 @@ sections:
       # Duration of transition between slides (in ms)
       interval: 2000
   
-  - block: markdown
+  - block: hero
     content:
       title:
       subtitle:
-      text: {{< gallery album="demo" >}}
+      text: hoo
     design:
       spacing:
         padding: [0, 0, 0, 0]
