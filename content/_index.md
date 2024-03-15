@@ -17,7 +17,7 @@ sections:
     content:
       title: Welcome to the Human-Machine Vision Lab!
       subtitle: We are a group interested in both human and machine vision.
-      text: Our research interests are robustness, recurrent processing, visual perception.
+      # text: Our research interests are robustness, recurrent processing, visual perception.
     design:
       columns: '1'
       background:
