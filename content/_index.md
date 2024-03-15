@@ -13,7 +13,7 @@ sections:
   #     text: |
   #       The **Wowchemy Research Group** has been a center of excellence for Artificial Intelligence research, teaching, and practice since its founding in 2016.
   
-  - block: markdown
+  - block: hero
     content:
       title: Welcome to the Human-Machine Vision Lab!
       subtitle: We are a group interested in both human and machine vision.
