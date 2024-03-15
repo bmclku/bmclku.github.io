@@ -41,9 +41,9 @@ sections:
 
 
   - block: 
-    banner:
-      image: front_banner.png
-      
+      banner:
+        image: front_banner.png
+
   - block: markdown
     content:
       title: Latest News
