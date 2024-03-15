@@ -16,8 +16,9 @@ sections:
   - block: markdown
     content:
       # title: Welcome to the Human-Machine Vision Lab!
-      title: " "
-      subtitle: Welcome to the Human-Machine Vision Lab!
+      title: Welcome to the Human-Machine Vision Lab!
+      subtitle: 
+      text:
       # text: Our team endeavors to uncover the complex computational mechanisms behind visual cognition in humans and machines
     align: center
     design:
@@ -27,10 +28,10 @@ sections:
           filename: front_banner.png
           filters:
             brightness: 1
-          parallax: false
+          parallax: true
           position: top
           size: cover
-          text_color_light: true
+          text_color_light: false
       # spacing:
       #   # padding: ['20px', '0', '20px', '0']
       #   padding: [0, 0, 0, 0]
