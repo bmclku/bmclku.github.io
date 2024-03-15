@@ -35,14 +35,14 @@ sections:
         padding: [0, 0, 0, 0]
         margin: [0, 0, 0, 0]
       # For full-screen, add `min-h-screen` below
-      css_class: "dark"
+      css_class: "dark min-h-screen"
       background:
         color: "navy"
         image:
           # Add your image background to `assets/media/`.
           filename: front_banner.png
           filters:
-            brightness: 0.5
+            brightness: 0.7
   
   # - block: markdown
   #   content:
