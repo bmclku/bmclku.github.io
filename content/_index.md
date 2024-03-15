@@ -15,7 +15,7 @@ sections:
   
   - block: markdown
     content:
-      title: Welcome to the Human-Machine Vision Lab! 
+      title: <b>Welcome to the Human-Machine Vision Lab!</b>
       subtitle: We are a group interested in both human and machine vision.
       text: Our research interests are robustness, recurrent processing, visual perception.
     design:
@@ -24,7 +24,7 @@ sections:
         image: 
           filename: front_banner.jpg
           filters:
-            brightness: 1
+            brightness: 0.7
           parallax: false
           position: top
           size: contain
