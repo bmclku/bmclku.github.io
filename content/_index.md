@@ -33,7 +33,7 @@ sections:
         padding: [0, 0, 0, 0]
         # padding: ['20px', '0', '20px', '0']
         margin: [0, 0, 0, 0]
-      css_class: fullscreen
+      css_class: "fullscreen front_banner"
 
   # - block: markdown
   #   content:
