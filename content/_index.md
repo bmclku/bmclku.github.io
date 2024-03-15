@@ -32,17 +32,17 @@ sections:
           url: "/blog/"
     design:
       spacing:
-        padding: [0, 0, 0, 0]
+        padding: [20, 0, 20, 0]
         margin: [0, 0, 0, 0]
       # For full-screen, add `min-h-screen` below
-      css_class: "min-h-screen"
+      css_class: "dark"
       background:
-        color: "navy"
+        # color: "navy"
         image:
           # Add your image background to `assets/media/`.
           filename: front_banner.png
           filters:
-            brightness: 0.7
+            brightness: 0.9
   
   # - block: markdown
   #   content:
