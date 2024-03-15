@@ -18,9 +18,9 @@ sections:
       title: Welcome to the Human-Machine Vision Lab!
       subtitle: We are a group interested in both human and machine vision.
       # text: Our research interests are robustness, recurrent processing, visual perception.
-      css_class: "front_banner"
     design:
       columns: '1'
+      css_class: "dark"
       background:
         image: 
           filename: front_banner.jpg
