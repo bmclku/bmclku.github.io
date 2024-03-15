@@ -29,6 +29,7 @@ sections:
           position: top
           size: contain
           text_color_light: true
+          theme_default: dark
       # spacing:
       #   # padding: ['20px', '0', '20px', '0']
       #   padding: [0, 0, 0, 0]
