@@ -27,7 +27,7 @@ sections:
             brightness: 0.3
           parallax: false
           position: top
-          size: contain
+          size: cover
           text_color_light: true
       # spacing:
       #   # padding: ['20px', '0', '20px', '0']
