@@ -24,7 +24,6 @@ sections:
         image: 
           filename: front_banner.jpg
           filters:
-            GaussianBlur: 16
             brightness: 1
             opacity: 0.7
           parallax: false
