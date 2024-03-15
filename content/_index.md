@@ -30,11 +30,11 @@ sections:
             brightness: 1
           parallax: true
           position: top
-          size: contain
-          text_color_light: false
+          size: cover
+          text_color_light: true
       spacing:
-        padding: [150, 0, 150, 0]
-      #   padding: [0, 0, 0, 0]
+        # padding: [150, 0, 150, 0]
+        padding: [0, 0, 0, 0]
       #   margin: [0, 0, 0, 0]
       # css_class: "fullscreen front_banner"
       css_class: "front_banner"
