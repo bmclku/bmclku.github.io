@@ -25,7 +25,6 @@ sections:
           filename: front_banner.jpg
           filters:
             brightness: 1
-            opacity: 0.3
           parallax: false
           position: top
           size: contain
@@ -34,7 +33,7 @@ sections:
       #   # padding: ['20px', '0', '20px', '0']
       #   padding: [0, 0, 0, 0]
       #   margin: [0, 0, 0, 0]
-      css_class: "fullscreen"
+      css_class: "fullscreen front_banner"
 
   # - block: markdown
   #   content:
