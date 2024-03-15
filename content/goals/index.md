@@ -62,9 +62,3 @@ sections:
       background:
         color: '#FFFFFF'
 ---
-
-Why I cannot see any text here?
-
-{{% callout note %}}
-Click on the **Slides** button above to view the built-in slides feature.
-{{% /callout %}}

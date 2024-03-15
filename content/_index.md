@@ -25,7 +25,7 @@ sections:
           filename: front_banner.jpg
           filters:
             brightness: 1
-            opacity: 0.7
+            opacity: 0.3
           parallax: false
           position: top
           size: contain
