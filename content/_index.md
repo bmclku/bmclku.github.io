@@ -13,19 +13,20 @@ sections:
   #     text: |
   #       The **Wowchemy Research Group** has been a center of excellence for Artificial Intelligence research, teaching, and practice since its founding in 2016.
   
-  - block: hero
+  - block: markdown
     content:
       title: Welcome to the Human-Machine Vision Lab!
       subtitle: We are a group interested in both human and machine vision.
       # text: Our research interests are robustness, recurrent processing, visual perception.
     design:
       columns: '1'
-      css_class: "dark"
       background:
         image: 
           filename: front_banner.jpg
           filters:
+            GaussianBlur: 8
             brightness: 1
+            opacity: 0.7
           parallax: true
           position: top
           size: contain
@@ -34,8 +35,7 @@ sections:
       #   # padding: ['20px', '0', '20px', '0']
       #   padding: [0, 0, 0, 0]
       #   margin: [0, 0, 0, 0]
-      css_class: "fullscreen"
-      # css_class: "fullscreen front_banner"
+      css_class: "fullscreen front_banner"
 
   # - block: markdown
   #   content:
