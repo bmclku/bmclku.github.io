@@ -8,35 +8,66 @@ sections:
   # - block: hero
   #   content:
   #     title: Welcome to the Human-Machine Vision Lab!
+  #   design:
   #     image:
   #       filename: welcome.jpg
   #     text: |
   #       The **Wowchemy Research Group** has been a center of excellence for Artificial Intelligence research, teaching, and practice since its founding in 2016.
   
-  - block: markdown
+  - block: hero
     content:
-      # title: Welcome to the Human-Machine Vision Lab!
-      title: Welcome to the Human-Machine Vision Lab!
-      subtitle: 
-      text:
-      # text: Our team endeavors to uncover the complex computational mechanisms behind visual cognition in humans and machines
+      title: Build Your Landing Pages with Hugo Blox
+      text: Our team endeavors to uncover the complex computational mechanisms behind visual cognition in humans and machines
+      primary_action:
+        text: Get Started
+        url: https://hugoblox.com/templates/
+        icon: rocket-launch
+      secondary_action:
+        text: Read the docs
+        url: https://docs.hugoblox.com
+      announcement:
+        text: "Announcing the release of version 1."
+        link:
+          text: "Read more"
+          url: "/blog/"
     design:
-      columns: '1'
-      background:
-        image: 
-          filename: front_banner.png
-          filters:
-            brightness: 1
-          parallax: true
-          position: top
-          size: contain
-          text_color_light: true
       spacing:
-        # padding: [150, 0, 150, 0]
         padding: [0, 0, 0, 0]
         margin: [0, 0, 0, 0]
-      # css_class: "fullscreen front_banner"
-      css_class: "halfscreen"
+      # For full-screen, add `min-h-screen` below
+      css_class: "dark"
+      background:
+        color: "navy"
+        image:
+          # Add your image background to `assets/media/`.
+          filename: bg-triangles.svg
+          filters:
+            brightness: 0.5
+  
+  # - block: markdown
+  #   content:
+  #     # title: Welcome to the Human-Machine Vision Lab!
+  #     title: Welcome to the Human-Machine Vision Lab!
+  #     subtitle: 
+  #     text:
+  #     # text: Our team endeavors to uncover the complex computational mechanisms behind visual cognition in humans and machines
+  #   design:
+  #     columns: '1'
+  #     background:
+  #       image: 
+  #         filename: front_banner.png
+  #         filters:
+  #           brightness: 1
+  #         parallax: true
+  #         position: top
+  #         size: contain
+  #         text_color_light: true
+  #     spacing:
+  #       # padding: [150, 0, 150, 0]
+  #       padding: [0, 0, 0, 0]
+  #       margin: [0, 0, 0, 0]
+  #     # css_class: "fullscreen front_banner"
+  #     css_class: "halfscreen"
 
   - block: markdown
     content:
