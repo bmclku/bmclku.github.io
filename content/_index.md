@@ -23,7 +23,7 @@ sections:
       columns: '1'
       background:
         image: 
-          filename: front_banner.jpg
+          filename: front_banner.png
           filters:
             brightness: 1
           parallax: false
