@@ -20,7 +20,6 @@ sections:
       subtitle: 
       text:
       # text: Our team endeavors to uncover the complex computational mechanisms behind visual cognition in humans and machines
-    align: center
     design:
       columns: '1'
       background:
@@ -35,7 +34,7 @@ sections:
       spacing:
         # padding: [150, 0, 150, 0]
         padding: [0, 0, 0, 0]
-      #   margin: [0, 0, 0, 0]
+        margin: [0, 0, 0, 0]
       # css_class: "fullscreen front_banner"
       css_class: "halfscreen"
 
