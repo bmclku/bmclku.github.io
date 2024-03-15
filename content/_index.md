@@ -18,13 +18,14 @@ sections:
       title: Welcome to the Human-Machine Vision Lab!
       subtitle: We are a group interested in both human and machine vision.
       # text: Our research interests are robustness, recurrent processing, visual perception.
+      css_class: "front_banner"
     design:
       columns: '1'
       background:
         image: 
           filename: front_banner.jpg
           filters:
-            brightness: 0.7
+            brightness: 1
           parallax: true
           position: top
           size: contain
@@ -33,7 +34,8 @@ sections:
       #   # padding: ['20px', '0', '20px', '0']
       #   padding: [0, 0, 0, 0]
       #   margin: [0, 0, 0, 0]
-      css_class: "fullscreen front_banner"
+      css_class: "fullscreen"
+      # css_class: "fullscreen front_banner"
 
   # - block: markdown
   #   content:
