@@ -24,11 +24,11 @@ sections:
         image: 
           filename: front_banner.jpg
           filters:
-            brightness: 1
+            brightness: 0.3
           parallax: false
           position: top
           size: contain
-          # text_color_light: true
+          text_color_light: true
       # spacing:
       #   # padding: ['20px', '0', '20px', '0']
       #   padding: [0, 0, 0, 0]
