@@ -13,32 +13,37 @@ sections:
   #     text: |
   #       The **Wowchemy Research Group** has been a center of excellence for Artificial Intelligence research, teaching, and practice since its founding in 2016.
   
-  - block: markdown
-    content:
-      # title: Welcome to the Human-Machine Vision Lab!
-      title: Welcome to the Human-Machine Vision Lab!
-      subtitle: 
-      text:
-      # text: Our team endeavors to uncover the complex computational mechanisms behind visual cognition in humans and machines
-    align: center
-    design:
-      columns: '1'
-      background:
-        image: 
-          filename: front_banner.png
-          filters:
-            brightness: 1
-          parallax: true
-          position: top
-          size: contain
-          text_color_light: true
-      spacing:
-        # padding: [150, 0, 150, 0]
-        padding: [0, 0, 0, 0]
-      #   margin: [0, 0, 0, 0]
-      # css_class: "fullscreen front_banner"
-      css_class: "front_banner"
+  # - block: markdown
+  #   content:
+  #     # title: Welcome to the Human-Machine Vision Lab!
+  #     title: Welcome to the Human-Machine Vision Lab!
+  #     subtitle: 
+  #     text:
+  #     # text: Our team endeavors to uncover the complex computational mechanisms behind visual cognition in humans and machines
+  #   align: center
+  #   design:
+  #     columns: '1'
+  #     background:
+  #       image: 
+  #         filename: front_banner.png
+  #         filters:
+  #           brightness: 1
+  #         parallax: true
+  #         position: top
+  #         size: contain
+  #         text_color_light: true
+  #     spacing:
+  #       # padding: [150, 0, 150, 0]
+  #       padding: [0, 0, 0, 0]
+  #     #   margin: [0, 0, 0, 0]
+  #     # css_class: "fullscreen front_banner"
+  #     css_class: "front_banner"
 
+
+  - block: 
+    banner:
+      image: front_banner.png
+      
   - block: markdown
     content:
       title: Latest News
