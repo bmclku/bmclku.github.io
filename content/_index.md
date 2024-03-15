@@ -24,18 +24,18 @@ sections:
         image: 
           filename: front_banner.jpg
           filters:
-            GaussianBlur: 8
+            GaussianBlur: 16
             brightness: 1
             opacity: 0.7
-          parallax: true
+          parallax: false
           position: top
           size: contain
-          text_color_light: true
+          # text_color_light: true
       # spacing:
       #   # padding: ['20px', '0', '20px', '0']
       #   padding: [0, 0, 0, 0]
       #   margin: [0, 0, 0, 0]
-      css_class: "fullscreen front_banner"
+      css_class: "fullscreen"
 
   # - block: markdown
   #   content:
