@@ -24,7 +24,7 @@ sections:
         image: 
           filename: front_banner.jpg
           filters:
-            brightness: 0.3
+            brightness: 1
           parallax: false
           position: top
           size: cover
