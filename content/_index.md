@@ -14,10 +14,10 @@ sections:
   #     text: |
   #       The **Wowchemy Research Group** has been a center of excellence for Artificial Intelligence research, teaching, and practice since its founding in 2016.
   
-  - block: hero
+  - block: markdown
     content:
       title: Welcome to the Human-Machine Vision Lab!
-      Subtitle: Our team endeavors to uncover the complex computational mechanisms behind visual cognition in humans and machines
+      text: Our team endeavors to uncover the complex computational mechanisms behind visual cognition in humans and machines
       # primary_action:
       #   text: Get Started
       #   url: https://hugoblox.com/templates/
@@ -30,7 +30,6 @@ sections:
       #   link:
       #     text: "Read more"
       #     url: "/
-    align: center
     design:
       spacing:
         padding: [10, 0, 10, 0]
