@@ -35,7 +35,7 @@ sections:
         padding: [10, 0, 10, 0]
         margin: [0, 0, 0, 0]
       # For full-screen, add `min-h-screen` below
-      css_class: "dark"
+      css_class: "dark frontbanner"
       background:
         # color: "navy"
         image:
