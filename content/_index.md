@@ -18,13 +18,13 @@ sections:
     content:
       title: Build Your Landing Pages with Hugo Blox
       text: Our team endeavors to uncover the complex computational mechanisms behind visual cognition in humans and machines
-      primary_action:
-        text: Get Started
-        url: https://hugoblox.com/templates/
-        icon: rocket-launch
-      secondary_action:
-        text: Read the docs
-        url: https://docs.hugoblox.com
+      # primary_action:
+      #   text: Get Started
+      #   url: https://hugoblox.com/templates/
+      #   icon: rocket-launch
+      # secondary_action:
+      #   text: Read the docs
+      #   url: https://docs.hugoblox.com
       announcement:
         text: "Announcing the release of version 1."
         link:
@@ -32,7 +32,7 @@ sections:
           url: "/blog/"
     design:
       spacing:
-        padding: [20, 0, 20, 0]
+        padding: [10, 0, 10, 0]
         margin: [0, 0, 0, 0]
       # For full-screen, add `min-h-screen` below
       css_class: "dark"
