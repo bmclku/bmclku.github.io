@@ -18,18 +18,18 @@ sections:
     content:
       title: Welcome to the Human-Machine Vision Lab!
       text: Our team endeavors to uncover the complex computational mechanisms behind visual cognition in humans and machines
-      # primary_action:
-      #   text: Get Started
-      #   url: https://hugoblox.com/templates/
-      #   icon: rocket-launch
-      # secondary_action:
-      #   text: Read the docs
-      #   url: https://docs.hugoblox.com
-      # announcement:
-      #   text: "Announcing the release of version 1."
-      #   link:
-      #     text: "Read more"
-      #     url: "/
+      primary_action:
+        text: Get Started
+        url: https://hugoblox.com/templates/
+        icon: rocket-launch
+      secondary_action:
+        text: Read the docs
+        url: https://docs.hugoblox.com
+      announcement:
+        text: "Announcing the release of version 1."
+        link:
+          text: "Read more"
+          url: "/
     design:
       spacing:
         padding: [10, 0, 10, 0]
