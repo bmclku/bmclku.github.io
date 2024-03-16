@@ -18,16 +18,6 @@ sections:
     content:
       title: Welcome to the Human-Machine Vision Lab!
       text: Our team endeavors to uncover the complex computational mechanisms behind visual cognition in humans and machines
-      cta:
-        url: '#courses'
-        label: Explore our courses
-        icon_pack: fas
-        icon: user-graduate
-      cta_alt:
-        url:
-        label:
-      cta_note:
-        label:
     design:
       spacing:
         padding: [10, 0, 10, 0]
@@ -39,6 +29,7 @@ sections:
         image:
           # Add your image background to `assets/media/`.
           filename: front_banner.png
+          parallax: true
           filters:
             brightness: 0.9
   
