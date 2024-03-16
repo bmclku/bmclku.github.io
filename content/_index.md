@@ -17,7 +17,7 @@ sections:
   - block: hero
     content:
       title: Welcome to the Human-Machine Vision Lab!
-      text: Our team endeavors to uncover the complex computational mechanisms behind visual cognition in humans and machines
+      Subtitle: Our team endeavors to uncover the complex computational mechanisms behind visual cognition in humans and machines
       # primary_action:
       #   text: Get Started
       #   url: https://hugoblox.com/templates/
