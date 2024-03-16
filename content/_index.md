@@ -31,7 +31,7 @@ sections:
       background:
         # color: "navy"
       spacing:
-        padding: [5, 0, 5, 0]
+        padding: [0, 0, 0, 0]
         margin: [0, 0, 0, 0]
 
   - block: markdown
