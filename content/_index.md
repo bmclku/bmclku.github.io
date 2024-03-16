@@ -5,58 +5,33 @@ date: 2022-10-24
 type: landing
 
 sections:
-  # - block: hero
-  #   content:
-  #     title: Welcome to the Human-Machine Vision Lab!
-  #   design:
-  #     image:
-  #       filename: welcome.jpg
-  #     text: |
-  #       The **Wowchemy Research Group** has been a center of excellence for Artificial Intelligence research, teaching, and practice since its founding in 2016.
-  
   - block: markdown
     content:
       title: Welcome to the Human-Machine Vision Lab!
       text: Our team endeavors to uncover the complex computational mechanisms behind visual cognition in humans and machines
     design:
       spacing:
-        padding: [10, 0, 10, 0]
+        padding: [10, 0, 5, 0]
         margin: [0, 0, 0, 0]
-      # For full-screen, add `min-h-screen` below
       css_class: "dark frontbanner"
       background:
         # color: "navy"
         image:
-          # Add your image background to `assets/media/`.
           filename: front_banner.png
           parallax: true
           filters:
             brightness: 0.9
   
-  # - block: markdown
-  #   content:
-  #     # title: Welcome to the Human-Machine Vision Lab!
-  #     title: Welcome to the Human-Machine Vision Lab!
-  #     subtitle: 
-  #     text:
-  #     # text: Our team endeavors to uncover the complex computational mechanisms behind visual cognition in humans and machines
-  #   design:
-  #     columns: '1'
-  #     background:
-  #       image: 
-  #         filename: front_banner.png
-  #         filters:
-  #           brightness: 1
-  #         parallax: true
-  #         position: top
-  #         size: contain
-  #         text_color_light: true
-  #     spacing:
-  #       # padding: [150, 0, 150, 0]
-  #       padding: [0, 0, 0, 0]
-  #       margin: [0, 0, 0, 0]
-  #     # css_class: "fullscreen front_banner"
-  #     css_class: "halfscreen"
+  - block: markdown
+    content:
+      text: Our team endeavors to uncover the complex computational mechanisms behind visual cognition in humans and machines
+    design:
+      columns: '1'
+      background:
+        color: "navy"
+      spacing:
+        padding: [0, 0, 0, 0]
+        margin: [0, 0, 0, 0]
 
   - block: markdown
     content:
