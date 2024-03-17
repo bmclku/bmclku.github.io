@@ -12,10 +12,9 @@ sections:
     design:
       spacing:
         # padding: [10, 0, 0, 0]
-        padding: [0, 0, 0, 0]
+        padding: ["1em", 0, 0, 0]
         margin: [0, 0, 0, 0]
-      # css_class: "dark frontbanner"
-      css_class: "frontbanner"
+      css_class: "frontbanner dark"
       background:
         # color: "navy"
         image:
