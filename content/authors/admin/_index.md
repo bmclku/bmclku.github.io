@@ -27,6 +27,10 @@ interests:
   - Brain Decoding
 
 education:
+  experience:
+    - experience: Postdoc
+      institution: Vanderbilt University
+      year: 2021
   courses:
     - course: PhD in Psychology
       institution: Vanderbilt University
