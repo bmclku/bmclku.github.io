@@ -79,6 +79,8 @@ sections:
       columns: '1'
       background:
         color: '#FFFFFF'
+      spacing:
+        padding: ["3em", 0, "3em", 0]
   
   - block: markdown
     content:
