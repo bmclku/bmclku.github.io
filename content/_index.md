@@ -27,14 +27,14 @@ sections:
     content:
       title: About
       text: |
-        Our team endeavors to uncover the intricate computational processes underlying visual cognition in both humans and machines. This pursuit involves delving into the computational principles and neural mechanisms within the brain that enable stable visual representations of our environment. In parallel, we leverage understanding from human cognition to improve machine models. In an age where machines are increasingly integrated into our daily lives and play a crucial role in society, the need for reliable, human-compatible machine models is critical. We envision a future where machines and humans work together seamlessly, with technology augmenting human tasks and activities. If our vision aligns with your academic or professional pursuits, feel free to contact the PI to discuss collaboration opportunities or to learn more about becoming a member of our team.
+        Our team endeavors to uncover the complex computational dynamics underlying visual cognition in both humans and machines. This pursuit involves delving into the computational principles and neural mechanisms within the brain that enable stable visual representations of our environment. In parallel, we leverage understanding from human cognition to advance machine models. As machines become integral to our daily lives and play a crucial role in society, the demand for trustworthy, human-compatible machine models cannot be overstated. We envision a future where machines and humans work together seamlessly, with technology augmenting human tasks and activities. If our vision aligns with your academic or professional pursuits, feel free to contact the PI to discuss collaboration opportunities or to learn more about becoming a member of our team.
 
-        Our research interests include:
-        - Robustness in visual perception
-        - Face recognition
-        - Developmental learning scheme
-        - Viusal illusion
-        - Brain decoding
+        Our current research focus areas:
+        - Enhancing object and face recognition robustness under challenging conditions 
+        - Developing bio-inspired strategies for deep learning
+        - Exploring the mysteries behind visual illusions
+        - Understanding high-level semantic cognition 
+        - Decoding human brain activity for insights into the mind
     design:
       columns: '1'
       background:
