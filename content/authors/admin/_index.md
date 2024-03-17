@@ -34,19 +34,19 @@ education:
     - course: Research Affiliate
       institution: Brain and Cognitive Sciences, MIT
       year: 2024 - Present
-    - course: Postdoc
+    - course: Postdoctoral Researcher
       institution: Brain and Cognitive Sciences, MIT
       year: 2021 - 2024
-    - course: Postdoc
+    - course: Postdoctoral Researcher
       institution: Psychology, Vanderbilt University
       year: 2021 - 2022
-    - course: PhD 
+    - course: Ph.D. 
       institution: Psychology, Vanderbilt University
       year: 2016 - 2021
-    - course: MEng 
+    - course: M.Eng. 
       institution: Brain and Cognitive Engineering, Korea University
       year: 2014 - 2016
-    - course: BSc
+    - course: B.Sc.
       institution: Computer Science, Korea University
       year: 2008 - 2014
 
