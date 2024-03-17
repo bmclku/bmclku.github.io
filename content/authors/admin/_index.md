@@ -25,14 +25,12 @@ interests:
   - Cognitive Computational Neuroscience
   - Deep Learning
   - Brain Decoding
-
-experience:
-  - experience: Postdoc
-    institution: Vanderbilt University
-    year: 2021
     
 education:
   courses:
+    - job: Postdoc in Psychology
+      institution: Vanderbilt University
+      year: 2022
     - course: PhD in Psychology
       institution: Vanderbilt University
       year: 2021
