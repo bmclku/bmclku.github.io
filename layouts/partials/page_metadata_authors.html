@@ -14,13 +14,12 @@
       {{- else -}}
         {{ .LinkTitle }}
       {{- end -}} -->
-      {{- if .Param $taxonomy -}}
+      {{- if .RelPermalink and .author -}}
         <a href="{{.RelPermalink}}">{{.LinkTitle}}</a>
       {{- else -}}
         {{ .LinkTitle }}
       {{- end -}}
       <!-- {{ .LinkTitle }} -->
-      {{ .Param $taxonomy }}
     </span>
     {{- if isset $.Params "author_notes" -}}
       {{- with (index $.Params.author_notes $index) -}}
