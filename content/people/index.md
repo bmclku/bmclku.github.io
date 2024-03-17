@@ -19,6 +19,7 @@ sections:
       sort_ascending: true
     design:
       show_interests: false
+      show_organizations: true
       show_role: true
       show_social: true
 ---
