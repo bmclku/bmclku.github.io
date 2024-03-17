@@ -19,7 +19,7 @@ publication_types: ["patent"]
 
 # Publication name and optional abbreviated publication name.
 # publication: "*Journal of Source Themes, 1*(1)"
-publication: "*U.S. Patent 11,030,487*"
+publication: "*U.S. Patent 11030487*"
 publication_short: ""
 
 abstract: The exemplified methods and systems facilitate the training of a noise-robust deep learning network that is sufficiently robust in the recognition of objects in images having extremely noisy elements such that the noise-robust network can match, or exceed, the performance of human counterparts. The extremely noisy elements may correspond to extremely noisy viewing conditions, e.g., that often manifests themselves in the real-world as poor weather or environment conditions, sub-optimal lighting conditions, sub-optimal image acquisition or capture, etc. The noise-robust deep learning network is trained both (i) with noisy training images with low signal-to-combined-signal-and-noise ratio (SSNR) and (ii) either with noiseless, or generally noiseless, training images or a second set of noisy training images having a SSNR value greater than that of the low-SSNR noisy training images.
