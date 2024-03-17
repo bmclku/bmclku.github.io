@@ -14,8 +14,8 @@ role: Assistant Professor
 
 # Organizations/Affiliations
 organizations:
-  - name: Brain and Cognitive Engineering, Korea University
-    url: 'https://bce.korea.ac.kr/'
+  - name: Korea University
+    url: ''
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include distributed robotics, mobile computing and programmable matter.
