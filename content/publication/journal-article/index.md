@@ -1,7 +1,7 @@
 ---
 title: "Task-specific feature extraction and classification of fMRI volumes using a deep neural network initialized with a deep belief network: Evaluation using sensorimotor tasks"
 authors:
-- admin
+- hojinjang
 - Robert Ford
 author_notes:
 - "Equal contribution"
