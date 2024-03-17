@@ -4,7 +4,7 @@ authors:
 - Kim, Hyun-Chul
 - hojinjang
 - Jong-Hwan Lee
-# author_notes:
+author_notes:
 - "Equal contribution"
 - "Equal contribution"
 date: "2020-01-15T00:00:00Z"
