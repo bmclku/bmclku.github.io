@@ -1,10 +1,14 @@
 {{/* Display author list. */}}
 
+{{/* Initialise */}}
+{{ $page := .wcPage }}
+{{ $block := .wcBlock }}
+
 {{ $author := "" }}
 {{ if .author }}
   {{ $author = .author }}
 {{ else }}
-  {{ $author = .Params.author }}
+  {{ $author = $block.Params.author }}
 {{end}}
 
 {{- $taxonomy := "authors" }}
