@@ -5,12 +5,12 @@ event: Example event
 event_url: 
 
 location: Korea University
-address:
-  street: 450 Serra Mall
-  city: Stanford
-  region: CA
-  postcode: '94305'
-  country: United States
+# address:
+#   street: 450 Serra Mall
+#   city: Stanford
+#   region: CA
+#   postcode: '94305'
+#   country: United States
 
 summary: An example event.
 abstract: To confirm the event page is working
