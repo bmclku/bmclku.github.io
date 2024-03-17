@@ -19,8 +19,8 @@ sections:
         country: Republic of Korea
         country_code: KR
       coordinates:
-        latitude: '37.58526294042134', 
-        longitude: '127.028391602289037'
+        latitude: '37.5853', 
+        longitude: '127.0284'
       # directions: 204 Woo Jung Informatics Building
       # office_hours:
       #   - 'Monday 10:00 to 13:00'
