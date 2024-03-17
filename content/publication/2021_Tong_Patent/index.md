@@ -9,8 +9,6 @@ authors:
 date: "2021-06-08T00:00:00Z"
 doi: ""
 
-Tong, Frank, and HoJin Jang. "Noise-robust neural networks and methods thereof." U.S. Patent 11,030,487, issued June 8, 2021.
-
 # # Schedule page publish date (NOT publication's date).
 # publishDate: "2017-01-15T00:00:00Z"
 
@@ -24,7 +22,7 @@ publication_types: ["patent"]
 publication: "*U.S. Patent 11,030,487*"
 publication_short: ""
 
-abstract: <b>Background</b> Restricted Boltzmann machines (RBMs), including greedy layer-wise trained RBMs as part of a deep belief network (DBN), have the ability to identify spatial patterns (SPs; functional networks) in resting-state fMRI (rfMRI) data. However, there has been little research on (1) the reproducibility and test-retest reliability of SPs derived from RBMs and on (2) hierarchical SPs derived from DBNs. <b>Methods</b> We applied a weight sparsity-controlled RBM and DBN to whole-brain rfMRI data from the Human Connectome Project. We evaluated the within-session reproducibility and between-session test-retest reliability of the SPs derived from the RBM approach and compared them both with those identified using independent component analysis (ICA) and with three voxel-wise statistical measures—the Hurst exponent, entropy, and kurtosis—of the rfMRI data. We also assessed the potential hierarchy of the SPs from the DBN. <b>Results</b> An increase in the sparsity level of the RBM weights enhanced the reproducibility of the SPs. The SPs deriving from a stringent weight sparsity level were predominantly found in the cortical gray matter and substantially overlapped with the SPs obtained from the Hurst exponent. A hierarchical representation was shown by constructed using the default-mode network obtained from the DBN. <b>Comparison with existing methods</b> The test-retest reliability of the SPs from the RBM was superior to that of the SPs from the voxel-wise statistics. <b>Conclusions</b> The SPs from the RBM were reproducible within sessions and reliable across sessions. The hierarchically organized SPs from the DBN could possibly be applied to research based on rfMRI data.
+abstract: The exemplified methods and systems facilitate the training of a noise-robust deep learning network that is sufficiently robust in the recognition of objects in images having extremely noisy elements such that the noise-robust network can match, or exceed, the performance of human counterparts. The extremely noisy elements may correspond to extremely noisy viewing conditions, e.g., that often manifests themselves in the real-world as poor weather or environment conditions, sub-optimal lighting conditions, sub-optimal image acquisition or capture, etc. The noise-robust deep learning network is trained both (i) with noisy training images with low signal-to-combined-signal-and-noise ratio (SSNR) and (ii) either with noiseless, or generally noiseless, training images or a second set of noisy training images having a SSNR value greater than that of the low-SSNR noisy training images.
 
 # # Summary. An optional shortened abstract.
 # summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
