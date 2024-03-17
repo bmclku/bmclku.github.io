@@ -4,12 +4,12 @@
 {{ $page := .wcPage }}
 {{ $block := .wcBlock }}
 
-{{ $author := "" }}
+<!-- {{ $author := "" }}
 {{ if .author }}
   {{ $author = .author }}
 {{ else }}
   {{ $author = $block.Params.author }}
-{{end}}
+{{end}} -->
 
 {{- $taxonomy := "authors" }}
 {{ if .Param $taxonomy }}
