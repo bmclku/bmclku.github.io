@@ -34,13 +34,12 @@ sections:
         color: "#FFFFFF"
       spacing:
         # padding: ["20px", 0, "20px", 0]
-        padding: ["3em", 0, 0, 0]
+        padding: ["3em", 0, "3em", 0]
         margin: [0, 0, 0, 0]
 
   - block: markdown
     content:
       title: Latest News
-      subtitle: " "
       text: |
         <div><b>2024. 03.</b> Our paper "Improved modeling of human vision by incorporating robustness to blur in convolutional neural networks" has been published in <i>Nature Communications</i>!</div>
         <div><b>2024. 03.</b> The Human-Machine Vision Lab's website has launched!</div>
@@ -49,6 +48,8 @@ sections:
       columns: '1'
       background:
         color: '#f6f9fb'
+      spacing:
+        padding: ["3em", 0, "3em", 0]
 
   # - block: features
   #   content:
