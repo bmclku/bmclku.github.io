@@ -14,8 +14,12 @@
       {{- else -}}
         {{ .LinkTitle }}
       {{- end -}} -->
-      {{- if .RelPermalink and .author -}}
-        <a href="{{.RelPermalink}}">{{.LinkTitle}}</a>
+      {{ if .author }}
+        {{- if .RelPermalink -}}
+            <a href="{{.RelPermalink}}">{{.LinkTitle}}</a>
+        {{- else -}}
+            {{ .LinkTitle }}
+        {{- end -}}
       {{- else -}}
         {{ .LinkTitle }}
       {{- end -}}
