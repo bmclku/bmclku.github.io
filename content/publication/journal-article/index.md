@@ -34,7 +34,10 @@ featured: false
 # links:
 # - name: ""
 #   url: ""
-url: https://www.sciencedirect.com/science/article/abs/pii/S1053811916300362
+links:
+- name: "link"
+  url: https://www.sciencedirect.com/science/article/abs/pii/S1053811916300362
+  
 url_pdf: http://arxiv.org/pdf/1512.04133v1
 url_code: 'https://github.com/HugoBlox/hugo-blox-builder'
 url_dataset: ''
