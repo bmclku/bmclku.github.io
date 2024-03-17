@@ -18,9 +18,9 @@ sections:
         postcode: '02841'
         country: Republic of Korea
         country_code: KR
-      coordinates:
-        latitude: '37.5853', 
-        longitude: '127.0284'
+      # coordinates:
+      #   latitude: '37.5853', 
+      #   longitude: '127.0284'
       # directions: 204 Woo Jung Informatics Building
       # office_hours:
       #   - 'Monday 10:00 to 13:00'
