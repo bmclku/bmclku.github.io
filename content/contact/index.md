@@ -13,19 +13,19 @@ sections:
       email: hojin4671@korea.ac.kr
       phone: 02-3290-5921
       address:
-        street: 145, Anam-ro, Seongbuk-gu 
+        street: 204 Woo Jung Informatics Building, 145, Anam-ro, Seongbuk-gu 
         city: Seoul
         postcode: '02841'
         country: Republic of Korea
         country_code: KR
       coordinates:
-        latitude: '37.4275'
-        longitude: '-122.1697'
-      directions: 204 Woo Jung Informatics Building
+        latitude: '37.58526294042134', 
+        longitude: '127.028391602289037'
+      # directions: 204 Woo Jung Informatics Building
       # office_hours:
       #   - 'Monday 10:00 to 13:00'
       #   - 'Wednesday 09:00 to 10:00'
-      appointment_url: 'https://calendly.com'
+      # appointment_url: 'https://calendly.com'
       #contact_links:
       #  - icon: comments
       #    icon_pack: fas
