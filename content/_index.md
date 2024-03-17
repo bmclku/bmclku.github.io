@@ -59,7 +59,6 @@ sections:
         padding: ["3em", 0, "3em", 0]
 
   - block: collection
-    id: research
     content:
       title: Research Interests
       align: center
@@ -72,6 +71,8 @@ sections:
         exclude_featured: false
         publication_type: ''
         tag: ''
+        folders:
+          - research
       offset: 0
       order: desc
       page_type: post
