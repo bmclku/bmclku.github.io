@@ -89,6 +89,6 @@ user_groups:
   - Principal Investigator
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+At the center of my academic journey has been a deep curiosity to puzzle out the intricate algorithms that underpin human visual perception and cognition. As we enter an era where machine vision systems increasingly intertwine with our daily lives, it offers a fascinating opportunity to explore the fundamental principles of vision science by comparing human and machine vision. Our approach employs a blend of behavioral and psychophysical experiments, neuroimaging techniques, as well as cutting-edge computational modeling. 
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+Our lab encourages an environment where making mistakes is part of the learning process, where unique ideas are welcome, and where diverse perspectives are valued. We are dedicated to enhancing diversity, equity, and inclusion in science, recognizing the vital role of various backgrounds and experiences.
