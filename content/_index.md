@@ -19,7 +19,7 @@ sections:
         image:
           filename: front_banner.png
           parallax: true
-          size: cover
+          size: contain
           filters:
             brightness: 0.9
   
@@ -71,8 +71,6 @@ sections:
         exclude_featured: false
         publication_type: ''
         tag: ''
-        folders:
-          - research
       offset: 0
       order: desc
       page_type: post
