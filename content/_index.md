@@ -72,7 +72,7 @@ sections:
         tag: ''
       offset: 0
       order: desc
-      page_type: post
+      page_type: research
     design:
       view: showcase
       columns: '1'
