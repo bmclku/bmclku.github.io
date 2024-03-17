@@ -15,10 +15,10 @@
         {{ .LinkTitle }}
       {{- end -}} -->
       {{- if .RelPermalink -}}
-        <a href="{{.RelPermalink}}">{{.LinkTitle}}</a>
+        <!-- <a href="{{.RelPermalink}}">{{.LinkTitle}}</a> -->
+        <a href="{{.RelPermalink}}">{{$taxonomy}}</a>
       {{- else -}}
-        <!-- {{ .LinkTitle }} -->
-        {{ $taxonomy }}
+        {{ .LinkTitle }}
       {{- end -}}
       <!-- {{ .LinkTitle }} -->
     </span>
