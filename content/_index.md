@@ -59,6 +59,7 @@ sections:
         padding: ["3em", 0, "3em", 0]
 
   - block: collection
+    id: research
     content:
       title: Research Interests
       align: center
