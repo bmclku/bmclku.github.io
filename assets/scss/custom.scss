@@ -6,8 +6,9 @@
 
 // Custom avatar size on homepage
 .avatar {
-  width: 80%;
+  width: auto;
   height: auto;
   max-width: 200px;
   max-height: 200px;
+  overflow: hidden;
 }
