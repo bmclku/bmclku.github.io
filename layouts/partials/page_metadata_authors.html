@@ -16,7 +16,7 @@
       {{- end -}} -->
       {{- if .RelPermalink -}}
         <!-- <a href="{{.RelPermalink}}">{{.LinkTitle}}</a> -->
-        <a href="{{.RelPermalink}}">{{$taxonomy}}</a>
+        <a href="{{.RelPermalink}}">{{.Param $taxonomy}}</a>
       {{- else -}}
         {{ .LinkTitle }}
       {{- end -}}
