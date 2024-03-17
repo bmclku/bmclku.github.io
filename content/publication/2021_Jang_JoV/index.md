@@ -1,12 +1,12 @@
 ---
-title: "Noise-robust neural networks and methods thereof"
+title: "Convolutional neural networks trained with a developmental sequence of blurry to clear images reveal core differences between face and object processing"
 authors:
-- Frank Tong
 - hojinjang
+- Frank Tong
 # author_notes:
 # - "Equal contribution"
 # - "Equal contribution"
-date: "2021-06-08T00:00:00Z"
+date: "2020-01-15T00:00:00Z"
 doi: ""
 
 # # Schedule page publish date (NOT publication's date).
@@ -15,14 +15,14 @@ doi: ""
 # Publication type.
 # Accepts a single type but formatted as a YAML list (for Hugo requirements).
 # Enter a publication type from the CSL standard.
-publication_types: ["patent"]
+publication_types: ["article-journal"]
 
 # Publication name and optional abbreviated publication name.
 # publication: "*Journal of Source Themes, 1*(1)"
-publication: "*U.S. Patent, 11030487*"
+publication: "*Journal of Vision, 21*(12)"
 publication_short: ""
 
-abstract: The exemplified methods and systems facilitate the training of a noise-robust deep learning network that is sufficiently robust in the recognition of objects in images having extremely noisy elements such that the noise-robust network can match, or exceed, the performance of human counterparts. The extremely noisy elements may correspond to extremely noisy viewing conditions, e.g., that often manifests themselves in the real-world as poor weather or environment conditions, sub-optimal lighting conditions, sub-optimal image acquisition or capture, etc. The noise-robust deep learning network is trained both (i) with noisy training images with low signal-to-combined-signal-and-noise ratio (SSNR) and (ii) either with noiseless, or generally noiseless, training images or a second set of noisy training images having a SSNR value greater than that of the low-SSNR noisy training images.
+abstract: Although convolutional neural networks (CNNs) provide a promising model for understanding human vision, most CNNs lack robustness to challenging viewing conditions, such as image blur, whereas human vision is much more reliable. Might robustness to blur be attributable to vision during infancy, given that acuity is initially poor but improves considerably over the first several months of life? Here, we evaluated the potential consequences of such early experiences by training CNN models on face and object recognition tasks while gradually reducing the amount of blur applied to the training images. For CNNs trained on blurry to clear faces, we observed sustained robustness to blur, consistent with a recent report by Vogelsang and colleagues (2018). By contrast, CNNs trained with blurry to clear objects failed to retain robustness to blur. Further analyses revealed that the spatial frequency tuning of the two CNNs was profoundly different. The blurry to clear face-trained network successfully retained a preference for low spatial frequencies, whereas the blurry to clear object-trained CNN exhibited a progressive shift toward higher spatial frequencies. Our findings provide novel computational evidence showing how face recognition, unlike object recognition, allows for more holistic processing. Moreover, our results suggest that blurry vision during infancy is insufficient to account for the robustness of adult vision to blurry objects.
 
 # # Summary. An optional shortened abstract.
 # summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
@@ -33,7 +33,7 @@ abstract: The exemplified methods and systems facilitate the training of a noise
 
 links:
 - name: "Link"
-  url: https://patents.google.com/patent/US11030487B2/en
+  url: https://doi.org/10.1167/jov.21.12.6
 url_pdf: ''
 url_code: ''
 url_dataset: ''
