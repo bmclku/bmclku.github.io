@@ -13,16 +13,15 @@ sections:
       email: hojin4671@korea.ac.kr
       phone: 02-3290-5921
       address:
-        street: 450 Serra Mall
-        city: Stanford
-        region: CA
-        postcode: '94305'
-        country: United States
-        country_code: US
+        street: 145, Anam-ro, Seongbuk-gu 
+        city: Seoul
+        postcode: '02841'
+        country: Republic of Korea
+        country_code: KR
       coordinates:
         latitude: '37.4275'
         longitude: '-122.1697'
-      directions: Enter Building 1 and take the stairs to Office 200 on Floor 2
+      directions: 204 Woo Jung Informatics Building
       # office_hours:
       #   - 'Monday 10:00 to 13:00'
       #   - 'Wednesday 09:00 to 10:00'
