@@ -8,10 +8,10 @@ main:
     url: goals
     weight: 10
   - name: Research
-    url: post
+    url: research
     weight: 20
   - name: Members
-    url: people
+    url: members
     weight: 30
   - name: Publications
     url: publication
