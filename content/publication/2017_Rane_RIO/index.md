@@ -12,8 +12,6 @@ authors:
 date: "2017-03-20T00:00:00Z"
 doi: ""
 
-, , , Hojin Jang, and Cameron Craddock. "Developing predictive imaging biomarkers using whole-brain classifiers: Application to the ABIDE I dataset." Research Ideas and Outcomes 3 (2017): e12733.
-
 # # Schedule page publish date (NOT publication's date).
 # publishDate: "2017-01-15T00:00:00Z"
 
