@@ -6,7 +6,7 @@ authors:
 # author_notes:
 # - "Equal contribution"
 # - "Equal contribution"
-date: "2020-01-15T00:00:00Z"
+date: "2021-11-01T00:00:00Z"
 doi: ""
 
 # # Schedule page publish date (NOT publication's date).
@@ -19,7 +19,7 @@ publication_types: ["article-journal"]
 
 # Publication name and optional abbreviated publication name.
 # publication: "*Journal of Source Themes, 1*(1)"
-publication: "*Journal of Vision, 21*(12)"
+publication: "*Journal of Vision, 21*(12), 6-6"
 publication_short: ""
 
 abstract: Although convolutional neural networks (CNNs) provide a promising model for understanding human vision, most CNNs lack robustness to challenging viewing conditions, such as image blur, whereas human vision is much more reliable. Might robustness to blur be attributable to vision during infancy, given that acuity is initially poor but improves considerably over the first several months of life? Here, we evaluated the potential consequences of such early experiences by training CNN models on face and object recognition tasks while gradually reducing the amount of blur applied to the training images. For CNNs trained on blurry to clear faces, we observed sustained robustness to blur, consistent with a recent report by Vogelsang and colleagues (2018). By contrast, CNNs trained with blurry to clear objects failed to retain robustness to blur. Further analyses revealed that the spatial frequency tuning of the two CNNs was profoundly different. The blurry to clear face-trained network successfully retained a preference for low spatial frequencies, whereas the blurry to clear object-trained CNN exhibited a progressive shift toward higher spatial frequencies. Our findings provide novel computational evidence showing how face recognition, unlike object recognition, allows for more holistic processing. Moreover, our results suggest that blurry vision during infancy is insufficient to account for the robustness of adult vision to blurry objects.
