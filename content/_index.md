@@ -19,7 +19,6 @@ sections:
         image:
           filename: front_banner.png
           parallax: true
-          size: contain
           filters:
             brightness: 0.9
   
