@@ -4,7 +4,7 @@
 {{ if .author }}
   {{ $author = .author }}
 {{ else }}
-  {{ $author = $block.Params.author }}
+  {{ $author = .Params.author }}
 {{end}}
 
 {{- $taxonomy := "authors" }}
