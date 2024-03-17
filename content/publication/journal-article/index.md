@@ -4,7 +4,7 @@ authors:
 - hojinjang
 - Plis M. Sergey
 - Calhoun D. Vince
-- Lee Jong-Hwan 
+- Jong-Hwan Lee
 # author_notes:
 # - "Equal contribution"
 # - "Equal contribution"
@@ -29,9 +29,9 @@ abstract: Feedforward deep neural networks (DNN), artificial neural networks wit
 # # Summary. An optional shortened abstract.
 # summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
 
-tags:
-- Source Themes
-featured: false
+# tags:
+# - Source Themes
+# featured: false
 
 links:
 - name: "Link"
