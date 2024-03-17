@@ -12,7 +12,7 @@ sections:
     design:
       spacing:
         # padding: [10, 0, 0, 0]
-        padding: ["5em", 0, 0, 0]
+        padding: ["3em", 0, 0, 0]
         margin: [0, 0, 0, 0]
       css_class: "frontbanner dark"
       background:
@@ -34,7 +34,7 @@ sections:
         color: "#FFFFFF"
       spacing:
         # padding: ["20px", 0, "20px", 0]
-        padding: [0, 0, 0, 0]
+        padding: ["3em", 0, "3em", 0]
         margin: [0, 0, 0, 0]
 
   - block: markdown
