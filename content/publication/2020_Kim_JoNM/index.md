@@ -10,8 +10,6 @@ authors:
 date: "2020-01-15T00:00:00Z"
 doi: ""
 
-, Hojin Jang, and Jong-Hwan Lee. "Test–retest reliability of spatial patterns from resting-state functional MRI using the restricted Boltzmann machine and hierarchically organized spatial patterns from the deep belief network."  330 (2020): 108451.
-
 # # Schedule page publish date (NOT publication's date).
 # publishDate: "2017-01-15T00:00:00Z"
 
