@@ -1,14 +1,15 @@
 ---
-title: "Test–retest reliability of spatial patterns from resting-state functional MRI using the restricted Boltzmann machine and hierarchically organized spatial patterns from the deep belief network"
+title: "Noise-robust neural networks and methods thereof"
 authors:
-- Kim, Hyun-Chul
+- Frank Tong
 - hojinjang
-- Jong-Hwan Lee
 # author_notes:
-- "Equal contribution"
-- "Equal contribution"
-date: "2020-01-15T00:00:00Z"
+# - "Equal contribution"
+# - "Equal contribution"
+date: "2021-06-08T00:00:00Z"
 doi: ""
+
+Tong, Frank, and HoJin Jang. "Noise-robust neural networks and methods thereof." U.S. Patent 11,030,487, issued June 8, 2021.
 
 # # Schedule page publish date (NOT publication's date).
 # publishDate: "2017-01-15T00:00:00Z"
@@ -16,11 +17,11 @@ doi: ""
 # Publication type.
 # Accepts a single type but formatted as a YAML list (for Hugo requirements).
 # Enter a publication type from the CSL standard.
-publication_types: ["article-journal"]
+publication_types: ["patent"]
 
 # Publication name and optional abbreviated publication name.
 # publication: "*Journal of Source Themes, 1*(1)"
-publication: "*Journal of Neuroscience Methods, 330*, 108451"
+publication: "*U.S. Patent 11,030,487*"
 publication_short: ""
 
 abstract: <b>Background</b> Restricted Boltzmann machines (RBMs), including greedy layer-wise trained RBMs as part of a deep belief network (DBN), have the ability to identify spatial patterns (SPs; functional networks) in resting-state fMRI (rfMRI) data. However, there has been little research on (1) the reproducibility and test-retest reliability of SPs derived from RBMs and on (2) hierarchical SPs derived from DBNs. <b>Methods</b> We applied a weight sparsity-controlled RBM and DBN to whole-brain rfMRI data from the Human Connectome Project. We evaluated the within-session reproducibility and between-session test-retest reliability of the SPs derived from the RBM approach and compared them both with those identified using independent component analysis (ICA) and with three voxel-wise statistical measures—the Hurst exponent, entropy, and kurtosis—of the rfMRI data. We also assessed the potential hierarchy of the SPs from the DBN. <b>Results</b> An increase in the sparsity level of the RBM weights enhanced the reproducibility of the SPs. The SPs deriving from a stringent weight sparsity level were predominantly found in the cortical gray matter and substantially overlapped with the SPs obtained from the Hurst exponent. A hierarchical representation was shown by constructed using the default-mode network obtained from the DBN. <b>Comparison with existing methods</b> The test-retest reliability of the SPs from the RBM was superior to that of the SPs from the voxel-wise statistics. <b>Conclusions</b> The SPs from the RBM were reproducible within sessions and reliable across sessions. The hierarchically organized SPs from the DBN could possibly be applied to research based on rfMRI data.
@@ -34,7 +35,7 @@ abstract: <b>Background</b> Restricted Boltzmann machines (RBMs), including gree
 
 links:
 - name: "Link"
-  url: https://doi.org/10.1016/j.jneumeth.2019.108451
+  url: https://patents.google.com/patent/US11030487B2/en
 url_pdf: ''
 url_code: ''
 url_dataset: ''
