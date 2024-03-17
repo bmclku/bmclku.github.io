@@ -8,7 +8,7 @@ sections:
   - block: markdown
     content:
       title: Welcome to the Human-Machine Vision Lab!
-      text: Our team endeavors to uncover the complex computational mechanisms behind visual cognition in humans and machines
+      text: 고려대학교 인간-기계 비전 연구실 사이트 방문을 환영합니다.
     design:
       spacing:
         padding: [10, 0, 5, 0]
@@ -29,7 +29,7 @@ sections:
     design:
       columns: '1'
       background:
-        # color: "navy"
+        color: "#FFFFFF"
       spacing:
         padding: [1, 0, 1, 0]
         margin: [0, 0, 0, 0]
