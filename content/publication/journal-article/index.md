@@ -3,9 +3,11 @@ title: "Task-specific feature extraction and classification of fMRI volumes usin
 authors:
 - hojinjang
 - Plis M. Sergey
-author_notes:
-- "Equal contribution"
-- "Equal contribution"
+- Calhoun D. Vince
+- Lee Jong-Hwan 
+# author_notes:
+# - "Equal contribution"
+# - "Equal contribution"
 date: "2017-01-15T00:00:00Z"
 doi: ""
 
