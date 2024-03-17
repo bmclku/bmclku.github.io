@@ -14,7 +14,7 @@ role: Assistant Professor
 
 # Organizations/Affiliations
 organizations:
-  - name: Korea University
+  - name: Brain and Cognitive Engineering, Korea University
     url: ''
 
 # Short bio (displayed in user profile at end of posts)
