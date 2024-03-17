@@ -19,6 +19,6 @@ main:
   - name: Gallery
     url: event
     weight: 50
-  - name: Join
+  - name: Contact
     url: contact
     weight: 60

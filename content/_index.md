@@ -34,7 +34,7 @@ sections:
         color: "#FFFFFF"
       spacing:
         # padding: ["20px", 0, "20px", 0]
-        padding: ["3em", 0, "3em", 0]
+        padding: ["3em", 0, 0, 0]
         margin: [0, 0, 0, 0]
 
   - block: markdown
