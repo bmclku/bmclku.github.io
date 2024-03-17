@@ -32,7 +32,7 @@ sections:
       background:
         color: "#FFFFFF"
       spacing:
-        padding: [1, 0, 1, 0]
+        padding: [0, 0, 0, 0]
         margin: [0, 0, 0, 0]
 
   - block: markdown
