@@ -14,14 +14,11 @@
       {{- else -}}
         {{ .LinkTitle }}
       {{- end -}} -->
-      {{ if .author }}
-        {{- if .RelPermalink -}}
-            <a href="{{.RelPermalink}}">{{.LinkTitle}}</a>
-        {{- else -}}
-            {{ .LinkTitle }}
-        {{- end -}}
+      {{- if .RelPermalink -}}
+        <a href="{{.RelPermalink}}">{{.LinkTitle}}</a>
       {{- else -}}
-        {{ .LinkTitle }}
+        <!-- {{ .LinkTitle }} -->
+        {{ $taxonomy }}
       {{- end -}}
       <!-- {{ .LinkTitle }} -->
     </span>
