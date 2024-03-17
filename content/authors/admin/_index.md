@@ -28,18 +28,27 @@ interests:
     
 education:
   courses:
-    - job: Postdoc in Psychology
+    - course: Assistant Professor in Brain and Cognitive Engineering
+      institution: Korea University
+      year: 2024-Present
+    - course: Research Affiliate in Brain and Cognitive Sciences
+      institution: MIT
+      year: 2024-Present
+    - course: Postdoc in Brain and Cognitive Sciences
+      institution: MIT
+      year: 2021-2024
+    - course: Postdoc in Psychology
       institution: Vanderbilt University
-      year: 2022
+      year: 2021-2022
     - course: PhD in Psychology
       institution: Vanderbilt University
-      year: 2021
+      year: 2016-2021
     - course: MEng in Brain and Cognitive Engineering
       institution: Korea University
-      year: 2016
-    - course: BSc in Comptuer Science
+      year: 2014-2016
+    - course: BSc in Computer Science
       institution: Korea University
-      year: 2014
+      year: 2008-2014
 
 # Social/Academic Networking
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
