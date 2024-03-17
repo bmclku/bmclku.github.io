@@ -14,7 +14,7 @@
       {{- else -}}
         {{ .LinkTitle }}
       {{- end -}} -->
-      {{- if .author -}}
+      {{- if .Param $taxonomy -}}
         <a href="{{.RelPermalink}}">{{.LinkTitle}}</a>
       {{- else -}}
         {{ .LinkTitle }}
