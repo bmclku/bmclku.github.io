@@ -26,11 +26,12 @@ interests:
   - Deep Learning
   - Brain Decoding
 
+experience:
+  - experience: Postdoc
+    institution: Vanderbilt University
+    year: 2021
+    
 education:
-  experience:
-    - experience: Postdoc
-      institution: Vanderbilt University
-      year: 2021
   courses:
     - course: PhD in Psychology
       institution: Vanderbilt University
@@ -49,7 +50,7 @@ education:
 social:
   - icon: envelope
     icon_pack: fas
-    link: 'hojin4671@korea.ac.kr'
+    link: hojin4671@korea.ac.kr
   - icon: cv
     icon_pack: ai
     link: files/cv.pdf
