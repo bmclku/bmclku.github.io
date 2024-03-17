@@ -21,7 +21,7 @@ sections:
           parallax: true
           filters:
             brightness: 0.9
-          size: fill
+          size: contain
   
   - block: markdown
     content:
