@@ -14,7 +14,12 @@
       {{- else -}}
         {{ .LinkTitle }}
       {{- end -}} -->
-      {{ .LinkTitle }}
+      {{- if .author -}}
+        <a href="{{.RelPermalink}}">{{.LinkTitle}}</a>
+      {{- else -}}
+        {{ .LinkTitle }}
+      {{- end -}}
+      <!-- {{ .LinkTitle }} -->
     </span>
     {{- if isset $.Params "author_notes" -}}
       {{- with (index $.Params.author_notes $index) -}}
