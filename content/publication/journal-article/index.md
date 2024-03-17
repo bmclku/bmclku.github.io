@@ -2,8 +2,8 @@
 title: "Task-specific feature extraction and classification of fMRI volumes using a deep neural network initialized with a deep belief network: Evaluation using sensorimotor tasks"
 authors:
 - hojinjang
-- Plis M. Sergey
-- Calhoun D. Vince
+- Sergey M. Plis
+- Vince D. Calhoun
 - Jong-Hwan Lee
 # author_notes:
 # - "Equal contribution"
