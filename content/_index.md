@@ -18,7 +18,7 @@ sections:
         # color: "navy"
         image:
           filename: front_banner.png
-          parallax: true
+          parallax: false
           filters:
             brightness: 0.9
           size: contain
