@@ -15,7 +15,7 @@
         {{ .LinkTitle }}
       {{- end -}} -->
       <!-- {{- if .RelPermalink -}} -->
-      {{- if and ().RelPermalink) (.Params.authors) -}}
+      {{- if and (.RelPermalink) (.Params.authors) -}}
         <a href="{{.RelPermalink}}">{{.LinkTitle}}</a>
       {{- else -}}
         {{ .LinkTitle }}
