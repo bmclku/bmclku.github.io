@@ -2,8 +2,8 @@
 title: Visual Perception to Higher Cognition
 date: 
 show_date: false
-image:
-  focal_point: 'top'
+# image:
+#   focal_point: 'top'
 wiehgt: 30
 ---
 
@@ -16,3 +16,6 @@ At the heart of this exploration is the understanding that visual perception is 
 The journey from visual perception to higher cognition also touches on the limitations and enhancements of these processes. For example, how do optical illusions trick our perception, and what does this reveal about the underlying cognitive mechanisms? Conversely, how can understanding these pathways lead to technologies and interventions that enhance cognitive function or compensate for impairments?
 
 Notably, the advent of vision-language models marks a significant stride in research on visual abstract reasoning. For instance, the ability of large language models to tackle tasks like Raven's Progressive Matrices — a benchmark for evaluating human abstract reasoning — underscores the potential of these technologies to achieve a level of visual intelligence akin to that of humans. Our research group is keen on further exploring various machine models to compare their capabilities with human cognitive processes, aiming to deepen our understanding of the neural mechanisms underpinning high-level cognitive functions.
+
+_Image from [Huth et al., Nature, 2016](https://www.nature.com/articles/nature17637)_
+{style="text-align: right; font-size: 12px;"}
