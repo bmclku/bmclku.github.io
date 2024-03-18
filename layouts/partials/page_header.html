@@ -57,7 +57,7 @@
 {{else}}
   {{ $image_container = "article-container" }}
   <!-- {{ $image = $featured.Fit "720x2500" }} -->
-  {{ $image = $featured }}
+  {{ $image = $featured.Resize "720x2500" }}
 {{end}}
 {{ if ne $image.MediaType.SubType "gif" }}{{ $image = $image.Process "webp" }}{{ end }}
 
