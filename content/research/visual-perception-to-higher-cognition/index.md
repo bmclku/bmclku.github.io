@@ -1,8 +1,9 @@
 ---
 title: Visual Perception to Higher Cognition
-date: 
+# date: 
 image:
   focal_point: 'top'
+wiehgt: 30
 ---
 
 The investigation of how basic sensory experiences evolve into high-level cognitive functions unveils a compelling area of scientific inquiry. This area of study probes into the processes through which we interpret visual stimuli from our environment and integrate these with inputs from other senses, thus enabling complex cognitive tasks such as problem-solving and nuanced social interactions. 
