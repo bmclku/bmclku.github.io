@@ -4,7 +4,7 @@ date:
 show_date: false
 weight: 20
 image:
-  caption: 'Photo by [Geo](https://github.com/gcushen/)'
+#   caption: 'Photo by [Geo](https://github.com/gcushen/)'
   focal_point: 'Center'
   preview_only: false
   alt_text: An optional description of the image for screen readers.
