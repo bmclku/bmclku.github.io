@@ -1,6 +1,7 @@
 ---
 title: Visual Perception to Higher Cognition
-# date: 
+date: 
+show_date: false
 image:
   focal_point: 'top'
 wiehgt: 30

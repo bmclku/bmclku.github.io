@@ -1,6 +1,7 @@
 ---
 title: Biologically Plausible Models
-# date: 
+date: 
+show_date: false
 weight: 20
 ---
 
