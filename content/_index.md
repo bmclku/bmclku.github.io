@@ -90,4 +90,6 @@ sections:
         {{% cta cta_link="./people/" cta_text="Meet the team →" %}}
     design:
       columns: '1'
+      spacing:
+        padding: ["3em", 0, "3em", 0]
 ---
