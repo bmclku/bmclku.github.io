@@ -35,17 +35,17 @@
       <a href="{{$link}}" {{ $target | safeHTMLAttr }}>{{ $item.Title }}</a>
     </div>
 
-    <!-- {{ with $summary }}
+    {{ with $summary }}
     <a href="{{ $link }}" {{ $target | safeHTMLAttr }} class="summary-link">
       <div class="article-style">
         {{.}}
       </div>
     </a>
-    {{ end }} -->
+    {{ end }}
 
     <div class="stream-meta article-metadata">
 
-      {{ if eq $item.Type "event" }}
+      <!-- {{ if eq $item.Type "event" }}
       <div>
         <span>
           {{ partial "functions/get_event_dates" $item }}
@@ -55,7 +55,7 @@
         <span>{{ . }}</span>
         {{ end }}
       </div>
-      {{ end }}
+      {{ end }} -->
 
       {{ if and $show_authors_only $item.Params.authors }}
       <div>
