@@ -4,7 +4,10 @@ date:
 show_date: false
 weight: 20
 image:
-  caption: "yaho"
+  caption: 'Photo by [Geo](https://github.com/gcushen/)'
+  focal_point: 'Center'
+  preview_only: false
+  alt_text: An optional description of the image for screen readers.
 ---
 
 Exploring how psychological and neuroscientific knowledge can advance machine vision models presents a promising research direction. Our group is interested in investigating machine models that not only mirror biological systems but also provide tangible advantages for applications in the real world.
