@@ -1,7 +1,7 @@
 ---
 title: Robust Visual Perception
 date: 
-hide_date: true
+show_date: false
 image:
   focal_point: 'top'
 weight: 10
