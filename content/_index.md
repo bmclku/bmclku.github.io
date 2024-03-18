@@ -91,5 +91,5 @@ sections:
     design:
       columns: '1'
       spacing:
-        padding: ["3em", 0, "3em", 0]
+        padding: ["1em", 0, "1em", 0]
 ---
