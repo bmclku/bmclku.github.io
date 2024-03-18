@@ -59,7 +59,8 @@
   {{ $query = where $query "Date" "<" now }}
 {{ end }}
 
-{{ $count := len $query }}
+<!-- {{ $count := len $query }} -->
+{{ $count := 2 }}
 
 {{/* Sort */}}
 {{ $sort_by := $block.content.sort_by | default "Date" }}
@@ -110,7 +111,7 @@
     {{ end }}
 
     {{ $archive_text := $block.content.archive.text | default (i18n $i18n) | default "See all" }}
-    bb
+    
     <div class="see-all">
       <a href="{{ $archive_link }}">
         {{ $archive_text | emojify }}
