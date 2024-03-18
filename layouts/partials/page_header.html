@@ -68,8 +68,8 @@
   <p class="page-subtitle">{{ . | markdownify | emojify }}</p>
   {{end}}
 
-  <!-- {{ partial "page_metadata" (dict "page" $page "is_list" 0 "share" true) }}
-  {{ partial "page_links_div.html" $page }} -->
+  {{ partial "page_metadata" (dict "page" $page "is_list" 0 "share" true) }}
+  {{ partial "page_links_div.html" $page }}
 </div>
 
 {{/* Featured image */}}
@@ -96,9 +96,9 @@
   <p class="page-subtitle">{{ . | markdownify | emojify }}</p>
   {{end}}
 
-  <!-- {{ if not .IsNode }}
+  {{ if not .IsNode }}
     {{ partial "page_metadata" (dict "page" $page "is_list" 0 "share" true) }}
     {{ partial "page_links_div.html" $page }}
-  {{end}} -->
+  {{end}}
 </div>
 {{end}}
