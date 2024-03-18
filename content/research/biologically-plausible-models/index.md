@@ -4,8 +4,7 @@ date:
 show_date: false
 weight: 20
 image:
-  preview-only: false
-  caption: '[Yamins and DiCarlo, Nature Neuroscience, 2016](https://www.nature.com/articles/nn.4244)'
+#   caption: '[Yamins and DiCarlo, Nature Neuroscience, 2016](https://www.nature.com/articles/nn.4244)'
   alt_text: 'wat'
 ---
 

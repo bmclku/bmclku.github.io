@@ -56,7 +56,8 @@
   {{ $image := $featured.Fit "2560x2560" }}
 {{else}}
   {{ $image_container = "article-container" }}
-  {{ $image = $featured.Fit "720x2500" }}
+  <!-- {{ $image = $featured.Fit "720x2500" }} -->
+  {{ $image = $featured }}
 {{end}}
 {{ if ne $image.MediaType.SubType "gif" }}{{ $image = $image.Process "webp" }}{{ end }}
 
