@@ -77,7 +77,7 @@
     {{ $resource := partial "blox-core/functions/get_featured_image.html" $item }}
     {{ with $resource }}
       <!-- {{ $image := .Resize "150x" }} -->
-      {{ $image := .Resize "1000x" }}
+      {{ $image := . }}
       {{ if ne $image.MediaType.SubType "gif" }}{{ $image = $image.Process "webp" }}{{ end }}
       <a href="{{$link}}" {{ $target | safeHTMLAttr }}>
         <img src="{{ $image.RelPermalink }}" height="{{ $image.Height }}" width="{{ $image.Width }}"
