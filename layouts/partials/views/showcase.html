@@ -38,7 +38,7 @@
       <div class="section-subheading article-title mb-0 mt-0">
         {{- if $do_link}}<a href="{{ $link }}" {{ $target | safeHTMLAttr }}>{{end -}}
         {{ $item.Title | markdownify | emojify }}
-        {{- if $do_link}}kk</a>{{end -}}
+        {{- if $do_link}}</a>{{end -}}
       </div>
 
       {{ with $summary }}
@@ -62,8 +62,8 @@
         {{ if ne $image.MediaType.SubType "gif" }}{{ $image = $image.Process "resize 540x webp" }}{{ end }}
         {{if $do_link}}<a href="{{ $link }}" {{ $target | safeHTMLAttr }}>{{end}}
           <img src="{{ $image.RelPermalink }}" height="{{ $image.Height }}" width="{{ $image.Width }}"
-              alt="{{ $item.Title }}" loading="lazy" style="width: 540px; height: auto; object-fit: cover;">
-        {{if $do_link}}mm</a>{{end}}
+              alt="{{ $item.Title }}" loading="lazy" style="width: 320px; height: auto; object-fit: cover;">
+        {{if $do_link}}</a>{{end}}
       {{end}}
     </div>
   </div>
