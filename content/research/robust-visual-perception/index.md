@@ -1,6 +1,6 @@
 ---
 title: Robust Visual Perception
-# date: 
+date: 
 hide_date: true
 image:
   focal_point: 'top'
