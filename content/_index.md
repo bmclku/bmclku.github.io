@@ -74,7 +74,8 @@ sections:
       order: desc
       page_type: research
     design:
-      view: showcase
+      # view: showcase
+      view: masonry
       columns: '1'
       background:
         color: '#FFFFFF'
