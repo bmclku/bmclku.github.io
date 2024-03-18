@@ -3,9 +3,6 @@ title: Biologically Plausible Models
 date: 
 show_date: false
 weight: 20
-image:
-#   caption: '[Yamins and DiCarlo, Nature Neuroscience, 2016](https://www.nature.com/articles/nn.4244)'
-  alt_text: 'wat'
 ---
 
 Exploring how psychological and neuroscientific knowledge can advance machine vision models presents a promising research direction. Our group is interested in investigating machine models that not only mirror biological systems but also provide tangible advantages for applications in the real world.
@@ -19,4 +16,4 @@ The rapid advancements in deep learning techniques has sparked debate over the s
 Developing machine models that are inspired by biological principles not only has the potential to enhance machine performance but also offers unique perspectives on certain problems. This approach involves integrating biological design principles, such as recurrent processing and predictive coding-based top-down feedback mechanisms, as well as the adoption of ecological training regimes that emulate human developmental progression.
 
 _Image from [Yamins and DiCarlo, Nature Neuroscience, 2016](https://www.nature.com/articles/nn.4244)_
-{style="text-align: right; font-size: 10px;"}
+{style="text-align: right; font-size: 12px;"}
