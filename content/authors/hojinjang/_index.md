@@ -57,10 +57,10 @@ education:
 social:
   - icon: envelope
     icon_pack: fas
-    link: hojin4671@korea.ac.kr
+    link: 'mailto:hojin4671@korea.ac.kr' 
   - icon: cv
     icon_pack: ai
-    link: files/cv.pdf
+    link: files/CV_HojinJang.pdf
   - icon: google-scholar
     icon_pack: ai
     link: https://scholar.google.com/citations?user=nVNpKUkAAAAJ&hl=en
