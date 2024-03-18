@@ -17,3 +17,6 @@ Interestingly, it is crucial to recognize that many machine vision models have b
 The rapid advancements in deep learning techniques has sparked debate over the significance of the brain in understanding and modeling intelligence. Despite some machine models achieving remarkable performance from purely engineering-driven approaches, we believe that they still lack essential components of human vision, which could be pivotal for enhancing their efficacy and reliability.
 
 Developing machine models that are inspired by biological principles not only has the potential to enhance machine performance but also offers unique perspectives on certain problems. This approach involves integrating biological design principles, such as recurrent processing and predictive coding-based top-down feedback mechanisms, as well as the adoption of ecological training regimes that emulate human developmental progression.
+
+_Image from [Yamins and DiCarlo, Nature Neuroscience, 2016](https://www.nature.com/articles/nn.4244)_
+{style="color: red"}
