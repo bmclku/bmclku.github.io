@@ -45,7 +45,7 @@
 
     <div class="stream-meta article-metadata">
 
-      <!-- {{ if eq $item.Type "event" }}
+      {{ if eq $item.Type "event" }}
       <div>
         <span>
           {{ partial "functions/get_event_dates" $item }}
@@ -55,15 +55,15 @@
         <span>{{ . }}</span>
         {{ end }}
       </div>
-      {{ end }} -->
+      {{ end }}
 
-      {{ if and $show_authors_only $item.Params.authors }}
+      <!-- {{ if and $show_authors_only $item.Params.authors }}
       <div>
         {{ partial "page_metadata_authors" $item }}
       </div>
       {{ else if not $show_authors_only }}
         {{ partial "page_metadata" (dict "page" $item "is_list" 1) }}
-      {{ end }}
+      {{ end }} -->
     </div>
 
     {{ if $has_attachments }}
