@@ -1,7 +1,7 @@
 ---
 title: Robust Visual Perception
 # date: 
-showthedate: flase
+hide_date: true
 image:
   focal_point: 'top'
 weight: 10

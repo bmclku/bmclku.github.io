@@ -1,7 +1,6 @@
 ---
 title: Visual Perception to Higher Cognition
 # date: 
-showthedate: flase
 image:
   focal_point: 'top'
 wiehgt: 30

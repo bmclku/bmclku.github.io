@@ -1,7 +1,6 @@
 ---
 title: Biologically Plausible Models
 # date: 
-showthedate: flase
 weight: 20
 ---
 
