@@ -6,7 +6,7 @@
 {{/* Display superuser if superuser exists and page authors are not explicitly specified. */}}
 {{/* Otherwise, display first author if a profile for them exists. */}}
 
-<!-- {{ if and (not .Params.authors) (.Scratch.Get "superuser_username") }}
+{{ if and (not .Params.authors) (.Scratch.Get "superuser_username") }}
   {{ $author_page := site.GetPage (printf "/%s/%s" "authors" (.Scratch.Get "superuser_username")) }}
   {{ partial "page_author_card" (dict "author_page" $author_page) }}
 {{ else if .Params.authors }}
@@ -14,6 +14,6 @@
   {{ range $author_obj := (.GetTerms $taxonomy) }}
     {{ partial "page_author_card" (dict "author_page" $author_obj.Page) }}
   {{ end }}
-{{ end }} -->
+{{ end }}
 
 {{end}}{{/* Show profile block */}}
