@@ -35,21 +35,21 @@
       <a href="{{$link}}" {{ $target | safeHTMLAttr }}>{{ $item.Title }}</a>
     </div>
 
-    {{ with $summary }}
+    <!-- {{ with $summary }}
     <a href="{{ $link }}" {{ $target | safeHTMLAttr }} class="summary-link">
       <div class="article-style">
         {{.}}
       </div>
     </a>
-    {{ end }}
+    {{ end }} -->
 
     <div class="stream-meta article-metadata">
 
       {{ if eq $item.Type "event" }}
       <div>
-        <!-- <span>
+        <span>
           {{ partial "functions/get_event_dates" $item }}
-        </span> -->
+        </span>
         {{ with $item.Params.location }}
         <span class="middot-divider"></span>
         <span>{{ . }}</span>
@@ -78,7 +78,7 @@
     {{ with $resource }}
       {{ $image := .Resize "150x" }}
       {{ if ne $image.MediaType.SubType "gif" }}{{ $image = $image.Process "webp" }}{{ end }}
-      <a href="{{$link}}" {{ $target | safeHTMLAttr }}>haha
+      <a href="{{$link}}" {{ $target | safeHTMLAttr }}>
         <img src="{{ $image.RelPermalink }}" height="{{ $image.Height }}" width="{{ $image.Width }}"
             alt="{{ $item.Title }}" loading="lazy">
       </a>
