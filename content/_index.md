@@ -7,7 +7,7 @@ type: landing
 sections:
   - block: markdown
     content:
-      title: Welcome to the Human-Machine Vision Lab!
+      title: <span style='background-color: rgba(0,0,0,.5); color: #fff;'>Welcome to the Human-Machine Vision Lab!</span>
       text: 고려대학교 인간-기계 비전 연구실 사이트 방문을 환영합니다.
     design:
       spacing:
