@@ -14,6 +14,7 @@ sections:
           - Principal Investigator
           - Postdoctoral Researcher
           - Graduate Students
+          - Research Interns
           - Alumni
       sort_by: Params.last_name
       sort_ascending: true
