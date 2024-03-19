@@ -8,11 +8,11 @@
 {{ $columns := $block.Params.design.columns | default "2" }}
 
 {{ if ne $columns "1" }}
-  <div class="col-12 col-lg-8">
-    {{ $block.Content }}
+  <div class="col-12 col-lg-8" style="background-color: rgba(0,0,0,.5); color: #fff;">
+    {{ $block.Content }} ?
   </div>
 {{ else }}
   <div class="col-12" style="background-color: rgba(0,0,0,.5); color: #fff;">
-    {{ $block.Content }}
+    {{ $block.Content }} ?
   </div>
 {{ end }}
