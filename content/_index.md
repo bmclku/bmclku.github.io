@@ -8,7 +8,7 @@ sections:
   - block: markdown
     content:
       title: Welcome to the Human-Machine Vision Lab!
-      text: 고려대학교 인간-기계 비전 연구실 사이트 방문을 환영합니다.
+      text: 고려대학교 인간-기계 비전 연구실 사이트 방문을 환영합니다👋
     design:
       spacing:
         padding: ["3em", 0, "3em", 0]
