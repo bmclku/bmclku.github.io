@@ -26,7 +26,7 @@ sections:
     content:
       # title: About
       text: |
-        Our team endeavors to uncover the complex computational dynamics underlying <span style="color: #800000; font-weight:bold;">visual cognition in both humans and machines</span>. This pursuit involves delving into the computational principles and neural mechanisms within the brain that enable stable visual representations of our environment. In parallel, we leverage understanding from human cognition to advance machine models. As machines become integral to our daily lives and play a crucial role in society, the demand for trustworthy, human-compatible machine models cannot be overstated. We envision a future where machines and humans work together seamlessly, with technology augmenting human tasks and activities. If our vision aligns with your academic or professional pursuits, feel free to <b>[contact](contact)</b> the PI to discuss collaboration opportunities or to learn more about becoming a member of our team.
+        Our team endeavors to uncover the complex computational dynamics underlying <span style="color: #a52a2a; font-weight:bold;">visual cognition in both humans and machines</span>. This pursuit involves delving into the computational principles and neural mechanisms within the brain that enable stable visual representations of our environment. In parallel, we leverage understanding from human cognition to advance machine models. As machines become integral to our daily lives and play a crucial role in society, the demand for trustworthy, human-compatible machine models cannot be overstated. We envision a future where machines and humans work together seamlessly, with technology augmenting human tasks and activities. If our vision aligns with your academic or professional pursuits, feel free to <b>[contact](contact)</b> the PI to discuss collaboration opportunities or to learn more about becoming a member of our team.
 
         Our current research focus areas:
         - Examining the robust nature of human object and face recognition
@@ -47,11 +47,10 @@ sections:
     content:
       title: Latest News
       text: |
-        <div><b>March 2024</b>
+        <b>March 2024</b>
           - Our paper "Improved modeling of human vision by incorporating robustness to blur in convolutional neural networks" has been published in <i>Nature Communications</i>!
           - The Human-Machine Vision Lab's website has launched.
           - Hojin Jang has been appointed to the position of Assistant Professor in the Department of Brain and Cognitive Engineering at Korea University.
-        </div>
     design:
       columns: '1'
       background:
