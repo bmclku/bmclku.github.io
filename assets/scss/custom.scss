@@ -13,10 +13,11 @@
   width: 45em;
 }
 
-.home-section > .content {
+.markdown > .content {
+  background-color: rgba(0,0,0,.5); 
+  // color: #fff;
+  color: #000;
   width: 45em;
-  max-width: calc(100% - 4em);
-  margin: 0 auto;
 }
 
 .avatar-circle {
