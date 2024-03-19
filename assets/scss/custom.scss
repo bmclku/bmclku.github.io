@@ -4,6 +4,12 @@
   // height: auto;
   text-align: center;
   object-fit: fill;
+
+  &-content {               
+    padding: 16px;
+    background-color: rgba(0,0,0,.5); 
+    color: #fff;
+  }
 }
 
 .frontbanner-content {
