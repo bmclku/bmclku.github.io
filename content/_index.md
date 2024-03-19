@@ -11,7 +11,7 @@ sections:
       text: 고려대학교 인간-기계 비전 연구실 사이트 방문을 환영합니다.
     design:
       spacing:
-        padding: ["4em", 0, "4em", 0]
+        padding: ["2em", 0, "2em", 0]
         margin: [0, 0, 0, 0]
       css_class: "frontbanner dark"
       background:
