@@ -11,7 +11,12 @@
   color: #fff;
 }
 
+.frontbanner > .content {
+  background-color: rgba(0,0,0,.5); 
+  color: #fff;
+}
+
 .avatar-circle {
   // border-radius: 50%;
-  border-radius: 25%;
+  border-radius: 0%;
 }
