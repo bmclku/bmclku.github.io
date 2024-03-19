@@ -7,13 +7,11 @@ show_date: false
 wiehgt: 30
 ---
 
-The investigation of how basic sensory experiences evolve into high-level cognitive functions unveils a compelling area of scientific inquiry. This area of study probes into the processes through which we interpret visual stimuli from our environment and integrate these with inputs from other senses, thus enabling complex cognitive tasks such as problem-solving and nuanced social interactions. 
+Exploring how simple sensory experiences turn into complex thinking is a fascinating topic for vision science. Researchers investigate how people make sense of object relationships, interpret and express emotions through facial expressions, navigate busy streets and sign reading, or appreciate the aesthetic value in art and nature.
 
 <!--more-->
 
-At the heart of this exploration is the understanding that visual perception is not merely about seeing but involves a sophisticated network of cognitive processes. These processes interpret and give meaning to what we see, integrating visual information with prior knowledge, experiences, and expectations.
-
-The journey from visual perception to higher cognition also touches on the limitations and enhancements of these processes. For example, how do optical illusions trick our perception, and what does this reveal about the underlying cognitive mechanisms? What role do attentional mechanisms play in the efficacy of the human visual system, and how do these mechanisms contrast with those utilized in deep learning models? Conversely, how can understanding these pathways lead to technologies and interventions that enhance cognitive function or compensate for impairments?
+At the heart of this exploration is the understanding that visual perception is not merely about seeing but involves a sophisticated network of cognitive processes. These processes interpret and give meaning to what we see, integrating visual information with prior knowledge, experiences, and expectations. This gives rise to various research questions. For instance, how do optical illusions mislead our perception and what does this reveal about our brain's cognitive functions? How do attentional mechanisms contribute to our high-level cognitive processes, and how do these mechanisms differ from those employed in deep learning models?
 
 Notably, the advent of vision-language models marks a significant stride in research on visual abstract reasoning. For instance, the ability of large language models to tackle tasks like Raven's Progressive Matrices — a benchmark for evaluating human abstract reasoning — underscores the potential of these technologies to achieve a level of visual intelligence akin to that of humans. Our research group is keen on further exploring various machine models to compare their capabilities with human cognitive processes, aiming to deepen our understanding of the neural mechanisms underpinning high-level cognitive functions.
 
