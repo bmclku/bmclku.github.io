@@ -6,11 +6,11 @@
   object-fit: fill;
 }
 
-// .frontbanner-div {
-//   background-color: rgba(0,0,0,.5); 
-//   color: #fff;
-// }
-
+.frontbanner > .content {
+  background-color: rgba(0,0,0,.5); 
+  color: #fff;
+  width: 45em;
+}
 
 .home-section > .content {
   width: 45em;
