@@ -47,7 +47,7 @@ sections:
     content:
       title: Latest News
       text: |
-        ##March 2024
+        ## March 2024
           - Our paper "Improved modeling of human vision by incorporating robustness to blur in convolutional neural networks" has been published in <i>Nature Communications</i>!
           - The Human-Machine Vision Lab's website has launched.
           - Hojin Jang has been appointed to the position of Assistant Professor in the Department of Brain and Cognitive Engineering at Korea University.
