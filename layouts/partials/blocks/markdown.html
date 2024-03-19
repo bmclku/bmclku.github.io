@@ -10,10 +10,10 @@
 
 {{ if ne $columns "1" }}
   <div class="col-12 col-lg-8">
-    {{ $text }}yaho
+    {{ $text }}
   </div>
 {{ else }}
   <div class="col-12">
-    {{ $text }} {{ $block }}
+    {{ $text }} {{ $block }}  {{ $page }}
   </div>
 {{ end }}
