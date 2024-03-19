@@ -7,6 +7,7 @@ type: landing
 sections:
   - block: markdown
     content:
+      title: 
       subtitle: Welcome to the Human-Machine Vision Lab!
       text: 고려대학교 인간-기계 비전 연구실 사이트 방문을 환영합니다.
     design:
