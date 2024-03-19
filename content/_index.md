@@ -80,7 +80,7 @@ sections:
       background:
         color: '#FFFFFF'
       spacing:
-        padding: ["3em", 0, "3em", 0]
+        padding: ["3em", 0, "1em", 0]
   
   - block: markdown
     content:
