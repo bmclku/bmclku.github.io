@@ -40,7 +40,7 @@ sections:
         color: "#FFFFFF"
       spacing:
         # padding: ["20px", 0, "20px", 0]
-        padding: ["3em", 0, "3em", 0]
+        padding: ["2em", 0, "2em", 0]
         margin: [0, 0, 0, 0]
 
   - block: markdown
@@ -55,7 +55,7 @@ sections:
       background:
         color: '#f6f9fb'
       spacing:
-        padding: ["3em", 0, "3em", 0]
+        padding: ["2em", 0, "2em", 0]
 
   - block: collection
     content:
@@ -80,7 +80,7 @@ sections:
       background:
         color: '#FFFFFF'
       spacing:
-        padding: ["3em", 0, "2em", 0]
+        padding: ["2em", 0, "2em", 0]
   
   - block: markdown
     content:
