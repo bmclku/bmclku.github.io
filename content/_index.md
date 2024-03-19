@@ -52,7 +52,6 @@ sections:
           - The Human-Machine Vision Lab's website has launched.
           - Hojin Jang has been appointed to the position of Assistant Professor in the Department of Brain and Cognitive Engineering at Korea University.
         </div>
-</div>
     design:
       columns: '1'
       background:
