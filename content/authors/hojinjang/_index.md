@@ -86,8 +86,12 @@ user_groups:
   - Principal Investigator
 ---
 
-At the center of my academic journey has been a deep curiosity to puzzle out the intricate algorithms that underpin human visual perception and cognition. As we enter an era where machine vision systems increasingly intertwine with our daily lives, it offers a fascinating opportunity to explore the fundamental principles of vision science by comparing human and machine vision. Our approach employs a blend of behavioral and psychophysical experiments, neuroimaging techniques, as well as cutting-edge computational modeling. 
+At the center of my academic journey has been a deep curiosity to puzzle out the intricate algorithms that underpin human visual perception and cognition. In this pursuit, I leverage a combination of behavioral and psychophysical experiments, neuroimaging techniques, and state-of-the-art computational modeling. Particularly, as we enter an era where machine vision systems become increasingly integrated into our daily lives, I see a compelling opportunity to investigate the fundamental principles of vision science through the lens of comparing human and machine vision.
 
-Should acknowledge and appreciate my formal advisors, including Prof. Jong-Hwan Lee, Prof. Frank Tong, Dr. Xavier Boix, and Prof. Pawan Sinha. My engineering and neuroscience backgrounds origintate their roots. Please refer to their websites if interested in their research areas.
+I should also acknowledge that my academic progress has been greatly influenced by the guidance of [Prof. Jong-Hwan Lee](https://bspl-ku.github.io/), [Prof. Frank Tong](http://www.psy.vanderbilt.edu/tonglab/web/Home.html), [Dr. Xavier Boix](https://www.mit.edu/~xboix/), and [Prof. Pawan Sinha](https://www.sinhalab.mit.edu/). Their mentorship has not only enriched my understanding of engineering and neuroscience but has also set a solid foundation for my research. Those interested in their contributions to science are encouraged to visit their websites.
+
+
+
+_Image from [Huth et al., Nature, 2016](https://www.nature.com/articles/nature17637)_
 
 Our lab encourages an environment where making mistakes is part of the learning process, where unique ideas are welcome, and where diverse perspectives are valued. We are dedicated to enhancing diversity, equity, and inclusion in science, recognizing the vital role of various backgrounds and experiences.
