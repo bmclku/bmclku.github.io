@@ -7,7 +7,7 @@ type: landing
 sections:
   - block: markdown
     content:
-      title: <font size=5>Welcome to the Human-Machine Vision Lab!</font>
+      title: <font size=7>Welcome to the Human-Machine Vision Lab!</font>
       text: 고려대학교 인간-기계 비전 연구실 사이트 방문을 환영합니다👋
     design:
       spacing:
