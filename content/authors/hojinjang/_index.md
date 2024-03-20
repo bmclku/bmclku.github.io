@@ -90,8 +90,4 @@ At the center of my academic journey has been a deep curiosity to puzzle out the
 
 I should also acknowledge that my academic progress has been greatly influenced by the guidance of [Prof. Jong-Hwan Lee](https://bspl-ku.github.io/), [Prof. Frank Tong](http://www.psy.vanderbilt.edu/tonglab/web/Home.html), [Dr. Xavier Boix](https://www.mit.edu/~xboix/), and [Prof. Pawan Sinha](https://www.sinhalab.mit.edu/). Their mentorship has not only enriched my understanding of engineering and neuroscience but has also set a solid foundation for my research. Those interested in their contributions to science are encouraged to visit their websites.
 
-
-
-_Image from [Huth et al., Nature, 2016](https://www.nature.com/articles/nature17637)_
-
 Our lab encourages an environment where making mistakes is part of the learning process, where unique ideas are welcome, and where diverse perspectives are valued. We are dedicated to enhancing diversity, equity, and inclusion in science, recognizing the vital role of various backgrounds and experiences.
