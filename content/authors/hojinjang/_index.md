@@ -88,6 +88,6 @@ user_groups:
 
 At the center of my academic journey has been a deep curiosity to puzzle out the intricate algorithms that underpin human visual perception and cognition. As we enter an era where machine vision systems increasingly intertwine with our daily lives, it offers a fascinating opportunity to explore the fundamental principles of vision science by comparing human and machine vision. Our approach employs a blend of behavioral and psychophysical experiments, neuroimaging techniques, as well as cutting-edge computational modeling. 
 
-Should acknowledge and appreciate my formal advisors, including Prof. Jong-Hwan Lee, Prof. Frank Tong, Dr. Xavier Boix, and Prof. Pawan Sinha. 
+Should acknowledge and appreciate my formal advisors, including Prof. Jong-Hwan Lee, Prof. Frank Tong, Dr. Xavier Boix, and Prof. Pawan Sinha. My engineering and neuroscience backgrounds origintate their roots. Please refer to their websites if interested in their research areas.
 
 Our lab encourages an environment where making mistakes is part of the learning process, where unique ideas are welcome, and where diverse perspectives are valued. We are dedicated to enhancing diversity, equity, and inclusion in science, recognizing the vital role of various backgrounds and experiences.
