@@ -36,7 +36,7 @@ education:
       year: 2024 - Present
     - course: Postdoctoral Researcher
       institution: Brain and Cognitive Sciences, MIT
-      year: 2021 - 2024
+      year: 2022 - 2024
     - course: Postdoctoral Researcher
       institution: Psychology, Vanderbilt University
       year: 2021 - 2022
