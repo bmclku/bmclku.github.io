@@ -1,5 +1,5 @@
 ---
-title: Robust Visual Perception
+title: <p style="text-align: center;">Robust Visual Perception</p>
 date: 
 show_date: false
 # image:

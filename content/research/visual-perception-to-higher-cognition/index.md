@@ -2,9 +2,9 @@
 title: Visual Perception to Higher Cognition
 date: 
 show_date: false
+wiehgt: 3
 # image:
 #   focal_point: 'top'
-wiehgt: 3
 ---
 
 Exploring how simple sensory experiences turn into complex thinking is a fascinating topic for vision science. Researchers investigate how people make sense of object relationships, interpret and express emotions through facial expressions, navigate busy streets and sign reading, or appreciate the aesthetic value in art and nature.
