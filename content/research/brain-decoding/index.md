@@ -2,7 +2,7 @@
 title: Brain Decoding
 date: 
 show_date: false
-wiehgt: 4
+wiehgt: 100
 ---
 
 Brain decoding techniques offer an unprecedented window into our underlying cognitive states, perceptions, and intentions. These techniques enable researchers to access and interpret an individual's mental processes without relying on subjective self-reports, thus often referred to as "mind reading." 
