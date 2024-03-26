@@ -73,17 +73,6 @@ sections:
   
   - block: markdown
     content:
-      title:
-      subtitle:
-      text: |
-        {{% cta cta_link="./people/" cta_text="Meet the team →" %}}
-    design:
-      columns: '1'
-      spacing:
-        padding: [0, 0, 0, 0]
-
-  - block: markdown
-    content:
       title: Latest News
       text: |
         ### March 2024
@@ -96,4 +85,16 @@ sections:
         # color: '#f6f9fb'
       spacing:
         padding: ["2em", 0, "2em", 0]
+        
+  - block: markdown
+    content:
+      title:
+      subtitle:
+      text: |
+        {{% cta cta_link="./people/" cta_text="Meet the team →" %}}
+    design:
+      columns: '1'
+      spacing:
+        padding: [0, 0, 0, 0]
+
 ---
