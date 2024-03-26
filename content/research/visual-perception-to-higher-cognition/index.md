@@ -2,7 +2,7 @@
 title: Visual Perception to Higher Cognition
 date: 
 show_date: false
-wiehgt: 3
+weight: 3
 # image:
 #   focal_point: 'top'
 ---

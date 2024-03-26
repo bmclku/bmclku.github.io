@@ -2,7 +2,7 @@
 title: Brain Decoding
 date: 
 show_date: false
-wiehgt: 500
+weight: 4
 ---
 
 Brain decoding techniques offer an unprecedented window into our underlying cognitive states, perceptions, and intentions. These techniques enable researchers to access and interpret an individual's mental processes without relying on subjective self-reports, thus often referred to as "mind reading." 
@@ -15,5 +15,5 @@ While the potential applications of brain decoding are vast, it is equally impor
 
 Moreover, this reverse engineering approach provides a powerful tool for neuroscientists to better understand the intricate mechanisms of cognition in the brain. By decoding the neural representations of specific cognitive processes, researchers can gain insights into how the brain encodes, processes, and integrates information, leading to a deeper understanding of the neural mechanisms underlying perception, attention, and other complex cognitive functions.
 
-_Image from [Nishimoto et al., Current biology, 2011](https://doi.org/10.1016/j.cub.2011.08.031)_
+_Image from [Nishimoto et al., Current Biology, 2011](https://doi.org/10.1016/j.cub.2011.08.031)_
 {style="text-align: right; font-size: 12px;"}
