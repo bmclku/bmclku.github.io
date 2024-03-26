@@ -1,12 +1,10 @@
 ---
-title: Robust Visual Perception
+title: <center>Robust Visual Perception</center>
 date: 
 show_date: false
 # image:
 #   focal_point: 'top'
 weight: 1
-design:
-    css_class: "research"
 ---
 
 A key characteristic of human visual perception is its robustness. Despite variations in the external environment, our internal visual representations remain stable and consistent. What mechanisms enable this robustness, and how can they be understood? Answering this question is also crucial for developing reliable machine vision systems.
