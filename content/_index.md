@@ -45,20 +45,6 @@ sections:
         # - Understanding high-level semantic cognition 
         # - Decoding human brain activity for insights into the mind
 
-  - block: markdown
-    content:
-      title: Latest News
-      text: |
-        ### March 2024
-          - Our paper "Improved modeling of human vision by incorporating robustness to blur in convolutional neural networks" has been published in <i>Nature Communications</i>!
-          - Hojin Jang has been appointed to the position of Assistant Professor in the Department of Brain and Cognitive Engineering at Korea University and the Human-Machine Vision Lab's website has launched.
-    design:
-      columns: '1'
-      background:
-        color: '#f6f9fb'
-      spacing:
-        padding: ["2em", 0, "2em", 0]
-
   - block: collection
     content:
       title: Research Interests
@@ -80,7 +66,8 @@ sections:
       view: masonry
       columns: '1'
       background:
-        color: '#FFFFFF'
+        # color: '#FFFFFF'
+        color: '#f6f9fb'
       spacing:
         padding: ["2em", 0, "2em", 0]
   
@@ -94,4 +81,19 @@ sections:
       columns: '1'
       spacing:
         padding: [0, 0, 0, 0]
+
+  - block: markdown
+    content:
+      title: Latest News
+      text: |
+        ### March 2024
+          - Our paper "Improved modeling of human vision by incorporating robustness to blur in convolutional neural networks" has been published in <i>Nature Communications</i>!
+          - Hojin Jang has been appointed to the position of Assistant Professor in the Department of Brain and Cognitive Engineering at Korea University and the Human-Machine Vision Lab's website has launched.
+    design:
+      columns: '1'
+      background:
+        color: '#FFFFFF'
+        # color: '#f6f9fb'
+      spacing:
+        padding: ["2em", 0, "2em", 0]
 ---
