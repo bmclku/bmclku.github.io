@@ -28,7 +28,7 @@ sections:
       text: |
         Our team endeavors to uncover the complex computational dynamics underlying <span style="color: #a52a2a; font-weight:bold;">visual cognition in both humans and machines</span>. This pursuit involves delving into the computational principles and neural mechanisms within the brain that enable stable visual representations of our environment. In parallel, we leverage understanding from human cognition to advance machine models. As machines become integral to our daily lives and play a crucial role in society, the demand for trustworthy, human-compatible machine models cannot be overstated. We envision a future where machines and humans work together seamlessly, with technology augmenting human tasks and activities. If our vision aligns with your academic or professional pursuits, feel free to <b>[_contact_](contact)</b> the PI to discuss collaboration opportunities or to learn more about becoming a member of our team.
 
-        고려대학교 인간-기계 비전 연구실은 인간과 기계의 시각 인지 메커니즘을 탐구하고 있습니다. 융합적 접근 방식을 통해 시각 인지와 관련된 행동 및 신경학적 원리를 연구하고 있으며, 이를 바탕으로 인간 중심의 신뢰할 수 있는 인공지능 모델 개발을 목표로 하고 있습니다. 연구실과의 협력 기회나 팀 일원으로의 참여에 관심이 있다면, 연구 책임자에게 이메일([✉️](contact))로 문의해 주시기 바랍니다. 
+        고려대학교 인간-기계 비전 연구실은 인간과 기계의 시각 인지 메커니즘을 탐구하고 있습니다. 심리학 및 뇌공학의 융합적 접근 방식을 통해 시각 인지와 관련된 행동 및 신경학적 원리를 연구하고 있으며, 이를 바탕으로 인간 중심의 신뢰할 수 있는 인공지능 모델 개발을 목표로 하고 있습니다. 연구실과의 협력 기회나 팀 일원으로의 참여에 관심이 있다면, 연구 책임자에게 이메일([✉️](contact))로 문의해 주시기 바랍니다. 
     design:
       columns: '1'
       background:
