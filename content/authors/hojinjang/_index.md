@@ -23,7 +23,7 @@ bio: " "
 interests:
   - Vision Science
   - Computational Cognitive Neuroscience
-  - Deep Learning
+  - Human-AI Comparison
   - Brain Decoding
     
 education:
