@@ -9,8 +9,8 @@ sections:
     content:
       title: Contact
       text: |-
-        <div><b>고려대학교 인간-기계 비전 연구실에서는 인문학적 사고와 공학적 기술을 융합할 수 있는 역량을 가진 대학원생 및 학부 연구생을 모집합니다. 관심 있는 지원자는 이력서와 간략한 연구 계획을 아래 이메일로 송부해 주시기 바랍니다.</b><div>
-
+        <div>고려대학교 인간-기계 비전 연구실에서는 시각 인지 과정에 대한 인문학적 사고와 공학적 기술을 융합할 수 있는 인재를 대학원생 및 학부 연구생으로 모집합니다. 관심 있는 분들은 이력서와 간략한 연구 계획을 아래 이메일로 제출해 주시기 바랍니다.<div>
+        <br>
         <div><b>Graduate (Masters, PhD) Students</b><div>
         <div>Our lab is inviting applications from prospective graduate students, especially those with an enthusiasm for exploring human visual perception and cognition, and a background or keen interest in machine/deep learning. Selected candidates will have the unique chance to engage in deep neural network modeling, neuroimaging data analysis, and the design of a variety of psychological experiments. If you are interested in joining our team, please email your CV and a research statement.</div>
         <br>
