@@ -2,7 +2,7 @@
 title: Brain Decoding
 date: 
 show_date: false
-weight: 4
+weight: 2
 ---
 
 Brain decoding techniques offer a novel approach to accessing and interpreting the mental processes of perception and cognition. These methods allow researchers to decode the complex mental processes without the need for individuals to verbally articulate their thoughts, thus often referred to as "neural mind reading." 
