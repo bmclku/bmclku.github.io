@@ -10,12 +10,12 @@ sections:
       title: Contact
       text: |-
         <div><b>Graduate (Masters, PhD) Students</b><div>
-        <div>Our lab is inviting applications from prospective graduate students, especially those with an enthusiasm for exploring human visual perception and cognition, and a background or keen interest in machine/deep learning. Selected candidates will have the unique chance to engage in deep neural network modeling, neuroimaging data analysis, and the design of a variety of psychological experiments. If you are interested in joining our team, please email your CV and a research statement.</div>
+        <div>Our lab is inviting applications from prospective graduate students, especially those with an enthusiasm for exploring human visual perception and cognition, and a background or keen interest in machine/deep learning. Selected candidates will have the unique chance to engage in deep neural network modeling, neuroimaging data analysis, and the design of a variety of psychological experiments. If you are interested in joining our team, please email your CV, transcript, and a summary of your research interests.</div>
         <br>
         <div><b>Research Interns</b></div>
-        <div>We are also seeking research interns who are passionate about exploring the intersections of human and machine vision. This internship provides a unique opportunity not just for exploration in this interdisciplinary domain but also for offering a window into the Ph.D. journey with our team, providing students with a meaningful preview. If interested, please send an email with your CV and a summary of your research interests.</div>
+        <div>We are also seeking research interns who are passionate about exploring the intersections of human and machine vision. This internship provides a unique opportunity not just for exploration in this interdisciplinary domain but also for offering a window into the Ph.D. journey with our team, providing students with a meaningful preview. If interested, please send an email with your CV, transcript, and a brief summary of your research interests.</div>
         <br>
-        <div>고려대학교 인간-기계 비전 연구실에서는 인문학적 사고와 공학적 기술을 융합하는 데 깊은 관심을 가진 대학원생 및 학부 연구생을 모집합니다. 관심 있는 분들은 이력서와 간략한 연구 계획서를 아래 이메일로 제출해 주시기 바랍니다.<div>
+        <div>고려대학교 인간-기계 비전 연구실에서는 인문학적 사고와 공학적 기술을 융합하는 데 깊은 관심을 가진 대학원생 및 학부 연구생을 모집합니다. 관심 있는 분들은 이력서(CV), 성적증명서, 그리고 간단한 연구 계획을 아래 이메일로 보내주시기 바랍니다.<div>
       email: hojin4671@korea.ac.kr
       phone: 02-3290-5921
       address:
