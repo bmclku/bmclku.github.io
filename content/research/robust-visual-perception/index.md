@@ -16,9 +16,9 @@ Imagine a driver navigating through heavy rain or a person searching for a frien
 - Robust visual perception 
 - Face recognition and domain specificity 
 - Visual attention 
-- Any other visual cognitive abilities
+- Other visual cognitive abilities
 
-To achieve this, our group employs diverse psychological methodologies, neuroimaging technologies, and deep learning models to uncover the secrets of human vision. Recent publications highlighting our efforts include [Jang and Tong, Nature Communications, 2024](https://www.nature.com/articles/s41467-024-45679-0) and [Jang and Tong, Nature Communications, 2024](publication/2024_jang_naturecommunications/) and [Jang et al., Neural Computation, 2023](https://doi.org/10.1162/neco_a_01621).
+To achieve this, our group employs diverse psychological methodologies, neuroimaging technologies, and deep learning models to uncover the secrets of human vision. Recent publications highlighting our efforts include [Jang and Tong, Nature Communications, 2024](https://www.nature.com/articles/s41467-024-45679-0) and [Jang et al., Neural Computation, 2023](https://doi.org/10.1162/neco_a_01621).
 
 _Image from [Jang and Tong, Nature Communications, 2024](https://www.nature.com/articles/s41467-024-45679-0)_
 {style="text-align: right; font-size: 12px;"}
