@@ -7,11 +7,11 @@ show_date: false
 weight: 1
 ---
 
-Vision is arguably the most essential sense for perceiving information from the world. Despite significant and dynamic variations in the external environment, our visual system remains stable, consistent, and precise. What mechanisms enable our sophisticated visual system, and how can they be understood? Answering these questions is also crucial for developing reliable machine vision systems.
+Vision is arguably the most important sense for perceiving information from the world. Despite significant variations in the external environment, our visual system remains stable, consistent, and precise. What mechanisms enable our sophisticated visual system, and how can they be understood? Answering these questions is also crucial for developing reliable machine vision models.
 
 <!--more-->
 
-Imagine a driver navigating through heavy rain or a person searching for a friend in a crowd. Humans possess an exceptional ability for robust object recognition, enabling seamless interaction with diverse environments. Despite advances in deep learning, these models often struggle with real-world applications like self-driving cars, video surveillance, and medical imaging. Our lab is dedicated to understanding the mechanisms behind human visual perception. Specifically, we are interested in the following topics:
+Humans possess an exceptional ability for robust object recognition, enabling seamless interaction with diverse environments. For instance, imagine a driver navigating through heavy rain or a person searching for a friend in a crowd. By contrast, despite advances in deep learning, these models often struggle with real-world applications like self-driving cars, video surveillance, and medical imaging. Our lab is dedicated to understanding the mechanisms behind human visual perception. Specifically, we are interested in the following topics:
 
 - Robust visual perception 
 - Face recognition and domain specificity 
