@@ -28,7 +28,7 @@ sections:
       text: |
         Our team aims to uncover the computational dynamics that differentiate high-level cognition in humans and machines. We explore the computational principles and neural mechanisms in the brain that enable effortless interaction with our environment and leverage these insights to advance machine models. As machines become integral to daily life, the demand for trustworthy, human-compatible models cannot be overstated. We envision a future where humans and machines work together seamlessly, with technology augmenting human tasks. If our vision aligns with your goals, please contact([✉️](contact)) the PI to discuss collaboration opportunities or joining our team.
 
-        고려대학교 인간-기계 인지 연구실은 인간과 기계의 고차원 인지 시스템을 비교 분석하여 작동 방식과 인지 과정의 차이를 심층적으로 연구합니다. 심리학과 뇌공학의 융합적 접근을 통해 인지 행동 및 신경학적 원리를 탐구하며, 이를 바탕으로 신뢰할 수 있는 인간 중심의 인공지능 모델을 개발하는 것을 목표로 하고 있습니다. 주요 연구 주제는 i) 고차원 시각 인지, ii) 인간-기계 인지 메커니즘 비교, iii) 인간 중심 AI 모델, iv) 브레인 디코딩입니다. 연구실은 인문학적 사고와 공학적 기술을 융합하고자 하는 대학원생 및 학부 연구생을 환영합니다. 협력 기회나 연구실 참여에 관심이 있으신 분은 연구 책임자에게 이메일([✉️](contact))로 문의해 주시기 바랍니다. 
+        고려대학교 인간-기계 인지 연구실은 인간과 기계의 고차원 인지 시스템을 비교 분석하여 작동 방식과 인지 과정의 차이를 심층적으로 연구합니다. 심리학과 뇌공학의 융합적 접근을 통해 인지 행동 및 신경학적 원리를 탐구하며, 이를 바탕으로 신뢰할 수 있는 인간 중심의 인공지능 모델을 개발하는 것을 목표로 하고 있습니다. 주요 연구 주제는 <b>>고차원 시각 인지</b>, <b>인간-기계 인지 메커니즘 비교</b>, <b>인간 중심 인공지능 모델</b>, <b>브레인 디코딩</b>입니다. 연구실은 인문학적 사고와 공학적 기술을 융합하고자 하는 대학원생 및 학부 연구생을 환영합니다. 협력 기회나 연구실 참여에 관심이 있으신 분은 연구 책임자에게 이메일([✉️](contact))로 문의해 주시기 바랍니다. 
     design:
       columns: '1'
       background:
