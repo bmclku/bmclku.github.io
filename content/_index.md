@@ -35,7 +35,7 @@ sections:
         color: "#FFFFFF"
       spacing:
         # padding: ["20px", 0, "20px", 0]
-        padding: ["2em", "20em", "2em", 0]
+        padding: ["2em", "10em", "2em", "10em"]
         margin: [0, 0, 0, 0]
 
         # Our current research focus areas:
