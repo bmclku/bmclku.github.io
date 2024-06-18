@@ -35,8 +35,8 @@ sections:
         color: "#FFFFFF"
       spacing:
         # padding: ["20px", 0, "20px", 0]
-        padding: ["2em", 0, "2em", 0]
-        margin: [0, "10em", 0, 0]
+        padding: ["2em", "20em", "2em", 0]
+        margin: [0, 0, 0, 0]
 
         # Our current research focus areas:
         # - Examining the robust nature of human object and face recognition
