@@ -1,7 +1,7 @@
 ---
-title: A photo of the Korea University artifact
+title: Sample Image
 
-event: This is a random photo
+event: Test
 event_url: 
 
 location: Korea University
@@ -12,8 +12,8 @@ location: Korea University
 #   postcode: '94305'
 #   country: United States
 
-summary: This is a random pohto
-abstract: To confirm the event page is working
+summary: Test
+abstract: Test
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
