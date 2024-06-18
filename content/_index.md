@@ -66,8 +66,8 @@ sections:
       view: masonry
       columns: '1'
       background:
-        # color: '#FFFFFF'
-        color: '#f6f9fb'
+        color: '#FFFFFF'
+        # color: '#f6f9fb'
       spacing:
         padding: ["2em", 0, "2em", 0]
   
