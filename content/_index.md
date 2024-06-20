@@ -6,7 +6,8 @@ type: landing
 
 design:
   # Section spacing
-  spacing: '10rem'
+  spacing: 
+    padding: ["3em", "10em", "3em", "10em"]
 
 sections:
   - block: markdown
