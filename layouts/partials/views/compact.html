@@ -74,7 +74,7 @@
 
   </div>
   <!-- <div class="ml-3" style="display: flex; justify-content: center; align-items: center; height: 100vh; width: 100%"> -->
-    <div class="ml-3" style="justify-content: center; align-items: center; height: 100vh;">
+    <div class="ml-3" style="display: flex; align-items: center; height: 100vh;">
     {{ $resource := partial "blox-core/functions/get_featured_image.html" $item }}
     {{ with $resource }}
       <!-- {{ $image := .Resize "150x" }} -->
