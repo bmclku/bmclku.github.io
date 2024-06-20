@@ -87,7 +87,7 @@ sections:
         #   - page
       offset: 0
       order: desc
-      page_type: research
+      # page_type: research
     design:
       columns: '1'
       view: showcase
