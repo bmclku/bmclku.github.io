@@ -74,19 +74,19 @@ sections:
       align: center
       subtitle: " "
       text: " "
-      count: 4
+      # count: 4
       filters:
         folders:
           - research
-        author: ''
-        category: ''
-        exclude_featured: false
-        publication_type: ''
-        tag: ''
+        # author: ''
+        # category: ''
+        # exclude_featured: false
+        # publication_type: ''
+        # tag: ''
         # kinds:
         #   - page
-      offset: 0
-      order: desc
+      # offset: 0
+      # order: desc
       # page_type: research
     design:
       columns: '1'
