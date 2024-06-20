@@ -83,6 +83,8 @@ sections:
         exclude_featured: false
         publication_type: ''
         tag: ''
+        kinds:
+          - page
       offset: 0
       order: desc
       page_type: research
