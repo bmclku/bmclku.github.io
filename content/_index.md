@@ -4,6 +4,10 @@ title:
 date: 2022-10-24
 type: landing
 
+design:
+  # Section spacing
+  spacing: '10rem'
+
 sections:
   - block: markdown
     content:
