@@ -58,7 +58,7 @@ sections:
       # view: masonry
       # view: showcase
       view: compact-research
-      columns: '1'
+      columns: '2'
       background:
         color: '#FFFFFF'
         # color: '#f6f9fb'
