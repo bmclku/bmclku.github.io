@@ -92,7 +92,7 @@ sections:
       default_button_index: 0
     design:
       columns: '1'
-      view: card
+      view: showcase
       flip_alt_rows: false
 
   - block: markdown
