@@ -80,10 +80,13 @@
       {{ $image := .Resize "300x" }}
       <!-- {{ $image := . }} -->
       {{ if ne $image.MediaType.SubType "gif" }}{{ $image = $image.Process "webp" }}{{ end }}
+      
+    <div style="display: flex; justify-content: center; align-items: center;">
       <a href="{{$link}}" {{ $target | safeHTMLAttr }}>
         <img src="{{ $image.RelPermalink }}" height="{{ $image.Height }}" width="{{ $image.Width }}"
-            alt="{{ $item.Title }}" loading="lazy" style="display: flex; justify-content: center; align-items: center; height: 100%;">
+            alt="{{ $item.Title }}" loading="lazy"">
       </a>
+    </div>
     {{end}}
   </div>
 </div>
