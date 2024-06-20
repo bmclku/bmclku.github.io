@@ -77,14 +77,14 @@ sections:
       count: 4
       filters:
         folders:
-          - project
+          - research
         author: ''
         category: ''
         exclude_featured: false
         publication_type: ''
         tag: ''
-        kinds:
-          - page
+        # kinds:
+        #   - page
       offset: 0
       order: desc
       page_type: research
