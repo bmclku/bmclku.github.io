@@ -55,9 +55,9 @@ sections:
       order: desc
       page_type: research
     design:
-      # view: masonry
+      view: masonry
       # view: card
-      view: showcase
+      # view: showcase
       # view: compact-research
       columns: '2'
       flip_alt_rows: true
