@@ -15,7 +15,7 @@ sections:
         <div><b>Research Interns</b></div>
         <div>We are also seeking research interns who are passionate about exploring the intersections of human and machine vision. This internship provides a unique opportunity not just for exploration in this interdisciplinary domain but also for offering a window into the Ph.D. journey with our team, providing students with a meaningful preview. If interested, please send an email with your CV, transcript, and a brief summary of your research interests.</div>
         <br>
-        <div>고려대학교 인간-기계 비전 연구실에서는 인문학적 사고와 공학적 기술을 융합하는 데 깊은 관심을 가진 대학원생 및 학부 연구생을 모집합니다. 관심 있는 분들은 이력서(CV), 성적증명서, 그리고 간단한 연구 계획을 아래 이메일로 보내주시기 바랍니다.<div>
+        <div>고려대학교 인간-기계 비전 연구실에서는 인문학적 사고와 공학적 기술을 융합하는 데 깊은 관심을 가진 대학원생 및 학부 연구생을 모집합니다. 심리학 전공자이면서 머신러닝/딥러닝 적용이나 뇌영상 분석에 도전해보고 싶은 분들, 그리고 컴퓨터 공학 전공자로서 인간의 인지 과정을 깊이 탐구하고 싶은 분들 모두 환영합니다. 관심 있는 분들은 이력서(CV), 성적증명서, 그리고 간단한 연구 계획을 아래 이메일로 보내주시기 바랍니다.<div>
       email: hojin4671@korea.ac.kr
       phone: 02-3290-5921
       address:
