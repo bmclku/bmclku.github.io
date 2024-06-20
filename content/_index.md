@@ -90,7 +90,7 @@ sections:
       # page_type: research
     design:
       columns: '1'
-      view: showcase
+      view: card
       flip_alt_rows: false
 
   - block: markdown
