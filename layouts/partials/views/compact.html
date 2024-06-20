@@ -37,7 +37,7 @@
 
     {{ with $summary }}
     <a href="{{ $link }}" {{ $target | safeHTMLAttr }} class="summary-link">
-      <div class="article-style" style="font-size: 16px;">
+      <div class="article-style" style="font-size: s">
         {{.}}
       </div>
     </a>
@@ -73,8 +73,6 @@
     {{ end }}
 
   </div>
-    <!-- <div class="ml-3"> -->
-    <!-- <div class="ml-3" style="display: flex; align-items: center; height: 15vh;"> -->
       <div class="ml-3" style="margin-top: 3%">
     {{ $resource := partial "blox-core/functions/get_featured_image.html" $item }}
     {{ with $resource }}
