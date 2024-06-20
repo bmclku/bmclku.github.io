@@ -71,7 +71,7 @@ sections:
   - block: portfolio
     content:
       title: Research Interests
-      align: center
+      # align: center
       subtitle: " "
       text: " "
       # count: 4
@@ -88,7 +88,7 @@ sections:
       # offset: 0
       # order: desc
       # page_type: research
-      default_button_index: 0
+      # default_button_index: 0
     design:
       columns: '1'
       view: showcase
