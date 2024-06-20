@@ -35,7 +35,7 @@ sections:
         color: "#FFFFFF"
       spacing:
         # padding: ["20px", 0, "20px", 0]
-        padding: ["3em", "12em", "3em", "12em"]
+        padding: ["3em", "0em", "3em", "0em"]
         margin: [0, 0, 0, 0]
 
         # Our current research focus areas:
@@ -70,7 +70,7 @@ sections:
         color: '#FFFFFF'
         # color: '#f6f9fb'
       spacing:
-        padding: ["3em", "8em", "3em", "8em"]
+        padding: ["3em", "0em", "3em", "0em"]
   
   - block: markdown
     content:
@@ -85,7 +85,7 @@ sections:
         color: '#FFFFFF'
         # color: '#f6f9fb'
       spacing:
-        padding: ["3em", "12em", "3em", "12em"]
+        padding: ["3em", "0em", "3em", "0em"]
         
   - block: markdown
     content:
