@@ -4,11 +4,6 @@ title:
 date: 2022-10-24
 type: landing
 
-design:
-  # Section spacing
-  spacing: 
-    padding: ["3em", "10em", "3em", "10em"]
-
 sections:
   - block: markdown
     content:
