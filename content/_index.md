@@ -44,7 +44,7 @@ sections:
       align: center
       subtitle: " "
       text: " "
-      count: 1
+      count: 4
       filters:
         author: ''
         category: ''
@@ -55,12 +55,12 @@ sections:
       order: desc
       page_type: research
     design:
-      # view: masonry
+      view: masonry
       # view: card
       # view: showcase
       # view: compact-research
-      view: article-grid
-      columns: 4
+      # view: article-grid
+      columns: 1
       background:
         color: '#FFFFFF'
         # color: '#f6f9fb'
