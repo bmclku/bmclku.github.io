@@ -56,9 +56,9 @@ sections:
       page_type: research
     design:
       # view: masonry
-      # view: showcase
-      view: compact-research
-      columns: '2'
+      view: showcase
+      # view: compact-research
+      columns: '1'
       background:
         color: '#FFFFFF'
         # color: '#f6f9fb'
