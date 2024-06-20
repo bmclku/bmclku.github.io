@@ -64,7 +64,7 @@ sections:
     design:
       # view: masonry
       # view: showcase
-      view: compact
+      view: compact-event
       columns: '1'
       background:
         color: '#FFFFFF'
