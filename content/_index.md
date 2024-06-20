@@ -57,8 +57,8 @@ sections:
     design:
       # view: masonry
       # view: card
-      view: showcase
-      # view: compact-research
+      # view: showcase
+      view: compact-research
       columns: '4'
       background:
         color: '#FFFFFF'
