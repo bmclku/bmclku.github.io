@@ -57,9 +57,10 @@ sections:
     design:
       # view: masonry
       # view: card
-      # view: showcase
-      view: compact-research
+      view: showcase
+      # view: compact-research
       columns: '4'
+      flip_alt_rows: true
       background:
         color: '#FFFFFF'
         # color: '#f6f9fb'
