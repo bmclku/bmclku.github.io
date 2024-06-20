@@ -1,9 +1,10 @@
 {{/* Notify JS that this is a widget page */}}
 <!-- TODO: use data attribute on <body> instead if this is still required -->
-<span class="js-widget-page d-none d-md-flex"></span>
+<span class="js-widget-page d-none col-xl-2"></span>
 
 {{/* Load Hugo Blox */}}
 {{ range $index, $block := .Params.sections }}
+  yaho
   {{/* Do not show sections intended only for the demo site. */}}
   {{ if or (not $block.demo) ($block.demo | and (eq (os.Getenv "WC_DEMO") "true")) }}
     {{ partial "functions/parse_block_v2" (dict "page" $ "block" $block) }}
