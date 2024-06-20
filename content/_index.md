@@ -59,7 +59,7 @@ sections:
       view: card
       # view: showcase
       # view: compact-research
-      columns: '1'
+      columns: '4'
       background:
         color: '#FFFFFF'
         # color: '#f6f9fb'
