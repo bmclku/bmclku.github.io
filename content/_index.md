@@ -56,8 +56,8 @@ sections:
       page_type: research
     design:
       # view: masonry
-      view: card
-      # view: showcase
+      # view: card
+      view: showcase
       # view: compact-research
       columns: '4'
       background:
