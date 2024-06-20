@@ -60,7 +60,7 @@ sections:
       # view: showcase
       # view: compact-research
       # view: article-grid
-      columns: 1
+      columns: '1'
       flip_alt_rows: true
       background:
         color: '#FFFFFF'
