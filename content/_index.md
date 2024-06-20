@@ -36,7 +36,7 @@ sections:
       spacing:
         # padding: ["20px", 0, "20px", 0]
         padding: ["3em", "0em", "3em", "0em"]
-        margin: [0, 100px, 0, "20em"]
+        margin: [0, 0, 0, 0]
 
   - block: collection
     content:
