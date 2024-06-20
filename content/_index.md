@@ -69,7 +69,6 @@ sections:
         padding: ["3em", "0em", "3em", "0em"]
   
   - block: portfolio
-    id: projects
     content:
       title: Research Interests
       align: center
@@ -77,6 +76,8 @@ sections:
       text: " "
       count: 4
       filters:
+        folders:
+          - project
         author: ''
         category: ''
         exclude_featured: false
@@ -86,13 +87,9 @@ sections:
       order: desc
       page_type: research
     design:
-      # See Page Builder docs for all section customization options.
-      # Choose how many columns the section has. Valid values: '1' or '2'.
       columns: '1'
-      # Choose a listing view
       view: showcase
-      # For Showcase view, flip alternate rows?
-      flip_alt_rows: true
+      # flip_alt_rows: true
 
   - block: markdown
     content:
