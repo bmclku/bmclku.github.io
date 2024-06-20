@@ -36,14 +36,7 @@ sections:
       spacing:
         # padding: ["20px", 0, "20px", 0]
         padding: ["3em", "0em", "3em", "0em"]
-        margin: [0, 10, 0, 10]
-
-        # Our current research focus areas:
-        # - Examining the robust nature of human object and face recognition
-        # - Developing bio-inspired strategies for deep learning
-        # - Exploring the mysteries behind visual illusions
-        # - Understanding high-level semantic cognition 
-        # - Decoding human brain activity for insights into the mind
+        margin: [0, "12em", 0, "12em"]
 
   - block: collection
     content:
