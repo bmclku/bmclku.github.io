@@ -41,10 +41,10 @@ sections:
   - block: collection
     content:
       title: Research Interests
-      align: center
+      # align: center
       subtitle: " "
       text: " "
-      count: 4
+      # count: 4
       # filters:
       #   author: ''
       #   category: ''
