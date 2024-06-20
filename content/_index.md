@@ -77,7 +77,7 @@ sections:
       filters:
         # Folders to display content from
         folders:
-          - project
+          - research
         # Only show content with these tags
         tags: []
         # Exclude content with these tags
