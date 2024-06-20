@@ -61,6 +61,7 @@ sections:
       # view: compact-research
       # view: article-grid
       columns: 1
+      flip_alt_rows: true
       background:
         color: '#FFFFFF'
         # color: '#f6f9fb'
