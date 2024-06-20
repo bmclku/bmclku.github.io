@@ -2,7 +2,7 @@
 title: Events
 
 # Listing view
-view: compact
+view: compact-event
 
 # Optional header image (relative to `assets/media/` folder).
 banner:
