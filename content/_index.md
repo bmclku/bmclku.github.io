@@ -91,7 +91,7 @@ sections:
     design:
       columns: '1'
       view: showcase
-      # flip_alt_rows: true
+      flip_alt_rows: false
 
   - block: markdown
     content:
