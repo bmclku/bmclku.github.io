@@ -59,8 +59,8 @@ sections:
       # view: card
       # view: showcase
       # view: compact-research
-      columns: '1'
-      flip_alt_rows: true
+      columns: '2'
+      flip_alt_rows: false
       background:
         color: '#FFFFFF'
         # color: '#f6f9fb'
