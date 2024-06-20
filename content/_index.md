@@ -44,6 +44,10 @@ sections:
       # align: center
       subtitle: " "
       text: " "
+      filters:
+        folders:
+          - research
+        # featured_only: true
       # count: 4
       # filters:
       #   author: ''
@@ -54,10 +58,6 @@ sections:
       # offset: 0
       # order: desc
       # page_type: research
-      filters:
-        folders:
-          - research
-        featured_only: true
     design:
       # view: masonry
       view: card
