@@ -35,8 +35,8 @@ sections:
         color: "#FFFFFF"
       spacing:
         # padding: ["20px", 0, "20px", 0]
-        padding: ["3em", "10em", "3em", "10em"]
-        margin: [0, 0, 0,0]
+        padding: ["3em", "0em", "3em", "0em"]
+        margin: [0, "20em", 0, "20em"]
 
   - block: collection
     content:
