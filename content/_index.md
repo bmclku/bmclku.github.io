@@ -84,8 +84,7 @@ sections:
         # publication_type: ''
         # tag: ''
         kinds:
-          - section
-          # - page
+          - page
       # offset: 0
       # order: desc
       # page_type: research
