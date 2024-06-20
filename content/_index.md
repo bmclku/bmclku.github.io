@@ -92,7 +92,7 @@ sections:
       # Choose a listing view
       view: showcase
       # For Showcase view, flip alternate rows?
-      flip_alt_rows: false
+      flip_alt_rows: true
 
   - block: markdown
     content:
