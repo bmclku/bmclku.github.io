@@ -73,7 +73,7 @@
     {{ end }}
 
   </div>
-  <div class="ml-3">
+  <div class="ml-3" style="display: flex; justify-content: center; align-items: center; height: 100vh; width: 100%;">
     {{ $resource := partial "blox-core/functions/get_featured_image.html" $item }}
     {{ with $resource }}
       <!-- {{ $image := .Resize "150x" }} -->
@@ -81,12 +81,10 @@
       <!-- {{ $image := . }} -->
       {{ if ne $image.MediaType.SubType "gif" }}{{ $image = $image.Process "webp" }}{{ end }}
       
-      <div style="display: flex; justify-content: center; align-items: center;">
-        <a href="{{$link}}" {{ $target | safeHTMLAttr }}>
-          <img src="{{ $image.RelPermalink }}" height="{{ $image.Height }}" width="{{ $image.Width }}"
-              alt="{{ $item.Title }}" loading="lazy"">
-        </a>
-      </div>
+      <a href="{{$link}}" {{ $target | safeHTMLAttr }}>
+        <img src="{{ $image.RelPermalink }}" height="{{ $image.Height }}" width="{{ $image.Width }}"
+            alt="{{ $item.Title }}" loading="lazy" style="display: block; margin: auto;">
+      </a>
     {{end}}
   </div>
 </div>
