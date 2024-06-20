@@ -85,7 +85,7 @@ sections:
         color: '#FFFFFF'
         # color: '#f6f9fb'
       spacing:
-        padding: ["2em", "12em", "2em", "12em"]
+        padding: ["3em", "12em", "3em", "12em"]
         
   - block: markdown
     content:
