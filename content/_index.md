@@ -44,7 +44,7 @@ sections:
       align: center
       subtitle: " "
       text: " "
-      count: 5
+      count: 1
       filters:
         author: ''
         category: ''
