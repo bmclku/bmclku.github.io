@@ -84,10 +84,12 @@ sections:
         # publication_type: ''
         # tag: ''
         kinds:
-          - page
+          - section
+          # - page
       # offset: 0
       # order: desc
       # page_type: research
+      default_button_index: 0
     design:
       columns: '1'
       view: card
