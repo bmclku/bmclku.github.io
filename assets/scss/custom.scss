@@ -64,7 +64,7 @@
   height: 100%;
   background: #fff;
   content: ' ';
-  opacity: 0;
+  opacity: 40;
   transition: all 0.2s ease-out;
 }
 
@@ -74,7 +74,7 @@
   left: 0;
   top: 50%;
   width: 100%;
-  transform: translate(0, -50%);
+  transform: translate(40%, 0%);
   opacity: 0;
   transition: all 0.2s ease-out;
   font-family: 'Font Awesome 5 Free';
@@ -82,7 +82,7 @@
   content: '\f0c1';
   text-align: center;
   font-size: 3rem;
-  color: #666;
+  color: #000;
 }
 
 /*************************************************
