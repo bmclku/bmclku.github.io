@@ -3,7 +3,7 @@ title: Visual Perception
 date: 
 show_date: false
 image:
-  focal_point: 'smart'
+  focal_point: Smart
 weight: 1
 ---
 
