@@ -32,7 +32,7 @@ sections:
           position: center
           size: cover
       spacing:
-        padding: ['10em', '0', '10em', '0']
+        padding: ['10em', '10em', '10em', '10em']
       css_class: "frontbanner"
 
     # design:
