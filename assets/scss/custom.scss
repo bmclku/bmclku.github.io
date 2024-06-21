@@ -31,10 +31,12 @@
 //     33.3% - 13.3px
 //   ); /* Fluid 3 columns ($gutter * ($number_of_cols - 1) / $number_of_cols; following https://stackoverflow.com/a/51290967) */
 // }
+
 .project-card {
   position: relative;
   width: calc(
-    25% - 7.5px
+    // 25% - 7.5px /* 4 columns */
+    50% - 10px /* 2 columns */
   );
 }
 .project-item {
