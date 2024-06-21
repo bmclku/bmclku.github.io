@@ -53,8 +53,8 @@
 }
 
 .card .card-image.hover-overlay::before {
-  opacity: 0.7;
-  color: $sta-link;
+  opacity: 0.3;
+  color: #151515;
 }
 .card .card-image.hover-overlay::after {
   content: ' ';
