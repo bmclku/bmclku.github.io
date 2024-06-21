@@ -28,9 +28,16 @@
 .project-card {
   position: relative;
   width: calc(
-    25% - 13.3px
+    25% - 10px
   ); /* Fluid 3 columns ($gutter * ($number_of_cols - 1) / $number_of_cols; following https://stackoverflow.com/a/51290967) */
 }
+
+// .project-card {
+//   position: relative;
+//   width: calc(
+//     33.3% - 13.3px
+//   ); /* Fluid 3 columns ($gutter * ($number_of_cols - 1) / $number_of_cols; following https://stackoverflow.com/a/51290967) */
+// }
 @media screen and (max-width: 1199px) {
   .project-card {
     width: calc(
