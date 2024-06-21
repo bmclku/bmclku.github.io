@@ -51,7 +51,6 @@ sections:
         featured_only: true
         kinds:
           - page
-    sort_by: 'weight'
     design:
       view: masonry
       # view: card
