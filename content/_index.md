@@ -9,9 +9,9 @@ sections:
     content:
       title: ' '
     design:
-      spacing:
-        padding: ["5em", 0, "5em", 0]
-        margin: [0, 0, 0, 0]
+      # spacing:
+      #   padding: ["5em", 0, "5em", 0]
+      #   margin: [0, 0, 0, 0]
       css_class: "frontbanner"
       background:
         image:
