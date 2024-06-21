@@ -43,7 +43,6 @@ sections:
   - block: portfolio
     content:
       title: Research Interests
-      # align: center
       subtitle: " "
       text: " "
       filters:
@@ -52,6 +51,7 @@ sections:
         featured_only: true
         kinds:
           - page
+    sort_by: 'weight'
     design:
       view: masonry
       # view: card
@@ -61,7 +61,6 @@ sections:
       columns: '1'
       background:
         color: '#FFFFFF'
-        # color: '#f6f9fb'
       spacing:
         padding: ["3em", "0em", "3em", "0em"]
       css_class: "frontblock"
