@@ -64,6 +64,7 @@ sections:
         # color: '#f6f9fb'
       spacing:
         padding: ["3em", "0em", "3em", "0em"]
+      css_class: "frontblock"
   
   - block: markdown
     content:
@@ -81,6 +82,7 @@ sections:
         # color: '#f6f9fb'
       spacing:
         padding: ["3em", "0em", "3em", "0em"]
+      css_class: "frontblock"
         
   - block: markdown
     content:
