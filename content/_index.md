@@ -48,6 +48,8 @@ sections:
         folders:
           - research
         # featured_only: true
+        kinds:
+          - page
     design:
       # view: masonry
       view: card
