@@ -58,13 +58,18 @@
 .card .card-image.hover-overlay::before {
   opacity: 0.5;
 }
-.card:hover .card-image.hover-overlay::before {
+
+.card .card-image.hover-overlay::after {
   opacity: 0;
 }
 
-.card:hover .card-image.hover-overlay::after {
-  opacity: 0;
-}
+// .card:hover .card-image.hover-overlay::before {
+//   opacity: 0;
+// }
+
+// .card:hover .card-image.hover-overlay::after {
+//   opacity: 0;
+// }
 
 /*************************************************
  *  Projects
