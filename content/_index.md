@@ -61,7 +61,7 @@ sections:
       # page_type: research
     design:
       # view: masonry
-      view: card
+      view: cta-card
       # view: showcase
       # view: compact-research
       # view: article-grid
