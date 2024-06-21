@@ -39,7 +39,7 @@ sections:
         margin: [0, 0, 0, 0]
 
   # - block: collection
-  - block: portfolio
+  - block: cta-card
     content:
       title: Research Interests
       # align: center
@@ -61,7 +61,7 @@ sections:
       # page_type: research
     design:
       # view: masonry
-      view: cta-card
+      view: card
       # view: showcase
       # view: compact-research
       # view: article-grid
