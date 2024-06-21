@@ -57,7 +57,6 @@
   text-align: center;
   color: black; /* Ensure the link itself has the correct color */
 }
-
 .card .card-text .title a {
   color: black; /* Ensure the link itself has the correct color */
 }
@@ -68,7 +67,6 @@
 .card .card-image.hover-overlay::after {
   content: ' ';
 }
-
 .card:hover .card-image.hover-overlay::before {
   opacity: 0;
 }
