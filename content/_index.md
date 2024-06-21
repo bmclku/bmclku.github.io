@@ -37,12 +37,10 @@ sections:
       title: <font size=6>Welcome to the Human-Machine Cognition Lab!</font>
       text: 고려대학교 인간-기계 인지 연구실 사이트 방문을 환영합니다👋
     design:
-      background:
-        color: rgb(0, 0, 0, 0);
+      spacing:
+        padding: ["5em", 0, "5em", 0]
+        margin: [0, 0, 0, 0]
       css_class: "frontbanner-bottom"
-      # spacing:
-      #   padding: ["5em", 0, "5em", 0]
-      #   margin: [0, 0, 0, 0]
 
   - block: markdown
     content:
