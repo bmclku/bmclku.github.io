@@ -21,7 +21,7 @@ sections:
   - block: markdown
     design:
       spacing:
-        padding: auto
+        padding: ["10em", 0, "10em", 0]
         margin: auto
       css_class: "frontbanner"
       background:
