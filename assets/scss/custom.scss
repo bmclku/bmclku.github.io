@@ -28,8 +28,8 @@
 .project-card {
   position: relative;
   width: calc(
-    25% - 10px
-  ); /* Fluid 3 columns ($gutter * ($number_of_cols - 1) / $number_of_cols; following https://stackoverflow.com/a/51290967) */
+    25% - 7.5px
+  );
 }
 
 // .project-card {
