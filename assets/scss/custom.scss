@@ -45,7 +45,7 @@
   object-fit: cover;
 }
 .card .section-subheading {
-  font-size: 0.9rem;
+  font-size: 19rem;
   font-weight: 700;
   line-height: 1.5;
   text-transform: uppercase;
@@ -54,7 +54,6 @@
 .card .card-text {
   padding: 0.75rem 0.75rem;
 }
-
 .card .card-image.hover-overlay::after {
   content: ' ';
 }
