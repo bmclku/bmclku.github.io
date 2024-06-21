@@ -57,7 +57,7 @@ sections:
       # view: showcase
       # view: compact-research
       # view: article-grid
-      columns: '1'
+      columns: '2'
       background:
         color: '#FFFFFF'
         # color: '#f6f9fb'
