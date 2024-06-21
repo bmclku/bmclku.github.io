@@ -39,7 +39,7 @@ sections:
         margin: [0, 0, 0, 0]
 
   # - block: collection
-  - block: cta-card
+  - block: portfolio
     content:
       title: Research Interests
       # align: center
@@ -48,7 +48,7 @@ sections:
       filters:
         folders:
           - research
-        # featured_only: true
+        featured_only: true
       # count: 4
       # filters:
       #   author: ''
@@ -76,10 +76,6 @@ sections:
   - block: markdown
     content:
       title: Latest News
-      # text: |
-      #   ### March 2024
-      #     - Our paper "Improved modeling of human vision by incorporating robustness to blur in convolutional neural networks" has been published in <i>Nature Communications</i>!
-      #     - Hojin Jang has been appointed to the position of Assistant Professor in the Department of Brain and Cognitive Engineering at Korea University and the Human-Machine Vision Lab's website has launched.
       text: |
         <div><b>2024.03</b></div>
         <ul>
