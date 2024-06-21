@@ -32,6 +32,8 @@
 
 .card .img-responsive {
   height: 10em;
+  width: auto;
+  object-fit: cover;
 }
 
 // .card .card-image.hover-overlay {
