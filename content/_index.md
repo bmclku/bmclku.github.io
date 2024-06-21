@@ -38,8 +38,7 @@ sections:
         padding: ["3em", "0em", "3em", "0em"]
         margin: [0, 0, 0, 0]
 
-  # - block: collection
-  - block: portfolio
+  - block: collection
     content:
       title: Research Interests
       # align: center
@@ -49,24 +48,13 @@ sections:
         folders:
           - research
         featured_only: true
-      # count: 4
-      # filters:
-      #   author: ''
-      #   category: ''
-      #   exclude_featured: false
-      #   publication_type: ''
-      #   tag: ''
-      # offset: 0
-      # order: desc
-      # page_type: research
     design:
       # view: masonry
       view: card
       # view: showcase
       # view: compact-research
       # view: article-grid
-      columns: '1'
-      # flip_alt_rows: true
+      columns: '2'
       background:
         color: '#FFFFFF'
         # color: '#f6f9fb'
