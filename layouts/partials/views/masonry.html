@@ -30,7 +30,8 @@
   </a>
   {{ end }}
   <div class="card-text">
-    <h4><a href="{{ $link }}" {{ $target | safeHTMLAttr }}>{{ $item.Title | markdownify | emojify }}</a></h4>
+    <!-- <h4><a href="{{ $link }}" {{ $target | safeHTMLAttr }}>{{ $item.Title | markdownify | emojify }}</a></h4> -->
+    <h4 class="title"><a href="{{ $link }}" {{ $target | safeHTMLAttr }}>{{ $item.Title | markdownify | emojify }}</a></h4>
 
     {{ with $summary }}
     <div class="article-style">
