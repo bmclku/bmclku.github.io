@@ -35,7 +35,7 @@ sections:
         color: "#FFFFFF"
       spacing:
         # padding: ["20px", 0, "20px", 0]
-        padding: ["2em", "0em", "2em", "0em"]
+        padding: ["3em", "0em", "1em", "0em"]
         margin: [0, 0, 0, 0]
       css_class: "frontblock"
 
@@ -61,7 +61,7 @@ sections:
       background:
         color: '#FFFFFF'
       spacing:
-        padding: ["2em", "0em", "2em", "0em"]
+        padding: ["3em", "0em", "1em", "0em"]
       css_class: "frontblock"
   
   - block: markdown
@@ -79,7 +79,7 @@ sections:
         color: '#FFFFFF'
         # color: '#f6f9fb'
       spacing:
-        padding: ["2em", "0em", "2em", "0em"]
+        padding: ["3em", "0em", "1em", "0em"]
       css_class: "frontblock"
         
   - block: markdown
