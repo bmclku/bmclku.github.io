@@ -13,7 +13,7 @@ sections:
       spacing:
         padding: ["5em", 0, "5em", 0]
         margin: [0, 0, 0, 0]
-      css_class: "frontbanner dark"
+      css_class: "frontbanner"
       background:
         # color: "navy"
         image:
