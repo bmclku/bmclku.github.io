@@ -28,13 +28,11 @@ sections:
       background:
         image: 
           filename: front_banner.png
-          filters:
-            brightness: 1
           parallax: false
           position: center
           size: cover
       spacing:
-        padding: ['20px', '0', '20px', '0']
+        padding: ['10em', '0', '10em', '0']
       # css_class: fullscreen
 
     # design:
