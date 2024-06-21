@@ -38,7 +38,7 @@ sections:
       text: 고려대학교 인간-기계 인지 연구실 사이트 방문을 환영합니다👋
     design:
       spacing:
-        padding: ["5em", 0, "5em", 0]
+        padding: [0, 0, 0, 0]
         margin: [0, 0, 0, 0]
       css_class: "frontbanner-bottom"
 
