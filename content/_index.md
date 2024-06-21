@@ -33,7 +33,7 @@ sections:
           size: cover
       spacing:
         padding: ['10em', '0', '10em', '0']
-      # css_class: fullscreen
+      css_class: "frontbanner"
 
     # design:
     #   spacing:
