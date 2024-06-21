@@ -31,8 +31,8 @@ sections:
           parallax: false
           position: center
           size: cover
-      spacing:
-        padding: ['10em', '10em', '10em', '10em']
+      # spacing:
+      #   padding: ['10em', '10em', '10em', '10em']
       css_class: "frontbanner"
 
     # design:
