@@ -50,11 +50,11 @@
 .card .card-text .title{
   padding-top: 0.5rem;
   text-align: center;
+  color: #151515;
 }
 
 .card .card-image.hover-overlay::before {
   opacity: 0.3;
-  color: #151515;
 }
 .card .card-image.hover-overlay::after {
   content: ' ';
