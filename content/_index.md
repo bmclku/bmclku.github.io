@@ -26,7 +26,7 @@ sections:
     design:
       columns: '1'
       background:
-        color: rgb(250, 250, 250);
+        color: rgb(200, 200, 200);
         image: 
           filename: front_banner.png
           parallax: false
