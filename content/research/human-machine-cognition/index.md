@@ -1,5 +1,5 @@
 ---
-title: Human-Machine Comparison
+title: Human-Machine Cognition
 date: 
 show_date: false
 weight: 2
