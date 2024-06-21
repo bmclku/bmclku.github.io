@@ -41,13 +41,13 @@ sections:
   - block: collection
     content:
       title: Research Interests
-      # align: center
+      align: center
       subtitle: " "
       text: " "
       filters:
         folders:
           - research
-        featured_only: true
+        # featured_only: true
     design:
       # view: masonry
       view: card
