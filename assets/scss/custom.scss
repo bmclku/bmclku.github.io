@@ -17,32 +17,35 @@
   // border-radius: 0%;
 }
 
+/*************************************************
+ *  Navigtation bar
+ **************************************************/
+
 .navbar {
   font-size: 15px;
 }
 
+
+/*************************************************
+ *  Cards
+ **************************************************/
+
+.card {
+  margin-bottom: 0.5rem;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  background: #fff;
+  box-shadow: 0 2px 4px 0 rgba(0, 0, 0, 0.2);
+  transition: all 0.2s ease-out;
+}
 .card .img-responsive {
-  width: 15rem;
+  width: 20rem;
   height: auto;
   object-fit: cover;
 }
-
 .card .card-text {
   padding: 0.75rem 0.75rem;
 }
-
-// .card .card-image.hover-overlay {
-//   // display: block;
-//   // position: absolute;
-//   // left: 0;
-//   // top: 0;
-//   // width: 100%;
-//   height: 10%;
-//   // background: #fff;
-//   // content: ' ';
-//   // opacity: 0;
-//   // transition: all 0.2s ease-out;
-// }
 
 /*************************************************
  *  Projects
