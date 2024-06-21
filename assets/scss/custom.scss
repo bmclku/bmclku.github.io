@@ -59,11 +59,11 @@
   opacity: 0.5;
 }
 .card:hover .card-image.hover-overlay::before {
-  opacity: 0.8;
+  opacity: 1;
 }
 
 .card:hover .card-image.hover-overlay::after {
-  opacity: 0;
+  opacity: 1;
 }
 
 /*************************************************
