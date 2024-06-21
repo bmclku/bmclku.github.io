@@ -51,5 +51,6 @@ sections:
       #     captcha: false
     design:
       columns: '1'
+      css_class: "frontblock"
 
 ---
