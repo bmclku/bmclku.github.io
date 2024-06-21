@@ -20,7 +20,7 @@ sections:
           filename: front_banner.png
           parallax: false
           filters:
-            brightness: 1
+            brightness: 0.1
             
   - block: markdown
     content:
