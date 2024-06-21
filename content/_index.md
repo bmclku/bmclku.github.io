@@ -15,7 +15,7 @@ sections:
         margin: [0, 0, 0, 0]
       css_class: "frontbanner dark"
       background:
-        color: "navy"
+        # color: "navy"
         # image:
         #   filename: front_banner.png
         #   parallax: false
