@@ -51,21 +51,21 @@
   padding-top: 0.5rem;
   text-align: center;
 }
-// .card .card-image.hover-overlay::after {
-//   content: ' ';
-// }
 
 .card .card-image.hover-overlay::before {
   opacity: 0.5;
+  color: rgba(0, 0, 0, 0.54);
+}
+.card .card-image.hover-overlay::after {
+  content: ' ';
 }
 
 .card:hover .card-image.hover-overlay::before {
   opacity: 0;
 }
-
-// .card:hover .card-image.hover-overlay::after {
-//   opacity: 0;
-// }
+.card:hover .card-image.hover-overlay::after {
+  opacity: 0;
+}
 
 /*************************************************
  *  Projects
