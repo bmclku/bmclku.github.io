@@ -5,13 +5,21 @@ date: 2022-10-24
 type: landing
 
 sections:
+  # - block: markdown
+  #   content:
+  #     title: ' '
+  #   design:
+  #     spacing:
+  #       padding: ["5em", 0, "5em", 0]
+  #       margin: [0, 0, 0, 0]
+  #     css_class: "frontbanner"
+  #     background:
+  #       image:
+  #         filename: front_banner.png
+  #         parallax: false
+
   - block: markdown
-    content:
-      title: ' '
     design:
-      # spacing:
-      #   padding: ["5em", 0, "5em", 0]
-      #   margin: [0, 0, 0, 0]
       css_class: "frontbanner"
       background:
         image:
