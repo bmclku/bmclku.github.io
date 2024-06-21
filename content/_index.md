@@ -38,7 +38,8 @@ sections:
         padding: ["3em", "0em", "3em", "0em"]
         margin: [0, 0, 0, 0]
 
-  - block: collection
+  # - block: collection
+  - block: portfolio
     content:
       title: Research Interests
       align: center
