@@ -15,12 +15,12 @@ sections:
         margin: [0, 0, 0, 0]
       css_class: "frontbanner dark"
       background:
-        # color: "navy"
-        image:
-          filename: front_banner.png
-          parallax: false
-          filters:
-            brightness: 1
+        color: "navy"
+        # image:
+        #   filename: front_banner.png
+        #   parallax: false
+        #   filters:
+        #     brightness: 1
             
   - block: markdown
     content:
