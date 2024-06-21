@@ -30,7 +30,7 @@ sections:
           filename: front_banner.png
           parallax: false
           size: cover
-      css_class: "frontbanner"
+      css_class: "frontbanner-top"
 
   - block: markdown
     content:
@@ -39,6 +39,7 @@ sections:
     design:
       background:
         color: rgb(0, 0, 0, 0);
+      css_class: "frontbanner-bottom"
       # spacing:
       #   padding: ["5em", 0, "5em", 0]
       #   margin: [0, 0, 0, 0]
