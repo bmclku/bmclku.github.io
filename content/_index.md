@@ -26,11 +26,9 @@ sections:
     design:
       columns: '1'
       background:
-        color: rgb(0, 0, 0, .4);
         image: 
           filename: front_banner.png
           parallax: false
-          position: center
           size: cover
       css_class: "frontbanner"
 
