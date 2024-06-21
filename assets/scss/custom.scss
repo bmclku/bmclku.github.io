@@ -31,13 +31,7 @@
  **************************************************/
 
 .card {
-  margin-top: 0.5rem;
-  margin-bottom: 0.5rem;
-  overflow: hidden;
-  text-overflow: ellipsis;
-  background: #fff;
-  box-shadow: 0 2px 4px 0 rgba(0, 0, 0, 0.2);
-  transition: all 0.2s ease-out;
+  padding-top: 1em;
 }
 .card .img-responsive {
   width: 20rem;
