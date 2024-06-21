@@ -21,19 +21,14 @@
   font-size: 15px;
 }
 
-// .card {
-//   margin-bottom: 1.5rem;
-//   overflow: hidden;
-//   text-overflow: ellipsis;
-//   background: #fff;
-//   box-shadow: 2px 4px 4px 2px rgba(0, 0, 0, 0.2);
-//   transition: all 0.2s ease-out;
-// }
-
 .card .img-responsive {
-  height: 10em;
+  height: 10rem;
   width: auto;
   object-fit: cover;
+}
+
+.card .card-text {
+  padding: 0.75rem 0.75rem;
 }
 
 // .card .card-image.hover-overlay {
