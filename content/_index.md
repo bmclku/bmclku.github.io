@@ -42,13 +42,13 @@ sections:
   - block: portfolio
     content:
       title: Research Interests
-      align: center
+      # align: center
       subtitle: " "
       text: " "
       filters:
         folders:
           - research
-        # featured_only: true
+        featured_only: true
         kinds:
           - page
     design:
@@ -57,7 +57,7 @@ sections:
       # view: showcase
       # view: compact-research
       # view: article-grid
-      columns: '2'
+      columns: '1'
       background:
         color: '#FFFFFF'
         # color: '#f6f9fb'
