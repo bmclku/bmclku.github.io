@@ -38,7 +38,6 @@ sections:
         padding: ["3em", "0em", "3em", "0em"]
         margin: [0, 0, 0, 0]
       css_class: "frontblock"
-      # css_style: "margin: auto; width: max(50%, min(500px, 100%);"
 
   # - block: collection
   - block: portfolio
