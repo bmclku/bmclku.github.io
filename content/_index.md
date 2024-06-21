@@ -19,15 +19,34 @@ sections:
   #         parallax: false
 
   - block: markdown
+    content:
+      title:
+      subtitle: ''
+      text:
     design:
-      spacing:
-        padding: ["10em", 0, "10em", 0]
-        margin: auto
-      css_class: "frontbanner"
+      columns: '1'
       background:
-        image:
+        image: 
           filename: front_banner.png
+          filters:
+            brightness: 1
           parallax: false
+          position: center
+          size: cover
+          text_color_light: true
+      spacing:
+        padding: ['20px', '0', '20px', '0']
+      css_class: fullscreen
+
+    # design:
+    #   spacing:
+    #     padding: ["10em", 0, "10em", 0]
+    #     margin: auto
+    #   css_class: "frontbanner"
+    #   background:
+    #     image:
+    #       filename: front_banner.png
+    #       parallax: false
 
   - block: markdown
     content:
