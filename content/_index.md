@@ -15,13 +15,21 @@ sections:
         margin: [0, 0, 0, 0]
       css_class: "frontbanner"
       background:
-        # color: "navy"
         image:
           filename: front_banner.png
           parallax: false
-          # filters:
-          #   brightness: 0.5
-            
+
+sections:
+  - block: markdown
+    content:
+      title: <font size=6>Welcome to the Human-Machine Cognition Lab!</font>
+      text: 고려대학교 인간-기계 인지 연구실 사이트 방문을 환영합니다👋
+    design:
+      spacing:
+        padding: ["5em", 0, "5em", 0]
+        margin: [0, 0, 0, 0]
+      background:
+
   - block: markdown
     content:
       # title: About
