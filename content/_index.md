@@ -37,7 +37,7 @@ sections:
         # padding: ["20px", 0, "20px", 0]
         padding: ["3em", "0em", "3em", "0em"]
         margin: [0, 0, 0, 0]
-      css_style: 'text-align: justify; width:50%; align: center;'
+    css_style: 'align: center; width:50%; '
 
   # - block: collection
   - block: portfolio
