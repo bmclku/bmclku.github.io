@@ -30,7 +30,7 @@ sections:
           filename: front_banner.png
           parallax: false
           size: cover
-      css_class: "frontbanner-top"
+        css_class: "frontbanner-top"
 
   - block: markdown
     content:
