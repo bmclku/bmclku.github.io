@@ -99,20 +99,11 @@
 //   );
 // }
 
-// @media screen and (min-width: 768px) {
-//   .project-card {
-//     position: relative;
-//     width: calc(
-//       50% - 10px /* 2 columns */
-//     );
-//   }
-// }
-
 @media screen and (min-width: 768px) {
   .project-card {
     position: relative;
     width: calc(
-      25% - 7.5px /* 2 columns */
+      50% - 10px /* 2 columns */
     );
   }
 }
