@@ -52,6 +52,16 @@
   text-align: center;
 }
 
+.card .card-text .title{
+  padding-top: 0.5rem;
+  text-align: center;
+  color: black; /* Ensure the link itself has the correct color */
+}
+
+.card .card-text .title a {
+  color: black; /* Ensure the link itself has the correct color */
+}
+
 .card .card-image.hover-overlay::before {
   opacity: 0;
 }
