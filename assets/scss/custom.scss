@@ -55,6 +55,9 @@
 //   content: ' ';
 // }
 
+.card .card-image.hover-overlay::before {
+  opacity: 0.5;
+}
 .card:hover .card-image.hover-overlay::before {
   opacity: 0.8;
 }
