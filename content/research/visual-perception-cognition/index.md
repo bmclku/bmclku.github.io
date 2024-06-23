@@ -9,7 +9,7 @@ Vision is arguably the most important sense for perceiving information from the 
 
 <!--more-->
 
-Humans possess an exceptional ability for robust object recognition, enabling seamless interaction with diverse environments. For instance, imagine a driver navigating through heavy rain or a person searching for a friend in a crowd. By contrast, despite advances in deep learning, these models often struggle with real-world applications like self-driving cars, video surveillance, and medical imaging. Our lab is dedicated to understanding the mechanisms behind human visual perception. Specifically, we are interested in the following topics:
+Humans possess an exceptional ability for robust visual recognition, enabling seamless interaction with diverse environments. For instance, imagine a driver navigating through heavy rain or a person searching for a friend in a crowd. By contrast, despite advances in deep learning, these models often struggle with real-world applications like self-driving cars, video surveillance, and medical imaging. Our lab is dedicated to understanding the mechanisms behind human visual perception and cognition. Specifically, we are interested in the following topics:
 
 - Robust visual perception 
 - Face recognition and domain specificity 
