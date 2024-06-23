@@ -1,5 +1,5 @@
 ---
-title: Visual Perception
+title: Visual Perception and Cognition
 date: 
 show_date: false
 weight: 1
