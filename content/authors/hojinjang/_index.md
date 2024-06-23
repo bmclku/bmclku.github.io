@@ -23,7 +23,7 @@ bio: " "
 interests:
   - Vision Science
   - Computational Cognitive Neuroscience
-  - Human-AI Comparison
+  - Human-AI Cognition
   - Brain Decoding
     
 education:
@@ -86,7 +86,7 @@ user_groups:
   - Principal Investigator
 ---
 
-At the center of my academic journey has been a deep curiosity to puzzle out the intricate algorithms that underpin human visual perception and cognition. In this pursuit, I leverage a combination of behavioral and psychophysical experiments, neuroimaging techniques, and state-of-the-art computational modeling. Particularly, as we enter an era where machine vision systems become increasingly integrated into our daily lives, I see a compelling opportunity to investigate the fundamental principles of vision science through the lens of comparing human and machine vision.
+At the center of my academic journey has been a deep curiosity to puzzle out the intricate algorithms that underpin human visual perception and cognition. In this pursuit, I leverage a combination of behavioral and psychophysical experiments, neuroimaging techniques, and state-of-the-art computational modeling. Particularly, as we enter an era where AI systems become increasingly integrated into our daily lives, I see a compelling opportunity to investigate the fundamental principles of cognitive neuroscience through the lens of comparing human and machine cognition.
 
 I should acknowledge that my academic progress has been greatly influenced by the guidance of [Prof. Jong-Hwan Lee](https://bspl-ku.github.io/), [Prof. Frank Tong](http://www.psy.vanderbilt.edu/tonglab/web/Home.html), [Dr. Xavier Boix](https://www.mit.edu/~xboix/), and [Prof. Pawan Sinha](https://www.sinhalab.mit.edu/). Their mentorship has not only enriched my understanding of engineering and neuroscience but has also set a solid foundation for my research. Those interested in their contributions to science are encouraged to visit their websites.
 
