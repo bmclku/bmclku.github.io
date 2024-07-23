@@ -24,12 +24,32 @@
   // border-radius: 0%;
 }
 
-@media screen and (min-width: 768px) {
+// @media screen and (min-width: 768px) {
+//   .frontblock {
+//     margin: auto;
+//     width: 68%;
+//   }
+// }
+
+@media screen and (min-width: 30em) {
   .frontblock {
     margin: auto;
     width: 68%;
   }
 }
+@media screen and (min-width: 30em) and (max-width: 60em) {
+  .frontblock {
+    margin: auto;
+    width: 68%;
+  }
+}
+@media screen and (min-width: 60em) {
+  .frontblock {
+    margin: auto;
+    width: 68%;
+  }
+}
+
 
 /*************************************************
  *  Navigtation bar
