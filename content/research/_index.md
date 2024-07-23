@@ -1,6 +1,5 @@
 ---
-title: Research Intersts
-type: landing
+# title: Research Intersts
 
 # # Listing view
 # view: compact-research
@@ -9,6 +8,9 @@ type: landing
 # banner:
 #   caption: ''
 #   image: ''
+
+title: Research Intersts
+type: landing
 
 sections:
   - block: portfolio
