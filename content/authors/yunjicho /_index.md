@@ -51,10 +51,10 @@ role: Research Intern
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "#contact" for contact widget.
 
-# social:
-#   - icon: envelope
-#     icon_pack: fas
-#     link: 'mailto:hojin4671@korea.ac.kr' 
+social:
+  - icon: envelope
+    icon_pack: fas
+    link: 'mailto:robosun78@korea.ac.kr' 
 #   - icon: cv
 #     icon_pack: ai
 #     link: files/CV_HojinJang.pdf
