@@ -47,30 +47,27 @@ sections:
         margin: [0, 0, 0, 0]
       css_class: "frontblock"
 
-  # - block: collection
-  - block: portfolio
+  - block: markdown
     content:
       title: Research Interests
-      subtitle: " "
-      text: " "
-      filters:
-        folders:
-          - research
-        featured_only: true
-        kinds:
-          - page
+      text: |
+        Our current research focuses on several key areas, including:
+        <ul>
+          <li><b>Visual Perception:</b> Robust visual perception, Object and face recognition, Visual attention</li>
+          <li><b>Human-Machine Cognition:</b> Illusions, High-level reasoning, Contextual and semantic understanding</li>
+          <li><b>Brain-Inspired AI:</b> Recurrent processing, Predictive coding, Developmental learning</li>
+          <li><b>Brain Decoding</b></li>
+        </ul>
+        For more details, please refer to the Research page ([✉️](research)).
     design:
-      view: masonry
-      # view: card
-      # view: showcase
-      # view: compact-research
-      # view: article-grid
       columns: '1'
       background:
-        color: '#FFFFFF'
+        color: "#FFFFFF"
       spacing:
         padding: ["2em", "0em", "2em", "0em"]
+        margin: [0, 0, 0, 0]
       css_class: "frontblock"
+
   
   - block: markdown
     content:
