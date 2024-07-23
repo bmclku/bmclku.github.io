@@ -58,7 +58,7 @@ sections:
           <li><b>Brain-Inspired AI:</b> Recurrent processing, Predictive coding, Developmental learning</li>
           <li><b>Brain Decoding</b></li>
         </ul>
-        For more details, please refer to the Research([✍️](research)) page .
+        For more details, please refer to the Research([✍️](research)) page.이메일([✉️](contact))
     design:
       columns: '1'
       background:
