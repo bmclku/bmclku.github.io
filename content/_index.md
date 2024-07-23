@@ -52,12 +52,14 @@ sections:
       title: Research Interests
       text: |
         Our current research interests include (but are not limited to) the following topics:
+
         <ul>
           <li><b>Visual Perception:</b> Robust visual perception, Object and face recognition, Visual attention</li>
           <li><b>Human-Machine Cognition:</b> Illusions, High-level reasoning, Contextual and semantic understanding</li>
           <li><b>Brain-Inspired AI:</b> Recurrent processing, Predictive coding, Developmental learning</li>
           <li><b>Brain Decoding</b></li>
         </ul>
+        
         For more details, please refer to the Research([✍️](research)) page.이메일([✉️](contact))
     design:
       columns: '1'
