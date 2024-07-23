@@ -1,5 +1,6 @@
 ---
-# title: Research Intersts
+title: Research Intersts
+type: landing
 
 # # Listing view
 # view: compact-research
