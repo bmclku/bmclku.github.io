@@ -73,6 +73,10 @@ sections:
     content:
       title: Latest News
       text: |
+        <div><b>2024.07</b></div>
+        <ul>
+          <li>Yunji Cho joined the lab. Welcome!</li>
+        </ul>
         <div><b>2024.03</b></div>
         <ul>
           <li>Our paper "Improved modeling of human vision by incorporating robustness to blur in convolutional neural networks" has been published in <i>Nature Communications</i>!</li>
