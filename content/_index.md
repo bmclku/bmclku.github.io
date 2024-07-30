@@ -37,7 +37,7 @@ sections:
       text: |
         Our team aims to uncover the computational dynamics that differentiate high-level cognition in humans and machines. We explore the computational principles and neural mechanisms in the brain that enable effortless interaction with our environment and leverage these insights to advance machine models. As machines become integral to daily life, the demand for trustworthy, human-compatible models cannot be overstated. We envision a future where humans and machines work together seamlessly, with technology augmenting human tasks. If our vision aligns with your goals, please contact([✉️](contact)) the PI to discuss collaboration or joining our team.
 
-        고려대학교 인간-기계 인지 연구실은 인간과 기계의 고차원 인지 과정의 차이를 심층적으로 연구합니다. 최근 딥러닝의 발전으로 인한 기계의 인지 능력 향상은 표면적으로 인간의 인지 과정과 유사해 보이나, 본질적인 차이가 존재합니다. 본 연구실은 Psychophysics, fMRI, EEG 등을 활용한 심리학 및 뇌공학의 다학제적 접근법을 통해 인간의 인지 행동과 신경학적 메커니즘을 연구하고 있습니다. 이를 기반으로 다양한 인공지능 모델과의 비교 분석을 수행하여 인간 중심의 신뢰성 높은 모델 개발을 목표로 합니다. 주요 연구 주제는 <b>시지각</b>, <b>인간-기계 인지</b>, <b>뇌 기반 인공지능</b>, <b>브레인 디코딩</b>입니다. 인문학적 통찰력과 공학적 전문성을 결합하고자 하는 대학원생 및 학부 연구생 모두 환영합니다. 연구 경험이나 연구실 참여에 관심이 있으신 분은 연구 책임자에게 이메일([✉️](contact))로 문의해 주시기 바랍니다. 
+        고려대학교 인간-기계 인지 연구실은 인간과 기계의 고차원 인지 과정 간 차이를 심층적으로 연구합니다. 최근 딥러닝의 발전으로 인한 기계의 인지 능력 향상은 표면적으로 인간의 인지 과정과 유사해 보이나, 본질적인 차이가 존재합니다. 본 연구실은 Psychophysics, fMRI, EEG 등을 활용한 심리학 및 뇌공학의 다학제적 접근법을 통해 인간의 인지 행동과 신경학적 메커니즘을 연구하고 있습니다. 이를 기반으로 다양한 인공지능 모델과의 비교 분석을 수행하여 인간 중심의 신뢰성 높은 모델 개발을 목표로 합니다. 주요 연구 주제는 <b>시지각</b>, <b>인간-기계 인지</b>, <b>뇌 기반 인공지능</b>, <b>브레인 디코딩</b>입니다. 인문학적 통찰력과 공학적 전문성을 결합하고자 하는 대학원생 및 학부 연구생 모두 환영합니다. 연구 경험이나 연구실 참여에 관심이 있으신 분은 연구 책임자에게 이메일([✉️](contact))로 문의해 주시기 바랍니다. 
     design:
       columns: '1'
       background:
