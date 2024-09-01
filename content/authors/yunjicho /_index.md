@@ -28,7 +28,7 @@ interests:
 education:
   courses:
     - course: B.Sc.
-      institution: Computer Science and Engineering, Korea Univerisity, Brain and Cognitive Sciences, Korea University
+      institution: Computer Science and Engineering, Brain and Cognitive Sciences, Korea University
       year: 2022 - Present
 #     - course: Research Affiliate
 #       institution: Brain and Cognitive Sciences, MIT
