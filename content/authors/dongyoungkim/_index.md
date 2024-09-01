@@ -20,17 +20,13 @@ role: Research Intern
 # Short bio (displayed in user profile at end of posts)
 # bio: " "
 
-interests:
-  - Brain-inspired AI
-  - Computer Vision
-  - Computational Cognitive Neuroscience
+# interests:
     
-education:
-  courses:
-    - course: B.Sc.
-      institution: Computer Science and Engineering, Korea Univerisity 
-      institution: Brain and Cognitive Sciences, Korea University
-      year: 2022 - Present
+# education:
+#   courses:
+#     - course: Assistant Professor
+#       institution: Brain and Cognitive Engineering, Korea University
+#       year: 2024 - Present
 #     - course: Research Affiliate
 #       institution: Brain and Cognitive Sciences, MIT
 #       year: 2024 - Present
@@ -87,6 +83,8 @@ user_groups:
   - Research Interns
 ---
 
-My interest in the field of computer science was ignited by the idea of artificial intelligence that not only emulates human cognition but also has the potential to surpass it. To pursue this ambition, I have chosen Computer Science as my primary major to develop the technical expertise necessary for AI development. I am also majoring in Brain and Cognitive Science as an interdisciplinary major to explore the intricate workings of the human brain. To further bridge these two areas, I joined the Human-Machine Cognition Laboratory as a Research Intern to gain deeper insights and practical experience. 
+<!-- At the center of my academic journey has been a deep curiosity to puzzle out the intricate algorithms that underpin human visual perception and cognition. In this pursuit, I leverage a combination of behavioral and psychophysical experiments, neuroimaging techniques, and state-of-the-art computational modeling. Particularly, as we enter an era where AI systems become increasingly integrated into our daily lives, I see a compelling opportunity to investigate the fundamental principles of cognitive neuroscience through the lens of comparing human and machine cognition.
 
-My research focuses on modeling brain mechanisms using AI, with the aim of advancing AI technologies based on these models. My long-term goal is to make meaningful contributions to the field of neuroscience and to support the development of Artificial General Intelligence (AGI)-a future where AI possesses the ability to perform any intellectual task that a human can do. Through this interdisciplinary approach, I hope to push the boundaries of what AI can achieve and advance our understanding of both artificial and human intelligence.
+I should acknowledge that my academic progress has been greatly influenced by the guidance of [Prof. Jong-Hwan Lee](https://bspl-ku.github.io/), [Prof. Frank Tong](http://www.psy.vanderbilt.edu/tonglab/web/Home.html), [Dr. Xavier Boix](https://www.mit.edu/~xboix/), and [Prof. Pawan Sinha](https://www.sinhalab.mit.edu/). Their mentorship has not only enriched my understanding of engineering and neuroscience but has also set a solid foundation for my research. Those interested in their contributions to science are encouraged to visit their websites.
+
+Our lab encourages an environment where making mistakes is part of the learning process, where unique ideas are welcome, and where diverse perspectives are valued. We are dedicated to enhancing diversity, equity, and inclusion in science, recognizing the vital role of various backgrounds and experiences. -->
