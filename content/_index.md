@@ -75,7 +75,7 @@ sections:
       text: |
         <div><b>2024.08</b></div>
         <ul>
-          <li><a href={{< ref "/author/yunji-cho/_index.md" >}}>Yunji Cho</a> and Dongyoung Kim join the lab. Welcome!</li>
+          <li><a href={{< relref "/author/yunji-cho/_index.md" >}}>Yunji Cho</a> and Dongyoung Kim join the lab. Welcome!</li>
         </ul>
 
         <div><b>2024.03</b></div>
