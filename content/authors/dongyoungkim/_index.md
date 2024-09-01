@@ -10,7 +10,7 @@ last_name: Kim
 # superuser: true
 
 # Role/position
-role: PhD Student
+role: Graduate Student
 
 # Organizations/Affiliations
 # organizations:
@@ -20,16 +20,19 @@ role: PhD Student
 # Short bio (displayed in user profile at end of posts)
 # bio: " "
 
-# interests:
+interests:
+- Brain Decoding 
+- High-Level Reasoning 
+- Large Language Model
     
-# education:
-#   courses:
-#     - course: Assistant Professor
-#       institution: Brain and Cognitive Engineering, Korea University
-#       year: 2024 - Present
-#     - course: Research Affiliate
-#       institution: Brain and Cognitive Sciences, MIT
-#       year: 2024 - Present
+education:
+  courses:
+    - course: Integrated Ph.D. Program
+      institution: Brain and Cognitive Engineering, Korea University
+      year: 2024 - Present
+    - course: B.Sc.
+      institution: Korean Language and Literature, Brain and Cognitive Sciences, Korea University
+      year: 2017 - 2023
 #     - course: Postdoctoral Researcher
 #       institution: Brain and Cognitive Sciences, MIT
 #       year: 2022 - 2024
@@ -54,7 +57,7 @@ role: PhD Student
 social:
   - icon: envelope
     icon_pack: fas
-    link: 'mailto:robosun78@korea.ac.kr' 
+    link: 'mailto:lyhn1869@korea.ac.kr' 
 #   - icon: cv
 #     icon_pack: ai
 #     link: files/CV_HojinJang.pdf
@@ -80,11 +83,7 @@ social:
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - Research Interns
+  - Graduate Students
 ---
 
-<!-- At the center of my academic journey has been a deep curiosity to puzzle out the intricate algorithms that underpin human visual perception and cognition. In this pursuit, I leverage a combination of behavioral and psychophysical experiments, neuroimaging techniques, and state-of-the-art computational modeling. Particularly, as we enter an era where AI systems become increasingly integrated into our daily lives, I see a compelling opportunity to investigate the fundamental principles of cognitive neuroscience through the lens of comparing human and machine cognition.
-
-I should acknowledge that my academic progress has been greatly influenced by the guidance of [Prof. Jong-Hwan Lee](https://bspl-ku.github.io/), [Prof. Frank Tong](http://www.psy.vanderbilt.edu/tonglab/web/Home.html), [Dr. Xavier Boix](https://www.mit.edu/~xboix/), and [Prof. Pawan Sinha](https://www.sinhalab.mit.edu/). Their mentorship has not only enriched my understanding of engineering and neuroscience but has also set a solid foundation for my research. Those interested in their contributions to science are encouraged to visit their websites.
-
-Our lab encourages an environment where making mistakes is part of the learning process, where unique ideas are welcome, and where diverse perspectives are valued. We are dedicated to enhancing diversity, equity, and inclusion in science, recognizing the vital role of various backgrounds and experiences. -->
+Can you explain what's on your mind right now? Abstract feelings or imaginations come naturally to us, yet they are so hard to explain or extract precisely. ChatGPT replies quickly and fluently, but how do our own speech, writing, and thoughts get generated within our hidden mental algorithms? Machines and humans can behave similarly, yet we know little about the underlying possibilities. I'm planning to explore the depths of these hidden myths and misunderstandings to discover who we really are, especially in comparison to machines.
