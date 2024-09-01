@@ -76,7 +76,7 @@ sections:
         <div><b>2024.08</b></div>
         <ul>
           <li><a href={{< ref "authors" >}}>Yunji Cho</a> and Dongyoung Kim join the lab. Welcome!</li>
-          <li><a href="/author/">Yunji Cho</a> and Dongyoung Kim join the lab. Welcome!</li>
+          <li><a href="/author/yunji-cho/">Yunji Cho</a> and Dongyoung Kim join the lab. Welcome!</li>
         </ul>
 
         <div><b>2024.03</b></div>
