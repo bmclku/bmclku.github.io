@@ -1,16 +1,16 @@
 ---
 # Display name
-title: Yunji Cho
+title: Dongyoung Kim
 
 # Full Name (for SEO)
-first_name: Yunji
-last_name: Cho
+first_name: Dongyoung
+last_name: Kim
 
 # Is this the primary user of the site?
 # superuser: true
 
 # Role/position
-role: Research Intern
+role: Ph.D. Student
 
 # Organizations/Affiliations
 # organizations:
