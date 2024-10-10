@@ -73,6 +73,11 @@ sections:
     content:
       title: Latest News
       text: |
+        <div><b>2024.09</b></div>
+        <ul>
+          <li><a href="/author/suhyun-kim/">Suhyun Kim</a> join the lab. Welcome!</li>
+        </ul>
+
         <div><b>2024.08</b></div>
         <ul>
           <li><a href="/author/yunji-cho/">Yunji Cho</a> and <a href="/author/dongyoung-kim/">Dongyoung Kim</a> join the lab. Welcome!</li>
