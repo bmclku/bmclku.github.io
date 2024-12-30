@@ -21,7 +21,7 @@ sections:
         # link:
         #   text: Image by Freepik
         #   url: https://www.freepik.com/free-photo/doctor-looking-ct-scan_25053976.htm#&position=13&from_view=search&track=ais&uuid=85ac9bf9-ff54-4a1b-acf2-e27914c0628b
-      - title: <font size=4>Brain to Machine</font>
+      - title: <font size=6>Brain to Machine</font>
         content: Design an advanced brain-inspired model using insights from psychology and neuroscience for real-world applications
         align: left
         background:
