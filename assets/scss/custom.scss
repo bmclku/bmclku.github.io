@@ -45,15 +45,15 @@
 // }
 
 .hero {
+  display: flex;
   margin: auto;
-  width: 60em;
+  max-width: 60em;
 }
 .text-md-left {
-  all: unset;
-  max-width: 70%;
+  flex: 3;
 }
 .hero-media{
-  max-width: 20rem;    
+  flex: 2;    
   align-items: center;
 }
 // .hero-media img {
