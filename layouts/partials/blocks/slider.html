@@ -64,12 +64,12 @@
             {{ if in (slice "fab" "fas" "far" "fal") $pack }}
               {{ $pack_prefix = "fa" }}
             {{ end }}
-            <!-- <p>
+            <p>
               <a href="{{ $item.link.url }}" class="btn btn-light btn-lg mt-3">
                 {{- with $item.link.icon -}}<i class="{{ $pack }} {{ $pack_prefix }}-{{ . }}" style="padding-right: 10px;"></i>{{- end -}}
-                {{- $item.link.text | emojify | markdownify | safeHTML -}}
+                {{- $item.link.text | emojify | markdownify | safeHTML -}}v0
               </a>
-            </p> -->
+            </p>
           {{ end }}
         </div>
     </div>
