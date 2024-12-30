@@ -48,8 +48,8 @@
     <div class="position-absolute d-flex w-100 h-100 justify-content-center align-items-center" style="{{$style_filter | safeCSS}}">
       {{/* To prevent control overlap, margins are based on $carousel-control-* in bootstrap-variables.scss */}}
       <div class="wg-hero dark container" style="margin-left: 6rem; margin-right: 6rem; text-align: {{$item.align | default "left"}};">
-          <h1 class="hero-title">v0
-            {{ with $item.title }}{{ . | markdownify | emojify }}{{ end }}
+          <h1 class="hero-title">
+            {{ with $item.title }}{{ . | markdownify | emojify }}v0{{ end }}
           </h1>
 
           {{ with $item.content }}
