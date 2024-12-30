@@ -63,11 +63,12 @@
   // padding-right: 0;
 }
 
-// /* Optional: Hover effect for links */
-// .carousel-inner a:hover {
-//   text-decoration: underline; /* Add underline on hover */
-//   color: #007bff; /* Optional: Change color on hover */
-// }
+/* Optional: Hover effect for links */
+.carousel-inner a:hover {
+  all: unset; /* Reset all inherited and default styles */
+  text-decoration: underline; /* Add underline on hover */
+  color: #007bff; /* Optional: Change color on hover */
+}
 
 /*************************************************
  *  Navigtation bar
