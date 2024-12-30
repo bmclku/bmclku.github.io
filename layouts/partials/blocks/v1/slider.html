@@ -64,13 +64,7 @@
             {{ if in (slice "fab" "fas" "far" "fal") $pack }}
               {{ $pack_prefix = "fa" }}
             {{ end }}
-            <p>
-              <a href="{{ $item.link.url }}" class="btn btn-light btn-lg mt-3">
-                <!-- {{- with $item.link.icon -}}<i class="{{ $pack }} {{ $pack_prefix }}-{{ . }}" style="padding-right: 10px;"></i>{{- end -}} -->
-                {{- with $item.link.icon -}}<i class="{{ $pack }} {{ $pack_prefix }}-{{ . }}"></i>{{- end -}}
-                {{- $item.link.text | emojify | markdownify | safeHTML -}}
-              </a>
-            </p>
+            
           {{ end }}
         </div>
     </div>
