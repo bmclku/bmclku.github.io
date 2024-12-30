@@ -55,19 +55,19 @@
 
 .carousel-inner a {
   all: unset; /* Reset all inherited and default styles */
-  text-decoration: none; /* Ensure no underline */
+  // text-decoration: none; /* Ensure no underline */
   color: inherit; /* Match the surrounding text color */
   cursor: pointer; /* Ensure the link retains pointer cursor */
-  font-size: inherit; /* Match the surrounding font size */
-  line-height: inherit; /* Match the surrounding line height */
-  padding-right: 0;
+  // font-size: inherit; /* Match the surrounding font size */
+  // line-height: inherit; /* Match the surrounding line height */
+  // padding-right: 0;
 }
 
-/* Optional: Hover effect for links */
-.carousel-inner a:hover {
-  text-decoration: underline; /* Add underline on hover */
-  color: #007bff; /* Optional: Change color on hover */
-}
+// /* Optional: Hover effect for links */
+// .carousel-inner a:hover {
+//   text-decoration: underline; /* Add underline on hover */
+//   color: #007bff; /* Optional: Change color on hover */
+// }
 
 /*************************************************
  *  Navigtation bar
