@@ -9,7 +9,7 @@ sections:
     content:
       slides:
       - title: <font size=6>Machine to Brain</font>
-        content:  Understand how the brain maintains reliable and robust perception and cognition of the complex visual world by leveraging a range of machine and deep learning techniques
+        content:  Understand how the brain reliably perceives and processes the complexity of the real world using machine learning approaches
         align: right
         background:
           image:
@@ -18,12 +18,11 @@ sections:
               brightness: 0.7
           position: right
           color: '#666'
-        link:
-          icon: false
-          text: Image by Freepik
-          url: https://www.freepik.com/free-photo/doctor-looking-ct-scan_25053976.htm#&position=13&from_view=search&track=ais&uuid=85ac9bf9-ff54-4a1b-acf2-e27914c0628b
+        # link:
+        #   text: Image by Freepik
+        #   url: https://www.freepik.com/free-photo/doctor-looking-ct-scan_25053976.htm#&position=13&from_view=search&track=ais&uuid=85ac9bf9-ff54-4a1b-acf2-e27914c0628b
       - title: <font size=6>Brain to Machine</font>
-        content: Design a more advanced brain-inspired model drawing from insights in psychology and neuroscience literature to bring value to real-world applications
+        content: Design an advanced brain-inspired model using insights from psychology and neuroscience for real-world applications
         align: left
         background:
           image:
@@ -33,7 +32,7 @@ sections:
           position: center
           color: '#555'
       - title: <font size=6>Brain and Machine</font>
-        content: Pursue a future where human-machine interaction is seamless and intuitive by bridging the cognitive and functional gap between human intelligence and AI capabilities
+        content: Pursue a future where human-machine interaction is seamless and intuitive by bridging the cognitive and functional gap between human intelligence and AI systems
         align: left
         background:
           image:
