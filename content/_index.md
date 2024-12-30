@@ -21,8 +21,8 @@ sections:
 
   - block: markdown
     content:
-      title: <font size=6>Welcome to the Human-Machine Cognition Lab!</font>
-      text: 고려대학교 인간-기계 인지 연구실 사이트 방문을 환영합니다👋
+      title: <font size=6>Welcome to the Brain and Machine Cognition Lab!</font>
+      text: 고려대학교 뇌기계인지 연구실 사이트 방문을 환영합니다👋
     design:
       background:
         color: white
@@ -37,7 +37,7 @@ sections:
       text: |
         Our team aims to uncover the computational dynamics that differentiate high-level cognition in humans and machines. We explore the computational principles and neural mechanisms in the brain that enable effortless interaction with our environment and leverage these insights to advance machine models. As machines become integral to daily life, the demand for trustworthy, human-compatible models cannot be overstated. We envision a future where humans and machines work together seamlessly, with technology augmenting human tasks. If our vision aligns with your goals, please contact([✉️](contact)) the PI to discuss collaboration or joining our team.
 
-        고려대학교 인간-기계 인지 연구실은 심리학, 뇌공학, 인공지능 등의 다학제적 접근을 통해 인간과 기계의 고차원 인지 과정을 심층적으로 탐구합니다. 구체적으로 Psychophysics, fMRI/EEG, Computational Modeling 최신 연구 기법을 활용하여 인간의 인지적 행동과 신경학적 메커니즘을 규명하고, 이를 바탕으로 다양한 인공지능 모델과의 비교 분석을 통해 인간 중심의 신뢰성 높은 모델 개발을 목표로 하고 있습니다. 주요 연구 주제는 <b>시지각</b>, <b>인간-기계 인지</b>, <b>뇌 기반 인공지능</b>, <b>브레인 디코딩</b>입니다. 인문학적 통찰력과 공학적 전문성을 결합하고자 하는 대학원생 및 학부 연구생 모두 환영합니다. 연구 경험이나 연구실 참여에 관심이 있으신 분은 연구 책임자에게 이메일([✉️](contact))로 문의해 주시기 바랍니다. 
+        고려대학교 뇌기계인지 연구실은 심리학, 뇌공학, 인공지능 등의 다학제적 접근을 통해 인간과 기계의 고차원 인지 과정을 심층적으로 탐구합니다. 구체적으로 Psychophysics, fMRI/EEG, Computational Modeling 최신 연구 기법을 활용하여 인간의 인지적 행동과 신경학적 메커니즘을 규명하고, 이를 바탕으로 다양한 인공지능 모델과의 비교 분석을 통해 인간 중심의 신뢰성 높은 모델 개발을 목표로 하고 있습니다. 주요 연구 주제는 <b>시지각</b>, <b>인간 및 기계 인지</b>, <b>뇌 기반 인공지능</b>, <b>브레인 디코딩</b>입니다. 인문학적 통찰력과 공학적 전문성을 결합하고자 하는 대학원생 및 학부 연구생 모두 환영합니다. 연구 경험이나 연구실 참여에 관심이 있으신 분은 연구 책임자에게 이메일([✉️](contact))로 문의해 주시기 바랍니다. 
     design:
       columns: '1'
       background:
@@ -86,7 +86,7 @@ sections:
         <div><b>2024.03</b></div>
         <ul>
           <li>Our paper "Improved modeling of human vision by incorporating robustness to blur in convolutional neural networks" has been published in <i>Nature Communications</i>!</li>
-          <li>Hojin Jang has been appointed to the position of Assistant Professor in the Department of Brain and Cognitive Engineering at Korea University and the Human-Machine Cognition Lab's website has launched.</li>
+          <li>Hojin Jang has been appointed to the position of Assistant Professor in the Department of Brain and Cognitive Engineering at Korea University and the Brain and Machine Cognition Lab's website has launched.</li>
         </ul>
     design:
       columns: '1'
