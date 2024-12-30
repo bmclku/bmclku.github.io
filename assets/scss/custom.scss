@@ -62,14 +62,14 @@
   // line-height: inherit; /* Match the surrounding line height */
   // padding-right: 0;
   display: block; /* Make the link a block element to align */
-  text-align: right; 
+  padding-right: 0; 
 }
 
 /* Optional: Hover effect for links */
 .carousel-inner a:hover {
   all: unset; /* Reset all inherited and default styles */
   text-decoration: underline; /* Add underline on hover */
-  color: #007bff; /* Optional: Change color on hover */
+  color: #000; /* Optional: Change color on hover */
 }
 
 /*************************************************
