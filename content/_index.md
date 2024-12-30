@@ -8,7 +8,7 @@ sections:
   - block: slider
     content:
       slides:
-      - title: <font size=3px>Machine to Human</font>
+      - title: Machine to Human
         content:  Understand how the brain maintains reliable and robust perception of the complex visual world by leveraging a range of machine and deep learning techniques
         align: right
         background:
