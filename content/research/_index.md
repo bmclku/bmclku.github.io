@@ -19,7 +19,7 @@ sections:
       image:
         filename: interdisciplinary.jpg
       text: |
-        dOur vision is to advance understanding of cognition at the intersection of cognitive psychology, neuroscience, and computer science through integrated methodologies. Our research investigates key cognitive processes, such as perception, recognition, reasoning, generalization, cognitive control, learning, memory, and social cognition, to uncover their neural and computational mechanisms and bridge the gap between biological and artificial intelligence systems.
+        Our vision is to advance understanding of cognition at the intersection of cognitive psychology, neuroscience, and computer science through integrated methodologies. Our research investigates key cognitive processes, such as perception, recognition, reasoning, generalization, cognitive control, learning, memory, and social cognition, to uncover their neural and computational mechanisms and bridge the gap between biological and artificial intelligence systems.
   
   - block: portfolio
     content:
