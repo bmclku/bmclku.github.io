@@ -40,7 +40,7 @@ sections:
           color: '#333'
     design:
       # Slide height is automatic unless you force a specific height (e.g. '400px')
-      slide_height: 30em
+      slide_height: 50em
       # is_fullscreen: true
       # Automatically transition through slides?
       loop: true
