@@ -7,9 +7,12 @@
 // }
 .frontbanner-top {
   display: flex;
-  background-color: rgba(0,0,0,0.4); 
+  // background-color: rgba(0,0,0,0.4); 
   // width: 45%;
-  height: 200em;
+  // height: 200em;
+  object-fit: cover; 
+  width: 45%; 
+  height: 250px;
   margin: auto;
 }
 .frontbanner-bottom {
