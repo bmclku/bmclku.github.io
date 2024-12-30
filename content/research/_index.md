@@ -15,7 +15,7 @@ type: landing
 sections:
   - block: hero
     content:
-      title: <font size=7>Our vision is</font>
+      title: <font size=6>Our vision is</font>
       image:
         filename: intersect.png
       text: |
