@@ -47,6 +47,7 @@ sections:
       # Duration of transition between slides (in ms)
       interval: 4000
       css_class: "frontbanner-top"
+      font_size: small
   
   # - block: hero
   #   content:
