@@ -50,11 +50,11 @@
   max-width: 60em;
   // flex-wrap: wrap;
 }
-.text-md-left {
+.hero.text-md-left {
   flex: 0 0 60%;
   max-width: 60%;
 }
-.hero-media{
+.hero .hero-media{
   flex: 0 0 40%; 
   max-width: 40%;
   display: flex;
