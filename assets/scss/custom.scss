@@ -55,12 +55,9 @@
 
 .carousel-inner a {
   all: unset; /* Reset all inherited and default styles */
-  // text-decoration: none; /* Ensure no underline */
-  color: inherit; /* Match the surrounding text color */
   cursor: pointer; /* Ensure the link retains pointer cursor */
   // font-size: inherit; /* Match the surrounding font size */
   // line-height: inherit; /* Match the surrounding line height */
-  // padding-right: 0;
   display: block; /* Make the link a block element to align */
   padding-right: 0; 
 }
