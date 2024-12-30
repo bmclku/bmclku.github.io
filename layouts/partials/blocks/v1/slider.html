@@ -57,7 +57,7 @@
             {{ . | markdownify | emojify }}
           </p>
           {{ end }}
-          
+          v1
           {{ if $item.link.url }}
             {{ $pack := $item.link.icon_pack | default "fas" }}
             {{ $pack_prefix := $pack }}
