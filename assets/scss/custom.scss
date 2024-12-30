@@ -32,6 +32,14 @@
     margin: auto;
     width: 60em;
   }
+
+  .hero-media {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 50%;
+    text-align: center;
+  }
 }
 
 // .carousel-inner a {
@@ -44,13 +52,6 @@
 //   color: #000; /* Optional: Change color on hover */
 // }
 
-.research .hero-media {
-  display: flex;
-  align-items: center;
-  justify-content: center;
-  height: 50%;
-  text-align: center;
-}
 
 /*************************************************
  *  Navigtation bar
