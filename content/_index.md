@@ -19,6 +19,7 @@ sections:
           position: right
           color: '#666'
         link:
+          icon_pack: fab
           text: copyright
           url: https://www.freepik.com/free-photo/doctor-looking-ct-scan_25053976.htm#&position=13&from_view=search&track=ais&uuid=85ac9bf9-ff54-4a1b-acf2-e27914c0628b
       - title: <font size=6>Brain to Machine</font>
