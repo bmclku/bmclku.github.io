@@ -5,23 +5,14 @@
 # view: compact-research
 
 # # Optional banner image (relative to `assets/media/` folder).
-# banner:
-#   caption: ''
-#   image: ''
+banner:
+  caption: ''
+  image: interdisciplinary.jpg
 
 title: Research Intersts
 type: landing
 
 sections:
-  - block: biography
-    content:
-    design:
-      banner:
-        # Upload your cover image to the `assets/media/` folder and reference it here
-        filename: interdisciplinary.jpg
-      biography:
-        # Customize the style of your biography text
-        style: 'text-align: justify; font-size: 0.8em;'
   - block: portfolio
     content:
       title: Research Interests
