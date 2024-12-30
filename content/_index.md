@@ -19,8 +19,8 @@ sections:
           position: right
           color: '#666'
         link:
-          icon_pack: fab
-          text: copyright
+          icon: fab
+          text: Image by Freepik
           url: https://www.freepik.com/free-photo/doctor-looking-ct-scan_25053976.htm#&position=13&from_view=search&track=ais&uuid=85ac9bf9-ff54-4a1b-acf2-e27914c0628b
       - title: <font size=6>Brain to Machine</font>
         content: Design a more advanced brain-inspired model drawing from insights in psychology and neuroscience literature to bring value to real-world applications

@@ -39,7 +39,6 @@
 @media screen and (min-width: 30em) {
   .frontbanner-top {
     display: flex;
-    // justify-content: center;
     align-items: center;
     overflow: hidden;
     background-color: rgba(0,0,0,0.4); 
@@ -52,6 +51,23 @@
     margin: auto;
     width: 60em;
   }
+}
+
+/* Target the links in the slider */
+.carousel-inner a {
+  text-decoration: none; /* Remove underline */
+  color: inherit; /* Use the surrounding text color */
+  font-size: 1rem; /* Adjust font size as needed */
+  font-weight: normal; /* Set normal text weight */
+  margin: 0; /* Remove any default margin */
+  padding: 0; /* Remove button-like padding */
+  display: inline; /* Ensure the link behaves like text */
+}
+
+/* Optional: Add a hover effect */
+.carousel-inner a:hover {
+  text-decoration: underline; /* Add underline on hover */
+  color: #007bff; /* Optional: Change color on hover */
 }
 
 /*************************************************
