@@ -15,11 +15,11 @@ type: landing
 sections:
   - block: hero
     content:
-      title: <font size=6>We aim</font>
+      title: <font size=6>Our goal is</font>
       image:
         filename: intersect.png
       text: |
-        <font size=4>To explore cognition at the intersection of cognitive psychology, neuroscience, and computer science through a multidisciplinary approach. Our interests include perception, recognition, reasoning, cognitive control, learning, memory, and social cognition, with the goal of uncovering their neural and computational mechanisms and bridging the gap between biological and artificial intelligence systems.</font>
+        <font size=4>To explore cognition at the intersection of cognitive psychology, neuroscience, and computer science through a multidisciplinary approach. Areas of interest include perception, recognition, reasoning, cognitive control, learning, memory, and social cognition, with the goal of uncovering their neural and computational mechanisms and bridging the gap between biological and artificial intelligence systems.</font>
     design:
       css_class: "hero"
   
