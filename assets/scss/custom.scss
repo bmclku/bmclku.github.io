@@ -45,7 +45,11 @@
 // }
 
 .hero-media {
+  display: flex;
+  align-items: center;
+  justify-content: center;
   height: 50%;
+  text-align: center;
 }
 
 /*************************************************
