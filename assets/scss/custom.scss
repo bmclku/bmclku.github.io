@@ -41,7 +41,8 @@
     display: flex;
     // justify-content: center;
     align-items: center;
-    overflow: hidden;
+    // overflow: hidden;
+    object-fit: cover;
     background-color: rgba(0,0,0,0.4); 
     // width: 60rem;
     width: 100%;
