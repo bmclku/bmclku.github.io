@@ -13,7 +13,7 @@ sections:
         align: right
         background:
           image:
-            filename: machine_to_brain.jpg
+            filename: machine_to_human.jpg
             filters:
               brightness: 0.7
           position: right
@@ -23,7 +23,7 @@ sections:
         align: left
         background:
           image:
-            filename: brain_to_machine.jpg
+            filename: human_to_machine.jpg
             filters:
               brightness: 0.7
           position: center
@@ -33,7 +33,7 @@ sections:
         align: left
         background:
           image:
-            filename: brain_and_machine.jpg
+            filename: human_and_machine.jpg
             filters:
               brightness: 0.5
           position: center
