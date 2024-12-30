@@ -50,11 +50,11 @@
   width: 60em;
 }
 .text-md-left {
-  width: 60%;
+  max-width: 60%;
 }
 .hero-media{
   display: flex;
-  width: 40%;    
+  max-width: 40%;    
 }
 .hero-media img {
   max-width: 100%;   
