@@ -48,6 +48,7 @@
   display: flex;
   margin: auto;
   max-width: 60em;
+  align-items: stretch;
 }
 .hero .text-md-left {
   flex: 0 0 60%;
@@ -61,8 +62,8 @@
 }
 .hero .hero-media img {
   height: 100%;
-  width: auto; 
   max-height: 100%;
+  width: auto; 
 }
 
 /*************************************************
