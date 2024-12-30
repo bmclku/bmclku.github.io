@@ -45,13 +45,16 @@
 // }
 
 .hero {
+  display: flex;
   margin: auto;
   width: 60em;
 }
 .hero .text-md-left {
+  display: flex;
   max-width: 80%;
 }
 .hero .hero-media{
+  display: flex;
   max-width: 20%;    
 }
 .hero .hero-media img {
