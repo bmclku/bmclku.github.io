@@ -40,12 +40,13 @@ sections:
           color: '#333'
     design:
       # Slide height is automatic unless you force a specific height (e.g. '400px')
-      slide_height: 400px
+      # slide_height: 400px
       # is_fullscreen: true
       # Automatically transition through slides?
       loop: true
       # Duration of transition between slides (in ms)
-      interval: 2000
+      interval: 4000
+      css_class: "frontslider"
   
   - block: hero
     content:
