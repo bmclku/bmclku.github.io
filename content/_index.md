@@ -9,7 +9,7 @@ sections:
     content:
       slides:
       - title: Machine to Human
-        content:  <font size=6>Understand how the brain maintains reliable and robust perception of the complex visual world by leveraging a range of machine and deep learning techniques</font>
+        content:  <font size=3px>Understand how the brain maintains reliable and robust perception of the complex visual world by leveraging a range of machine and deep learning techniques</font>
         align: right
         background:
           image:
