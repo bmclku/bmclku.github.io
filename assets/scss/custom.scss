@@ -48,6 +48,7 @@
   display: flex;
   margin: auto;
   max-width: 60em;
+  flex-wrap: wrap; /* Allow wrapping for smaller screens */
 }
 .text-md-left {
   flex: 0 0 60%;
