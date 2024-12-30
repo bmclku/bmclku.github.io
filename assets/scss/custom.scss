@@ -48,7 +48,6 @@
   display: flex;
   margin: auto;
   max-width: 60em;
-  align-items: stretch;
 }
 .hero .text-md-left {
   flex: 0 0 70%;
@@ -60,11 +59,11 @@
   display: flex;
   align-items: center;
 }
-.hero .hero-media img {
-  height: 100%;
-  max-height: 50%;
-  width: auto; 
-}
+// .hero .hero-media img {
+//   height: 100%;
+//   max-height: 50%;
+//   width: auto; 
+// }
 
 /*************************************************
  *  Navigtation bar
