@@ -49,7 +49,7 @@
       {{/* To prevent control overlap, margins are based on $carousel-control-* in bootstrap-variables.scss */}}
       <div class="wg-hero dark container" style="margin-left: 6rem; margin-right: 6rem; text-align: {{$item.align | default "left"}};">
           <h1 class="hero-title">
-            {{ with $item.title }}{{ . | markdownify | emojify }}v0{{ end }}
+            {{ with $item.title }}{{ . | markdownify | emojify }}{{ end }}
           </h1>
 
           {{ with $item.content }}
@@ -57,7 +57,7 @@
             {{ . | markdownify | emojify }}
           </p>
           {{ end }}
-
+          v0
           {{ if $item.link.url }}
             {{ $pack := $item.link.icon_pack | default "fas" }}
             {{ $pack_prefix := $pack }}
