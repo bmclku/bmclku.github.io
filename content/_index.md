@@ -18,8 +18,7 @@ sections:
               brightness: 0.7
           position: right
           color: '#666'
-        links:
-        - name: naver
+        link:
           url: www.naver.com
       - title: <font size=6>Brain to Machine</font>
         content: Design a more advanced brain-inspired model drawing from insights in psychology and neuroscience literature to bring value to real-world applications
