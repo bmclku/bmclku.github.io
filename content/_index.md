@@ -45,7 +45,7 @@ sections:
       # Automatically transition through slides?
       loop: true
       # Duration of transition between slides (in ms)
-      interval: 4000
+      interval: 10000
       css_class: "frontbanner-top"
   
   # - block: hero
