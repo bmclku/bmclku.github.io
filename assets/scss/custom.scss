@@ -45,6 +45,7 @@
 // }
 
 .hero {
+  display: flex;
   margin: auto;
   width: 60em;
 }
@@ -52,6 +53,7 @@
   width: 60%;
 }
 .hero-media{
+  display: flex;
   width: 40%;    
 }
 .hero-media img {
