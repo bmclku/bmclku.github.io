@@ -37,18 +37,20 @@
 }
 
 @media screen and (min-width: 30em) {
-  .frontblock {
-    margin: auto;
-    width: 60em;
-  }
   .frontbanner-top {
     display: flex;
+    justify-content: center;
+    align-items: center;
+    overflow: hidden;
     background-color: rgba(0,0,0,0.4); 
     // width: 60rem;
     width: 100%;
     height: 30%;
     margin: auto;
-    object-fit: cover;
+  }
+  .frontblock {
+    margin: auto;
+    width: 60em;
   }
 }
 
