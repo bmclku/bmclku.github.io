@@ -18,7 +18,7 @@ sections:
               brightness: 0.7
           position: right
           color: '#666'
-      - title: Brain to Machine
+      - title: <font size=6>Brain to Machine</font>
         content: Design a more advanced brain-inspired model drawing from insights in psychology and neuroscience literature to bring value to real-world applications
         align: left
         background:
@@ -28,7 +28,7 @@ sections:
               brightness: 0.7
           position: center
           color: '#555'
-      - title: Brain and Machine
+      - title: <font size=6>Brain and Machine</font>
         content: Pursue a future where human-machine interaction is seamless and intuitive by bridging the cognitive and functional gap between human intelligence and AI capabilities
         align: left
         background:
