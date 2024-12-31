@@ -20,11 +20,8 @@ sections:
 
         > Gazzaniga, M. S., Ivry, R. B., & Mangun, G. R. (2018). Cognitive neuroscience: The biology of the mind. W.W. Norton & Company.
 
-        머신러닝 기초: Raschka, S., Liu, Y. H., & Mirjalili, V. (2022). Machine Learning with PyTorch and Scikit-Learn.
-        인지 신경과학: Gazzaniga, M. S., Ivry, R. B., & Mangun, G. R. (2018). Cognitive neuroscience: The biology of the mind (5th ed.).
-        학습 방법
-        대학원생은 위 교과서를 활용해 핵심 개념을 익히고, 특히 관심이 있는 챕터를 선정하여 심화 학습을 진행합니다. 예를 들어, Cognitive Neuroscience 교과서의 6장 "Object Recognition"은 인간의 물체 인식 과정을 이해하는 데 유용합니다.
-
+        위 교과서를 통해 머신러닝의 기초 개념을 확립하고, 인지 신경과학 교재에서는 개인적으로 흥미로운 주제를 선정해 인지 분야에 대한 기본적인 지식을 습득합니다. 만약 주제를 선택하는 데 어려움이 있다면, 6장 "Object Recognition"을 추천합니다. 
+        
         논문 탐구 및 발표
         기본 트레이닝 기간 동안, 연구생은 자신이 흥미를 느끼는 주제를 중심으로 최신 논문을 찾아 검토합니다. 이를 위해 Engineering 분야에서는 NeurIPS, ICLR, ICML, CVPR, ICCV, ECCV 등의 컨퍼런스에서 발표된 최근 2년간의 논문을, Neuroscience와 Psychology 분야에서는 Nature, Science, PNAS, PLOS Computational Biology 등의 저널에서 최근 4년간 발표된 논문을 탐색합니다.
         최종적으로 PI와의 상담을 통해 연구 방향과 부합하는 2개의 논문을 선정하고, 이를 발표하며 연구 주제를 구체화합니다.
