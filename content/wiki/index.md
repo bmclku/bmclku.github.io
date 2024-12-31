@@ -32,6 +32,13 @@ sections:
         연구 및 실습 단계에서는 연구 주제와 프로젝트/과제에 따라 필요한 기술과 소양을 학습합니다. 이 과정은 Computational, Behavioral, fMRI, EEG의 네 가지 주요 영역으로 나뉘며, 아래는 각 영역의 세부 내용입니다.
 
         #### Computational Skills
+        인공지능 연구에 필요한 기초 수학 지식과 최신 기술 구현 능력을 습득합니다. 
+
+        > Goodfellow, I., Bengio, Y., & Courville, A. (2016). Deep learning. MIT Press.
+
+        위 교재의 Part 1과 Part 2에서 소개되는 기초 수학 개념과 신경망 학습의 원리를 추천합니다(<a href="https://www.deeplearningbook.org/">링크</a>).
+
+        
         이 단계에서는 머신러닝과 딥러닝의 이론과 실습 능력을 습득하고 이를 활용하여 데이터 분석과 모델 개발을 수행합니다. 학습 자료로는 Deep Learning (Bengio, Goodfellow & Courville, 2017)과 Machine Learning with PyTorch and Scikit-Learn (Raschka et al., 2022)을 사용합니다. 연구생들은 Python 기반의 PyTorch, TensorFlow와 같은 딥러닝 프레임워크를 익히고, Pandas와 NumPy 등을 활용해 데이터 전처리와 시각화 과정을 수행합니다. 이후 실제 연구 데이터를 기반으로 모델을 설계하고 성능을 평가하며, 이를 통해 연구 주제를 구체화합니다.
 
         #### Behavioral Research
