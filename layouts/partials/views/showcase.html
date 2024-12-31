@@ -61,8 +61,10 @@
         {{ $image := . }}
         {{ if ne $image.MediaType.SubType "gif" }}{{ $image = $image.Process "resize 540x webp" }}{{ end }}
         {{if $do_link}}<a href="{{ $link }}" {{ $target | safeHTMLAttr }}>{{end}}
+          <!-- <img src="{{ $image.RelPermalink }}" height="{{ $image.Height }}" width="{{ $image.Width }}"
+              alt="{{ $item.Title }}" loading="lazy" style="width: 540px; height: auto; object-fit: cover;"> -->
           <img src="{{ $image.RelPermalink }}" height="{{ $image.Height }}" width="{{ $image.Width }}"
-              alt="{{ $item.Title }}" loading="lazy" style="width: 540px; height: auto; object-fit: contain;">
+          alt="{{ $item.Title }}" loading="lazy" style="width: auto; height: 100px; object-fit: contain;">
         {{if $do_link}}</a>{{end}}
       {{end}}
     </div>
