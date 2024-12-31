@@ -114,10 +114,10 @@
  **************************************************/
 
 .view-showcase img {
-  max-height: 100px;
-  height: auto;
   width: auto;
-  object-fit: contain; /* Ensure no cropping */
+  height: auto;
+  max-height: 100px;
+  object-fit: contain; !important;
 }
 
 /*************************************************
