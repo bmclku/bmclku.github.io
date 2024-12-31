@@ -114,10 +114,10 @@ sections:
       text: |
         Our current research interests include (but are not limited to) the following topics:
         <ul>
-          <li><b>Visual Perception:</b> Robust visual perception, Object and face recognition, Visual attention</li>
-          <li><b>Human-Machine Cognition:</b> Illusions, High-level reasoning, Contextual and semantic understanding</li>
-          <li><b>Brain-Inspired AI:</b> Recurrent processing, Predictive coding, Developmental learning</li>
-          <li><b>Brain Decoding</b></li>
+          <li><b>Visual Perception and Cognition:</b> How does the brain integrate complex visual signals to construct a seamless perception of reality?</li>
+          <li><b>Machine Cognition:</b> How can deep learning models, such as LLMs and VLMs, replicate human-like contextual and semantic understanding?</li>
+          <li><b>Brain-Inspired AI:</b> How can principles of brain function guide the development of more robust and capable AI systems?</li>
+          <li><b>Brain Encdoing and Decoding:</b> How can machine learning help us interpret brain activity to understand cognition?</li>
         </ul>
         For more details, please refer to the Research page(<a href={{< ref "research" >}}>✍️</a>).    
     design:
