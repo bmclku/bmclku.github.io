@@ -1,5 +1,5 @@
 ---
-title: Visual Perception
+title: Visual Perception and Cognition
 date: 
 show_date: false
 weight: 1
@@ -14,7 +14,8 @@ Humans possess an exceptional ability for robust visual recognition, enabling se
 - Robust visual perception 
 - Object and face recognition
 - Visual attention 
-- Other visual cognitive abilities
+- Viusal reasoning
+- Visual perceptual learning
 
 To achieve this, our group employs diverse psychological methodologies, neuroimaging technologies, and deep learning models to uncover the secrets of human vision. Recent publications highlighting our efforts include [Jang and Tong, Nature Communications, 2024](https://www.nature.com/articles/s41467-024-45679-0) and [Jang et al., Neural Computation, 2023](https://doi.org/10.1162/neco_a_01621).
 
