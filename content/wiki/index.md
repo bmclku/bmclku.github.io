@@ -13,7 +13,7 @@ sections:
 
         학습 및 연구 로드맵은 다음과 같습니다. 
         # ![Roadmap](timetable.png "caption")
-        <img src="timetable.jpg" width="100%"/>
+        <img src="timetable.png" width="100%"/>
 
         뇌기계인지 연구실은 심리학, 뇌공학, 인공지능 등 다학제적 접근을 통해 인간과 기계의 고차원 인지 과정을 탐구하는 것이 목표입니다.
         대학원생은 융합 소양을 기르는 것이 중요합니다. 
