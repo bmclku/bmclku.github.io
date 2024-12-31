@@ -25,7 +25,7 @@ sections:
   
   - block: portfolio
     content:
-      title: Research Interests
+      title: <font size=6>Our research interests are</font>
       subtitle: " "
       text: " "
       filters:
