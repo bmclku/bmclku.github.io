@@ -43,11 +43,16 @@ sections:
 
         > Behavior: Morling, B. (2021). Research methods in psychology: Evaluating a world of information. W.W. Norton & Company.
         
-        위 교재의 Part 1: Introduction to Scientific Reasoning을 통해 과학적 추론과 실험 설계의 기초 원리를 이해합니다. 이후, PsychoPy를 활용해 실험 환경을 구현하고, 연구 주제에 맞는 행동 실험 프로토콜을 개발합니다. PsychoPy의 활용법에 대한 자세한 정보는 공식 문서(<a href="https://psychopy.org/documentation.html/">링크</a>)에서 확인할 수 있습니다.
+        위 교재의 Part 1: Introduction to Scientific Reasoning을 통해 과학적 추론과 실험 설계의 기초 원리를 이해합니다. 이후, PsychoPy를 활용해 실험 환경을 구현하고, 연구 주제에 맞는 행동 실험 프로토콜을 개발합니다. PsychoPy의 활용법에 대한 자세한 정보는 공식 문서(<a href="https://psychopy.org/documentation.html">링크</a>)에서 확인할 수 있습니다.
         
         #### 3. fMRI Analysis
-        fMRI 데이터를 전처리하고 분석하며, 뇌의 기능적 메커니즘을 이해하는 과정입니다. 연구생들은 Handbook of Functional MRI Data Analysis (Poldrack et al., 2011)를 기반으로 fMRIPrep를 활용한 데이터 전처리를 실습합니다. 이후 SPM, FSL, AFNI 등의 분석 도구를 사용하여 뇌 영상 데이터를 분석하며, Region of Interest (ROI) 분석과 같은 방법을 통해 특정 뇌 영역의 활동을 정량적으로 평가합니다. 연구 결과는 뇌 지도로 시각화되고, 통계적 분석을 통해 연구 주제를 검증하는 데 사용됩니다.
+        fMRI 데이터를 전처리하고 분석하며, 뇌의 기능적 메커니즘을 이해하는 능력을 배양합니다. 
         
+        > Poldrack, R. A., Mumford, J. A., & Nichols, T. E. (2011). Handbook of functional MRI data analysis. Cambridge University Press.
+
+        위 교재(<a href="https://www.cambridge.org/core/books/handbook-of-functional-mri-data-analysis/8EDF966C65811FCCC306F7C916228529">링크</a>)를 통하여 fMRI 데이터의 처리 및 분석에 대한 전반적인 개념과 방법을 습득합니다. 이후, fMRI 데이터 전처리를 위한 도구인 fMRIPrep을 사용하여 실제 데이터를 전처리하는 방법을 익히며, 데이터 분석에 필요한 기술을 체득합니다. fMRIPrep 사용법과 관련된 자세한 정보는 관련 페이퍼(<a href="https://doi.org/10.1038/s41592-018-0235-4">링크</a>) 및 공식 문서(<a href="https://fmriprep.org/en/stable/">링크</a>)를 통해 확인할 수 있습니다.
+
+        #### 4. EEG Analysis
 
 
         Research: 융합 소양을 위하여, 개인 프로젝트 또는 과제에 맞추어 다음 툴을 익힐 수 있다.
