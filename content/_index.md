@@ -136,8 +136,8 @@ sections:
       text: |
         <div><b>2024.11</b></div>
         <ul>
-          <li>Hojin Jang gave talks at the Korean Society of Medical and Biological Engineering and the Artificial Vision & Neural Engineering Seminar.</li>
           <li>Jiwon Kim and Jimin Kang join the lab. Welcome!</li>
+          <li>Hojin Jang gave talks at the Korean Society of Medical and Biological Engineering and the Artificial Vision & Neural Engineering Seminar.</li>
         </ul>
 
         <div><b>2024.09</b></div>
