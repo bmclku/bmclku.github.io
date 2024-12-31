@@ -5,7 +5,7 @@ show_date: false
 weight: 1
 ---
 
-Vision is arguably the most important sense for perceiving information from the world. Despite significant variations in the external environment, our visual system remains stable, consistent, and precise. What mechanisms enable our sophisticated visual system, and how can they be understood? Answering these questions is also crucial for developing reliable machine vision models.
+Vision is arguably the most important sense for perceiving information from the world. Despite significant variations in the external environment, our visual system remains stable, consistent, and precise. What mechanisms enable our sophisticated visual system, and how can they be understood?
 
 <!--more-->
 
