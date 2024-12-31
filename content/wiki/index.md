@@ -23,29 +23,31 @@ sections:
         위 교과서를 통해 머신러닝의 기초 개념을 확립하고, 인지 신경과학 교재에서는 개인적으로 흥미로운 주제를 선정해 인지 분야에 대한 기본적인 지식을 습득합니다. 만약 주제를 선택하는 데 어려움이 있다면, 6장 "Object Recognition"을 추천합니다. 
         
         추가로, 기본 트레이닝 기간 동안 연구생은 자신이 흥미를 느끼는 주제를 중심으로 최신 논문을 찾아 검토합니다. 다음은 논문 탐색을 위한 가이드라인입니다:
-        1. Computer Science 및 Engineering 분야: NeurIPS, ICLR, ICML, CVPR, ICCV, ECCV 등 주요 컨퍼런스, 또는 Nature Machine Intelligence, Nature Computational Science, Journal of Machine Learning Research, IEEE Transactions on Pattern Analysis and Machine Intelligence 등 학술 저널지에서 발표된 최근 2년간 발표된 논문 중 3편 선정.
-        2. Neuroscience 및 Psychology 분야: Nature, Nature Neuroscience, Nature Communications, Nature Human Behavior, Science, Science Advances. Cell, Neuron, Current Biology, PNAS, PLOS Biology, PLOS Computational Biology 등 학술 저널지에서 발표된 최근 4년간 발표된 논문 중 3편 선정.
+        - Computer Science 및 Engineering 분야: NeurIPS, ICLR, ICML, CVPR, ICCV, ECCV 등 주요 컨퍼런스, 또는 Nature Machine Intelligence, Nature Computational Science, Journal of Machine Learning Research, IEEE Transactions on Pattern Analysis and Machine Intelligence 등 학술 저널지에서 발표된 최근 2년간 발표된 논문 중 3편 선정.
+        - Neuroscience 및 Psychology 분야: Nature, Nature Neuroscience, Nature Communications, Nature Human Behavior, Science, Science Advances. Cell, Neuron, Current Biology, PNAS, PLOS Biology, PLOS Computational Biology 등 학술 저널지에서 발표된 최근 4년간 발표된 논문 중 3편 선정.
         
         최종적으로 PI와의 상담을 통해 연구 방향과 부합하는 2개의 논문을 선정하고, 이를 발표하며 연구 주제를 구체화합니다.
 
         ### 연구 및 실습 (Research and Skills Development)
         연구 및 실습 단계에서는 연구 주제와 프로젝트/과제에 따라 필요한 기술과 소양을 학습합니다. 이 과정은 Computational, Behavioral, fMRI, EEG의 네 가지 주요 영역으로 나뉘며, 아래는 각 영역의 세부 내용입니다.
 
-        #### Computational Skills
+        #### 1. Computational Skills
         인공지능 연구에 필요한 기초 수학 지식과 최신 기술 구현 능력을 습득합니다. 
 
         > Goodfellow, I., Bengio, Y., & Courville, A. (2016). Deep learning. MIT Press.
 
         위 교재(<a href="https://www.deeplearningbook.org/">링크</a>)의 Part 1과 Part 2에서 다루는 기초 수학 개념과 신경망 학습의 원리를 추천합니다.
 
-        #### Behavioral Research
+        #### 2. Behavioral Research
         심리학적 실험 설계와 인간 행동 데이터 수집 및 분석 능력을 배양합니다.
 
         > Behavior: Morling, B. (2021). Research methods in psychology: Evaluating a world of information. W.W. Norton & Company.
         
-        위 교재의 Part 1: Introduction to Scientific Reasoning을 통해 과학적 추론과 실험 설계의 기본 원리를 이해합니다. 
-        PsychoPy를 활용해 실험 환경을 구현합니다.
-
+        위 교재의 Part 1: Introduction to Scientific Reasoning을 통해 과학적 추론과 실험 설계의 기초 원리를 이해합니다. 이후, PsychoPy를 활용해 실험 환경을 구현하고, 연구 주제에 맞는 행동 실험 프로토콜을 개발합니다. PsychoPy의 활용법에 대한 자세한 정보는 공식 문서(<a href="https://psychopy.org/documentation.html/">링크</a>)에서 확인할 수 있습니다.
+        
+        #### 3. fMRI Analysis
+        fMRI 데이터를 전처리하고 분석하며, 뇌의 기능적 메커니즘을 이해하는 과정입니다. 연구생들은 Handbook of Functional MRI Data Analysis (Poldrack et al., 2011)를 기반으로 fMRIPrep를 활용한 데이터 전처리를 실습합니다. 이후 SPM, FSL, AFNI 등의 분석 도구를 사용하여 뇌 영상 데이터를 분석하며, Region of Interest (ROI) 분석과 같은 방법을 통해 특정 뇌 영역의 활동을 정량적으로 평가합니다. 연구 결과는 뇌 지도로 시각화되고, 통계적 분석을 통해 연구 주제를 검증하는 데 사용됩니다.
+        
 
 
         Research: 융합 소양을 위하여, 개인 프로젝트 또는 과제에 맞추어 다음 툴을 익힐 수 있다.
