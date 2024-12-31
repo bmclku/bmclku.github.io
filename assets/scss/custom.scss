@@ -118,6 +118,7 @@
   // max-width: 100%;
   height: auto;
   // width: auto;
+  object-fit: unset; /* Ensure no cropping */
 }
 
 /*************************************************
