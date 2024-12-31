@@ -7,7 +7,7 @@
 # # Optional banner image (relative to `assets/media/` folder).
 # banner:
 #   caption: ''
-#   image: interdisciplinary.jpg
+#   image: intersect.jpg
 
 title: Research Intersts
 type: landing
