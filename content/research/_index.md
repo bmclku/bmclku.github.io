@@ -44,7 +44,7 @@ sections:
       background:
         color: '#FFFFFF'
       spacing:
-        padding: ["2em", "0em", "2em", "0em"]
+        padding: ["0em", "0em", "0em", "0em"]
       css_class: "frontblock"
   
 ---
