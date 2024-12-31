@@ -134,14 +134,15 @@ sections:
     content:
       title: Latest News
       text: |
-        <div><b>2024.09</b></div>
+        <div><b>2024.11</b></div>
         <ul>
-          <li><a href="/author/suhyun-kim/">Suhyun Kim</a> join the lab. Welcome!</li>
+          <li>Hojin Jang gave talks at the Korean Society of Medical and Biological Engineering and the Artificial Vision & Neural Engineering Seminar.</li>
+          <li>Jiwon Kim and Jimin Kang join the lab. Welcome!</li>
         </ul>
 
-        <div><b>2024.08</b></div>
+        <div><b>2024.09</b></div>
         <ul>
-          <li><a href="/author/yunji-cho/">Yunji Cho</a> and <a href="/author/dongyoung-kim/">Dongyoung Kim</a> join the lab. Welcome!</li>
+          <li><a href="/author/yunji-cho/">Yunji Cho</a>, <a href="/author/suhyun-kim/">Suhyun Kim</a>, and Minju Kim join the lab. Welcome!</li>
         </ul>
 
         <div><b>2024.03</b></div>
