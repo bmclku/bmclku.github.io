@@ -37,9 +37,9 @@ sections:
     design:
       # view: masonry
       # view: card
-      # view: showcase
+      view: showcase
       # view: compact-research
-      view: article-grid
+      # view: article-grid
       columns: '1'
       background:
         color: '#FFFFFF'
