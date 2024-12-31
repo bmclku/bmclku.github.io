@@ -25,7 +25,8 @@ sections:
   
   - block: portfolio
     content:
-      title: <div style="text-align:left;"><font size="6">Our research interests are</font></div>
+      # title: <div style="text-align:left;"><font size="6">Our research interests are</font></div>
+      title: <font size="6">Our research interests are</font>
       subtitle: " "
       text: " "
       filters:
