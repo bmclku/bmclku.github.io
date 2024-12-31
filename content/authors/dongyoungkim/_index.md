@@ -10,7 +10,7 @@ last_name: Kim
 # superuser: true
 
 # Role/position
-role: Graduate Student
+# role: Graduate Student
 
 # Organizations/Affiliations
 # organizations:
