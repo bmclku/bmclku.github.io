@@ -29,6 +29,7 @@ sections:
         최종적으로 PI와의 상담을 통해 연구 방향과 부합하는 2개의 논문을 선정하고, 이를 발표하며 연구 주제를 구체화합니다.
 
         <br>
+
         ### 연구 및 실습 (Research and Skills Development)
         연구 및 실습 단계에서는 연구 주제와 프로젝트/과제에 따라 필요한 기술과 소양을 학습합니다. 이 과정은 Computational, Behavioral, fMRI, EEG의 네 가지 주요 영역으로 나뉘며, 아래는 각 영역의 세부 내용입니다.
 
