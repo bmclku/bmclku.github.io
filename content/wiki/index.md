@@ -16,7 +16,7 @@ sections:
         ### 기본 트레이닝 (Basic Training)
         연구실 활동의 초기 단계에서는 연구를 위한 기초 머신러닝 능력을 습득하고 관심 있는 연구 분야를 탐구하는 것을 목표로 합니다. 이를 위해 학부연구생 및 대학원생들은 기본적인 학습 자료를 바탕으로 연구에 필요한 이론적 토대를 다지고, 최신 논문을 검토하며 관심 있는 주제를 구체화합니다.
 
-        > Raschka, S., Liu, Y. H., & Mirjalili, V. (2022). Machine Learning with PyTorch and Scikit-Learn.
+        > Raschka, S., Liu, Y. H., & Mirjalili, V. (2022). Machine Learning with PyTorch and Scikit-Learn: Develop machine learning and deep learning models with Python.
 
         > Gazzaniga, M. S., Ivry, R. B., & Mangun, G. R. (2018). Cognitive neuroscience: The biology of the mind.
 
