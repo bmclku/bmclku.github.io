@@ -22,23 +22,11 @@ sections:
 
         위 교과서를 통해 머신러닝의 기초 개념을 확립하고, 인지 신경과학 교재에서는 개인적으로 흥미로운 주제를 선정해 인지 분야에 대한 기본적인 지식을 습득합니다. 만약 주제를 선택하는 데 어려움이 있다면, 6장 "Object Recognition"을 추천합니다. 
         
-        논문 탐구 및 발표
-        기본 트레이닝 기간 동안, 연구생은 자신이 흥미를 느끼는 주제를 중심으로 최신 논문을 찾아 검토합니다. 이를 위해 Engineering 분야에서는 NeurIPS, ICLR, ICML, CVPR, ICCV, ECCV 등의 컨퍼런스에서 발표된 최근 2년간의 논문을, Neuroscience와 Psychology 분야에서는 Nature, Science, PNAS, PLOS Computational Biology 등의 저널에서 최근 4년간 발표된 논문을 탐색합니다.
+        추가로, 기본 트레이닝 기간 동안 연구생은 자신이 흥미를 느끼는 주제를 중심으로 최신 논문을 찾아 검토합니다. 다음은 논문 탐색을 위한 가이드라인입니다:
+        1. Engineering 분야: NeurIPS, ICLR, ICML, CVPR, ICCV, ECCV 등 주요 컨퍼런스, 또는 Nature Machine Intelligence, Nature Computational Science, Journal of Machine Learning Research (JMLR), IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI) 등 학술 저널지에서 발표된 최근 2년간 발표된 논문 중 3편 선정.
+        2. Neuroscience 및 Psychology 분야: Nature, Nature Neuroscience, Nature Communications, Nature Human Behavior, Science, Science Advances. Cell, Neuron, Current Biology, PNAS, PLOS Biology, PLOS Computational Biology 등 학술 저널지에서 발표된 최근 4년간 발표된 논문 중 3편 선정.
         최종적으로 PI와의 상담을 통해 연구 방향과 부합하는 2개의 논문을 선정하고, 이를 발표하며 연구 주제를 구체화합니다.
 
-
-
-
-        Basic Training: 연구를 위한 머신러닝 기본능력 스킬 획득 및 관심 연구분야 탐험을 위한 트레이닝.
-        - 추천 교과서: Raschka, S., Liu, Y. H., & Mirjalili, V. (2022). Machine Learning with PyTorch and Scikit-Learn: Develop machine learning and deep learning models with Python. Packt Publishing Ltd.
-        - Gazzaniga, M. S., Ivry, R. B., & Mangun, G. R. (2018). Cognitive neuroscience: The biology of the mind (5th ed.). W.W. Norton & Company. 관심있는 챕터 찾아서 읽기. e.g., Chapter 6. Object Recognition. 
-        - 이 기간동안, 연구생은 관심 토픽을 찾고 관련 최신 페이퍼를 찾는 것을 목표로 한다. 이를 위하여, Engineering 분야에서 3개의 페이퍼, Science 분야에서 3개의  페이퍼를 선정한다. 
-        - Engineering은 일반적으로 NerIPS, ICLR, ICML, CVPR, ICCV, ECCV 최근 2년간의 페이퍼에서 찾아본다. 
-        Nature Machine Intellgience, Nature Computational Science, Journal of Machine Learning Research, Neural Networks,
-        INTERNATIONAL JOURNAL OF COMPUTER VISION
-        IEEE TRANSACTIONS ON PATTERN ANALYSIS AND MACHINE INTELLIGENCE
-        - Neuroscience, Psycholgoy에서는 Nature, Nature Neuroscience, Nature Communications, Nature Human Behavior, Science, Science Advances, PNAS, PloS Biology, PloS Computational Biology, 등에서 최근 4년 페이퍼를 찾아본다. 
-        - 최종적으로 선정된 페이퍼와 함께 PI와 상담하여, 최종적으로 2개의 페이퍼를 선정하여 발표하는 것을 목표로 한다. 
 
         Research: 융합 소양을 위하여, 개인 프로젝트 또는 과제에 맞추어 다음 툴을 익힐 수 있다.
         - Computational: Advanced: Bengio, Y., Goodfellow, I., & Courville, A. (2017). Deep learning (Vol. 1). Cambridge, MA, USA: MIT press. Parts 1 & 2. link: https://www.deeplearningbook.org/ 
