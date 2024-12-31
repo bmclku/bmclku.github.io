@@ -36,8 +36,8 @@ sections:
           - page
     design:
       # view: masonry
-      view: card
-      # view: showcase
+      # view: card
+      view: showcase
       # view: compact-research
       # view: article-grid
       columns: '1'
