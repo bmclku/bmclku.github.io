@@ -53,8 +53,8 @@
   flex: 0 0 67%;
   max-width: 67%;
 }
-.hero .text-md-left .hero-lead {
-  margin-top: 20px;
+.hero .text-md-left .hero-title {
+  margin-bottom: 20px;
 }
 .hero .hero-media{
   display: flex;
@@ -108,16 +108,6 @@
 .card:hover .card-image.hover-overlay::after {
   opacity: 0;
 }
-
-/*************************************************
- *  Showcase
- **************************************************/
-
-// .view-showcase img {
-//   max-height: 50em;
-//   width: auto;
-//   height: auto;
-// }
 
 /*************************************************
  *  Projects
