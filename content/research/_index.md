@@ -15,7 +15,7 @@ type: landing
 sections:
   - block: hero
     content:
-      title: <font size=6>Our goal is</font>
+      title: <font size=6>Our Goal is</font>
       image:
         filename: intersect.png
       text: |
@@ -25,7 +25,7 @@ sections:
   
   - block: portfolio
     content:
-      title: <div style="text-align:left;"><font size="6">Our research interests are</font></div>
+      title: <div style="text-align:left;"><font size="6">Our Research Interests are</font></div>
       subtitle: " "
       text: " "
       filters:
