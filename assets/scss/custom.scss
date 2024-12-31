@@ -114,6 +114,7 @@
  **************************************************/
 
 .view-showcase img {
+  display: block; /* Ensure proper scaling */
   max-height: 100px;
   // max-width: 100%;
   height: auto;
