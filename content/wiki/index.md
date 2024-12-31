@@ -38,10 +38,15 @@ sections:
 
         위 교재(<a href="https://www.deeplearningbook.org/">링크</a>)의 Part 1과 Part 2에서 다루는 기초 수학 개념과 신경망 학습의 원리를 추천합니다.
 
-        
-        이 단계에서는 머신러닝과 딥러닝의 이론과 실습 능력을 습득하고 이를 활용하여 데이터 분석과 모델 개발을 수행합니다. 학습 자료로는 Deep Learning (Bengio, Goodfellow & Courville, 2017)과 Machine Learning with PyTorch and Scikit-Learn (Raschka et al., 2022)을 사용합니다. 연구생들은 Python 기반의 PyTorch, TensorFlow와 같은 딥러닝 프레임워크를 익히고, Pandas와 NumPy 등을 활용해 데이터 전처리와 시각화 과정을 수행합니다. 이후 실제 연구 데이터를 기반으로 모델을 설계하고 성능을 평가하며, 이를 통해 연구 주제를 구체화합니다.
-
         #### Behavioral Research
+        심리학적 실험 설계와 인간 행동 데이터 수집 및 분석 능력을 배양합니다.
+
+        > Behavior: Morling, B. (2021). Research methods in psychology: Evaluating a world of information. W.W. Norton & Company.
+        
+        위 교재의 Part 1: Introduction to Scientific Reasoning을 통해 과학적 추론과 실험 설계의 기본 원리를 이해합니다. 
+        PsychoPy를 활용해 실험 환경을 구현합니다.
+
+
 
         Research: 융합 소양을 위하여, 개인 프로젝트 또는 과제에 맞추어 다음 툴을 익힐 수 있다.
         - Computational: Advanced: Bengio, Y., Goodfellow, I., & Courville, A. (2017). Deep learning (Vol. 1). Cambridge, MA, USA: MIT press. Parts 1 & 2. link: https://www.deeplearningbook.org/ 
