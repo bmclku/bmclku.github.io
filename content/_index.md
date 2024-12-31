@@ -115,7 +115,7 @@ sections:
         Our current research interests include (but are not limited to) the following topics:
         <ul>
           <li><b>Visual Perception and Cognition:</b> How does the brain integrate complex visual signals to construct a seamless perception of reality?</li>
-          <li><b>Machine Cognition:</b> How can deep learning models, such as LLMs/VLMs, replicate human-like contextual and semantic understanding?</li>
+          <li><b>Machine Cognition:</b> How can deep learning models like LLMs and VLMs replicate human-like contextual and semantic understanding?</li>
           <li><b>Brain-Inspired AI:</b> How can principles of brain function guide the development of more robust and capable AI systems?</li>
           <li><b>Brain Encdoing and Decoding:</b> How can machine learning help us interpret brain activity to understand cognition?</li>
         </ul>
