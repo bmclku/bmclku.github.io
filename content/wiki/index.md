@@ -13,10 +13,22 @@ sections:
 
         ![Roadmap](timetable.png "")
 
-        뇌기계인지 연구실은 심리학, 뇌공학, 인공지능 등 다학제적 접근을 통해 인간과 기계의 고차원 인지 과정을 탐구하는 것이 목표입니다.
-        대학원생은 융합 소양을 기르는 것이 중요합니다. 
+        ####기본 트레이닝 (Basic Training)
+        연구실 활동의 초기 단계에서는 연구를 위한 기초 머신러닝 능력을 습득하고 관심 있는 연구 분야를 탐구하는 것을 목표로 합니다. 이를 위해 대학원생들은 기본적인 학습 자료를 바탕으로 연구에 필요한 이론적 토대를 다지고, 최신 논문을 검토하며 관심 있는 주제를 구체화합니다.
 
-        기본적인 이상적인 타임라인은 다음과 같습니다.
+        추천 교과서
+
+        머신러닝 기초: Raschka, S., Liu, Y. H., & Mirjalili, V. (2022). Machine Learning with PyTorch and Scikit-Learn.
+        인지 신경과학: Gazzaniga, M. S., Ivry, R. B., & Mangun, G. R. (2018). Cognitive neuroscience: The biology of the mind (5th ed.).
+        학습 방법
+        대학원생은 위 교과서를 활용해 핵심 개념을 익히고, 특히 관심이 있는 챕터를 선정하여 심화 학습을 진행합니다. 예를 들어, Cognitive Neuroscience 교과서의 6장 "Object Recognition"은 인간의 물체 인식 과정을 이해하는 데 유용합니다.
+
+        논문 탐구 및 발표
+        기본 트레이닝 기간 동안, 연구생은 자신이 흥미를 느끼는 주제를 중심으로 최신 논문을 찾아 검토합니다. 이를 위해 Engineering 분야에서는 NeurIPS, ICLR, ICML, CVPR, ICCV, ECCV 등의 컨퍼런스에서 발표된 최근 2년간의 논문을, Neuroscience와 Psychology 분야에서는 Nature, Science, PNAS, PLOS Computational Biology 등의 저널에서 최근 4년간 발표된 논문을 탐색합니다.
+        최종적으로 PI와의 상담을 통해 연구 방향과 부합하는 2개의 논문을 선정하고, 이를 발표하며 연구 주제를 구체화합니다.
+
+
+
 
         Basic Training: 연구를 위한 머신러닝 기본능력 스킬 획득 및 관심 연구분야 탐험을 위한 트레이닝.
         - 추천 교과서: Raschka, S., Liu, Y. H., & Mirjalili, V. (2022). Machine Learning with PyTorch and Scikit-Learn: Develop machine learning and deep learning models with Python. Packt Publishing Ltd.
