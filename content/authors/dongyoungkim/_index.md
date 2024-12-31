@@ -10,7 +10,7 @@ last_name: Kim
 # superuser: true
 
 # Role/position
-# role: Graduate Student
+role: Graduate Student
 
 # Organizations/Affiliations
 # organizations:
@@ -82,8 +82,9 @@ social:
 
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
-user_groups:
-  - Graduate Students
+
+# user_groups:
+#   - Graduate Students
 ---
 
 Can you explain what's on your mind right now? Abstract feelings or imaginations come naturally to us, yet they are so hard to explain or extract precisely. ChatGPT replies quickly and fluently, but how do our own speech, writing, and thoughts get generated within our hidden mental algorithms? Machines and humans can behave similarly, yet we know little about the underlying possibilities. I'm planning to explore the depths of these hidden myths and misunderstandings to discover who we really are, especially in comparison to machines.
