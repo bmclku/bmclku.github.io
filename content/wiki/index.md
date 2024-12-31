@@ -53,18 +53,13 @@ sections:
         위 교재(<a href="https://www.cambridge.org/core/books/handbook-of-functional-mri-data-analysis/8EDF966C65811FCCC306F7C916228529">링크</a>)를 통하여 fMRI 데이터의 처리 및 분석에 대한 전반적인 개념과 방법을 습득합니다. 이후, fMRI 데이터 전처리를 위한 도구인 fMRIPrep을 사용하여 실제 데이터를 전처리하는 방법을 익히며, 데이터 분석에 필요한 기술을 체득합니다. fMRIPrep 사용법과 관련된 자세한 정보는 관련 페이퍼(<a href="https://doi.org/10.1038/s41592-018-0235-4">링크</a>) 및 공식 문서(<a href="https://fmriprep.org/en/stable/">링크</a>)를 통해 확인할 수 있습니다.
 
         #### 4. EEG Analysis
+        EEG 데이터를 처리하고 신경 활동의 시간적 신호를 분석하는 능력을 배양합니다.
 
+        > Cohen, M. X. (2014). Analyzing neural time series data: Theory and practice. MIT Press.
 
-        Research: 융합 소양을 위하여, 개인 프로젝트 또는 과제에 맞추어 다음 툴을 익힐 수 있다.
-        - Computational: Advanced: Bengio, Y., Goodfellow, I., & Courville, A. (2017). Deep learning (Vol. 1). Cambridge, MA, USA: MIT press. Parts 1 & 2. link: https://www.deeplearningbook.org/ 
-        - Behavior: Morling, B. (2021). Research methods in psychology: Evaluating a world of information (5th ed.). W.W. Norton & Company. Part I, Introduction to Scientific Reasoning 읽어보길 추천. 
-        - 행동실험 디자인을 위해서는, psychopy를 사용한다. Python IDE (e.g., PyCharm)과 연동된 Coder 스타일로 익숙해짐. https://psychopy.org/documentation.html 체크하웃 해보기.
-        - fMRI: Poldrack, R. A., Mumford, J. A., & Nichols, T. E. (2011). Handbook of functional MRI data analysis. Cambridge University Press. link: https://www.cambridge.org/core/books/handbook-of-functional-mri-data-analysis/8EDF966C65811FCCC306F7C916228529
-        - fMRI 분석툴로서는 fMRIPrep 활용. Esteban, O., Markiewicz, C. J., Blair, R. W., Moodie, C. A., Isik, A. I., Erramuzpe, A., ... & Gorgolewski, K. J. (2019). fMRIPrep: a robust preprocessing pipeline for functional MRI. Nature methods, 16(1), 111-116. 튜토리얼은 https://fmriprep.org/en/stable/.
-        - EEG: Cohen, M. X. (2014). Analyzing neural time series data: Theory and practice. MIT Press. LINK: https://direct.mit.edu/books/monograph/4013/Analyzing-Neural-Time-Series-DataTheory-and
-        - Handons experimce는 다음 튜토리얼 이용: https://eeglab.org/.
+        위 교재(<a href="https://direct.mit.edu/books/monograph/4013/Analyzing-Neural-Time-Series-DataTheory-and">링크</a>)를 활용하여 EEG 신호 분석의 이론적 배경을 학습합니다. EEG 데이터의 전처리 및 분석은 EEGLAB 소프트웨어를 사용하여 진행합니다. EEGLAB의 사용법과 관련된 구체적인 내용은 공식 문서(<a href="https://eeglab.org/">링크</a>)에서 확인하실 수 있습니다.
 
-        - 연구실 기본 규칙:
+        ### 연구실 기본 규칙:
         연구 윤리 준수: 실험 데이터 수집 및 처리 시 IRB 지침 준수. 모든 논문 및 보고서 작성 시 표절 금지.
         커뮤니케이션: 출결 관련 소통. 위클리 리포트.
 
