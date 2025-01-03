@@ -16,7 +16,7 @@ sections:
         <br>
 
         ### 기본 트레이닝 (Basic Training)
-        연구실 활동의 초기 단계에서는 연구를 위한 기초 머신러닝 능력을 습득하고 관심 있는 연구 분야를 탐구하는 것을 목표로 합니다. 이를 위해 학부연구생 및 대학원생들은 기본적인 학습 자료를 바탕으로 연구에 필요한 이론적 토대를 다지고, 최신 논문을 검토하며 관심 있는 주제를 구체화합니다.
+        연구실 활동의 초기 단계에서는 연구를 위한 기초 머신러닝 능력을 습득하고 관심 있는 연구 분야를 탐구하는 것을 목표로 합니다. 이를 위해 학부연구생은 기본적인 학습 자료를 바탕으로 연구에 필요한 이론적 토대를 다지고, 최신 논문을 검토하며 관심 있는 주제를 구체화합니다.
 
         > Raschka, S., Liu, Y. H., & Mirjalili, V. (2022). Machine learning with PyTorch and Scikit-learn. Packt Publishing.
 
@@ -27,6 +27,8 @@ sections:
         추가로, 기본 트레이닝 기간 동안 연구생은 자신이 흥미를 느끼는 주제를 중심으로 최신 논문을 찾아 검토합니다. 다음은 논문 탐색을 위한 가이드라인입니다:
         - Computer Science 및 Engineering 분야: NeurIPS, ICLR, ICML, CVPR, ICCV, ECCV 등 주요 컨퍼런스, 또는 Nature Machine Intelligence, Nature Computational Science, Journal of Machine Learning Research, IEEE Transactions on Pattern Analysis and Machine Intelligence 등 학술 저널지에서 발표된 최근 2년간 발표된 논문 중 3편 선정.
         - Neuroscience 및 Psychology 분야: Nature, Nature Neuroscience, Nature Communications, Nature Human Behavior, Science, Science Advances. Cell, Neuron, Current Biology, PNAS, PLOS Biology, PLOS Computational Biology 등 학술 저널지에서 발표된 최근 4년간 발표된 논문 중 3편 선정.
+        
+        연구생은 학습 및 논문 검토 내용을 요약한 자료(예: PPT, PDF)를 작성하여, 멘토와 협의된 일정(예: 격주 1회)에 따라 진행 상황을 점검합니다. 이를 통해 학습 방향을 지속적으로 수정 및 보완합니다.
         
         최종적으로 PI와의 상담을 통해 연구 방향과 부합하는 2개의 논문을 선정하고, 이를 발표하며 연구 주제를 구체화합니다.
 
@@ -61,7 +63,7 @@ sections:
 
         > Cohen, M. X. (2014). Analyzing neural time series data: Theory and practice. MIT Press.
 
-        위 교재(<a href="https://direct.mit.edu/books/monograph/4013/Analyzing-Neural-Time-Series-DataTheory-and">링크</a>)를 활용하여 EEG 신호 분석의 이론적 배경을 학습합니다. EEG 데이터의 전처리 및 분석은 EEGLAB 소프트웨어를 사용하여 진행합니다. EEGLAB의 사용법과 관련된 구체적인 내용은 공식 문서(<a href="https://eeglab.org/">링크</a>)에서 확인하실 수 있습니다.
+        위 교재(<a href="https://direct.mit.edu/books/monograph/4013/Analyzing-Neural-Time-Series-DataTheory-and">링크</a>)를 활용하여 EEG 신호 분석의 이론적 배경을 학습합니다. EEG 데이터의 전처리 및 분석은 EEGLAB 소프트웨어를 사용하여 진행합니다. EEGLAB의 사용법과 관련된 구체적인 내용은 공식 문서(<a href="https://eeglab.org/">링크</a>)에서 확인할 수 있습니다.
 
         <br>
 
