@@ -28,7 +28,7 @@ sections:
         - Computer Science 및 Engineering 분야: NeurIPS, ICLR, ICML, CVPR, ICCV, ECCV 등 주요 컨퍼런스, 또는 Nature Machine Intelligence, Nature Computational Science, Journal of Machine Learning Research, IEEE Transactions on Pattern Analysis and Machine Intelligence 등 학술 저널지에서 발표된 최근 2년간 발표된 논문 중 3편 선정.
         - Neuroscience 및 Psychology 분야: Nature, Nature Neuroscience, Nature Communications, Nature Human Behavior, Science, Science Advances. Cell, Neuron, Current Biology, PNAS, PLOS Biology, PLOS Computational Biology 등 학술 저널지에서 발표된 최근 4년간 발표된 논문 중 3편 선정.
         
-        연구생은 학습 및 논문 검토 내용을 요약한 자료(예: PPT, PDF)를 작성하여, 멘토와 협의된 일정(예: 격주 1회)에 따라 진행 상황을 점검합니다. 이를 통해 학습 방향을 지속적으로 수정 및 보완합니다. 이 과정에서 멘토는 연구생이 연구의 기초를 다지고 방향성을 설정하도록 지원하며, 연구에 필요한 기술과 이론을 학습할 수 있도록 돕습니다. 연구생은 멘토의 연구를 보조하며 실질적인 연구 경험을 쌓는 동시에 연구 역량을 강화합니다. 최종적으로 PI와의 상담을 통해 연구 방향과 부합하는 2개의 논문을 선정하고, 이를 발표하며 연구 주제를 구체화합니다.
+        연구생은 학습 및 논문 검토 내용을 요약한 자료(예: PPT)를 작성하여, 멘토와 협의된 일정(예: 격주 1회)에 따라 진행 상황을 점검합니다. 이를 통해 학습 방향을 지속적으로 수정 및 보완합니다. 이 과정에서 멘토는 연구생이 연구의 기초를 다지고 방향성을 설정하도록 지원하며, 연구에 필요한 기술과 이론을 학습할 수 있도록 돕습니다. 연구생은 멘토의 연구를 보조하며 실질적인 연구 경험을 쌓는 동시에 연구 역량을 강화합니다. 최종적으로 PI와의 상담을 통해 연구 방향과 부합하는 2개의 논문을 선정하고, 이를 발표하며 연구 주제를 구체화합니다.
 
         <br>
 
