@@ -25,8 +25,8 @@ sections:
         위 교과서를 통해 머신러닝의 기초 개념을 확립하고, 인지 신경과학 교재에서는 개인적으로 흥미로운 주제를 선정해 인지 분야에 대한 기본적인 지식을 습득합니다. 만약 주제를 선택하는 데 어려움이 있다면, 6장 "Object Recognition"을 추천합니다. 
         
         추가로, 기본 트레이닝 기간 동안 연구생은 자신이 흥미를 느끼는 주제를 중심으로 최신 논문을 찾아 검토합니다. 다음은 논문 탐색을 위한 가이드라인입니다:
-        - Computer Science 및 Engineering 분야: NeurIPS, ICLR, ICML, CVPR, ICCV, ECCV 등 주요 컨퍼런스, 또는 Nature Machine Intelligence, Nature Computational Science, Journal of Machine Learning Research, IEEE Transactions on Pattern Analysis and Machine Intelligence 등 학술 저널지에서 발표된 최근 2년간 발표된 논문 중 3편 선정.
-        - Neuroscience 및 Psychology 분야: Nature, Nature Neuroscience, Nature Communications, Nature Human Behavior, Science, Science Advances. Cell, Neuron, Current Biology, PNAS, PLOS Biology, PLOS Computational Biology 등 학술 저널지에서 발표된 최근 4년간 발표된 논문 중 3편 선정.
+        - Computer Science 및 Engineering 분야: NeurIPS, ICLR, ICML, CVPR, ICCV, ECCV 등 주요 컨퍼런스, 또는 Nature Machine Intelligence, Nature Computational Science, Journal of Machine Learning Research, IEEE Transactions on Pattern Analysis and Machine Intelligence 등 학술 저널지에서 발표된 최근 2년간 발표된 논문 중 2~3편 선정.
+        - Neuroscience 및 Psychology 분야: Nature, Nature Neuroscience, Nature Communications, Nature Human Behavior, Science, Science Advances. Cell, Neuron, Current Biology, PNAS, PLOS Biology, PLOS Computational Biology 등 학술 저널지에서 발표된 최근 4년간 발표된 논문 중 2~3편 선정.
         
         연구생은 학습 및 논문 검토 내용을 요약한 자료(예: PPT)를 작성하여, 멘토와 협의된 일정(예: 격주 1회)에 따라 진행 상황을 점검합니다. 이를 통해 학습 방향을 지속적으로 수정 및 보완합니다. 최종적으로 PI와의 상담을 통해 연구 방향과 부합하는 2개의 논문을 선정하고, 이를 랩 미팅에서 발표함으로써 연구 주제를 구체화합니다.
 
