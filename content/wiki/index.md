@@ -54,7 +54,7 @@ sections:
         위 교재의 Part 1: Introduction to Scientific Reasoning을 통해 과학적 추론과 실험 설계의 기초 원리를 이해합니다. 이후, PsychoPy를 활용해 실험 환경을 구현하고, 연구 주제에 맞는 행동 실험 프로토콜을 개발합니다. PsychoPy의 활용법에 대한 자세한 정보는 공식 문서(<a href="https://psychopy.org/documentation.html">링크</a>)에서 확인할 수 있습니다.
         
         #### 3. fMRI Analysis
-        fMRI 데이터를 전처리하고 분석하며, 뇌의 기능적 메커니즘을 이해하는 능력을 배양합니다. 
+        fMRI 데이터를 전처리하고 분석하며, 뇌의 기능적 메커니즘을 이해하는 능력을 배양합니다.
         
         > Poldrack, R. A., Mumford, J. A., & Nichols, T. E. (2011). Handbook of functional MRI data analysis. Cambridge University Press.
 
