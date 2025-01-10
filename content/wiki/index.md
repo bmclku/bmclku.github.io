@@ -22,7 +22,7 @@ sections:
 
         > Gazzaniga, M. S., Ivry, R. B., & Mangun, G. R. (2018). Cognitive neuroscience: The biology of the mind. W.W. Norton & Company.
 
-        위 교재를 통해 머신러닝의 기초 개념을 확립합니다. 파이썬 프로그래밍에 익숙하지 않은 경우, 먼저 간단한 파이썬 튜토리얼(예: <a href="https://docs.python.org/ko/">링크</a>)을 학습하는 것을 권장합니다. 머신러닝에 익숙하다면, 주요 내용을 빠르게 점검한 후 아래 딥러닝 교재로 진행하는 것을 추천합니다. 인지 신경과학 교재에서는 개인적으로 흥미로운 주제를 선정해 인지 분야에 대한 기본적인 지식을 습득합니다. 주제 선택이 어려울 경우, 6장 "Object Recognition"을 추천합니다. 
+        위 교재를 통해 머신러닝의 기초 개념을 확립합니다. 파이썬 프로그래밍에 익숙하지 않은 경우, 먼저 간단한 파이썬 튜토리얼(예: <a href="https://docs.python.org/ko/">링크</a>)을 학습하는 것을 권장합니다. 만약 머신러닝에 익숙하다면, 주요 내용을 빠르게 점검한 후 아래 딥러닝 교재로 진행하는 것을 추천합니다. 인지 신경과학 교재에서는 개인적으로 흥미로운 주제를 선정해 인지 분야에 대한 기본적인 지식을 습득합니다. 주제 선택이 어려울 경우, 6장 "Object Recognition"을 추천합니다. 
         
         추가로, 기본 트레이닝 기간 동안 연구생은 자신이 흥미를 느끼는 주제를 중심으로 최신 논문을 찾아 검토합니다. 다음은 논문 탐색을 위한 가이드라인입니다:
         - Computer Science 및 Engineering 분야: NeurIPS, ICLR, ICML, CVPR, ICCV, ECCV 등 주요 컨퍼런스, 또는 Nature Machine Intelligence, Nature Computational Science, Journal of Machine Learning Research, IEEE Transactions on Pattern Analysis and Machine Intelligence 등 학술 저널지에서 발표된 최근 2년간 발표된 논문 중 2~3편 선정.
