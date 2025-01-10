@@ -44,7 +44,7 @@ sections:
 
         > Prince, S. J. (2023). Understanding deep learning. MIT press.
 
-        추천 교재(<a href="https://udlbook.github.io/udlbook/">링크</a>)의 초반 챕터에서 신경망(Neural Networks), 경사 하강법(Gradient Descent), 역전파(Backpropagation), 손실 함수(Loss Functions), 정규화(Regularizaiton) 등의 핵심 개념을 학습합니다. 이후, 합성곱 신경망(Convolutional Nerual Networks), 잔차 네트워크(Residual Networks), 트랜스포머(Transformers) 등 주요 딥러닝 모델의 원리와 적용 방법을 이해합니다. 또한, 관심 분야에 따라 생성 모델(Generative Models)이나 강화 학습(Reinforcement Learning)과 같은 추가 주제도 선택적으로 학습합니다.
+        추천 교재(<a href="https://udlbook.github.io/udlbook/">링크</a>)의 초반 챕터에서 신경망(Neural Networks), 경사 하강법(Gradient Descent), 역전파(Backpropagation), 손실 함수(Loss Functions), 정규화(Regularizaiton) 등의 핵심 개념을 학습합니다. 이후, 합성곱 신경망(Convolutional Nerual Networks), 잔차 네트워크(Residual Networks), 트랜스포머(Transformers) 등 주요 딥러닝 모델의 원리와 적용 방법을 이해합니다. 개인 관심 분야에 따라 생성 모델(Generative Models)이나 강화 학습(Reinforcement Learning)과 같은 추가 주제도 선택적으로 학습합니다.
 
         #### 2. Behavioral Research
         심리학적 실험 설계와 인간 행동 데이터 수집 및 분석 능력을 배양합니다.
