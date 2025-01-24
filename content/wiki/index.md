@@ -24,7 +24,7 @@ sections:
 
         > Gazzaniga, M. S., Ivry, R. B., & Mangun, G. R. (2018). Cognitive neuroscience: The biology of the mind. W.W. Norton & Company.
 
-        우선 파이썬 프로그래밍에 익숙하지 않은 경우, 먼저 간단한 파이썬 튜토리얼(예: <a href="https://docs.python.org/ko/">링크</a>)을 학습하는 것을 권장합니다. 이후, 첫 교재를 통해 머신러닝의 기초 개념을 확립합니다. 만약 머신러닝에 익숙하다면, 주요 내용을 빠르게 점검한 후 아래 딥러닝 교재로 진행하는 것을 추천합니다. 추천 교재(<a href="https://udlbook.github.io/udlbook/">링크</a>)의 초반 챕터에서 신경망(Neural Networks), 경사 하강법(Gradient Descent), 역전파(Backpropagation), 손실 함수(Loss Functions), 정규화(Regularizaiton) 등의 핵심 개념을 학습합니다. 이후, 합성곱 신경망(Convolutional Nerual Networks), 잔차 네트워크(Residual Networks), 트랜스포머(Transformers), 생성 모델(Generative Models) 등 주요 딥러닝 모델의 원리와 적용 방법을 이해합니다. 개인 관심 분야에 따라 강화 학습(Reinforcement Learning)과 같은 추가 주제도 선택적으로 학습합니다. 아울러, 인지 신경과학 교재에서는 개인적으로 흥미로운 주제를 선정해 인지 분야에 대한 기본적인 지식을 습득합니다. 주제 선택이 어려울 경우, 6장 "Object Recognition"을 추천합니다. 
+        우선 파이썬 프로그래밍에 익숙하지 않은 경우, 먼저 간단한 파이썬 튜토리얼(예: <a href="https://docs.python.org/ko/">링크</a>)을 학습하는 것을 권장합니다. 이후, 첫 교재를 통해 머신러닝의 기초 개념을 확립합니다. 만약 머신러닝에 익숙하다면, 주요 내용을 빠르게 점검한 후 아래 딥러닝 교재로 진행하는 것을 추천합니다. 딥러닝 추천 교재(<a href="https://udlbook.github.io/udlbook/">링크</a>)의 초기 챕터를 통해 신경망(Neural Networks), 경사 하강법(Gradient Descent), 역전파(Backpropagation), 손실 함수(Loss Functions), 정규화(Regularizaiton) 등의 핵심 개념을 학습합니다. 이후, 합성곱 신경망(Convolutional Nerual Networks), 잔차 네트워크(Residual Networks), 트랜스포머(Transformers), 생성 모델(Generative Models) 등 주요 딥러닝 모델의 원리와 적용 방법을 이해합니다. 개인 관심 분야에 따라 강화 학습(Reinforcement Learning)과 같은 추가 주제도 선택적으로 학습합니다. 아울러, 인지 신경과학 교재에서는 개인적으로 흥미로운 주제를 선정해 인지 분야에 대한 기본적인 지식을 습득합니다. 주제 선택이 어려울 경우, 6장 "Object Recognition"을 추천합니다. 
         
         추가로, 기본 트레이닝 기간 동안 연구생은 자신이 흥미를 느끼는 주제를 중심으로 최신 논문을 찾아 검토합니다. 다음은 논문 탐색을 위한 가이드라인입니다:
         - Computer Science 및 Engineering 분야: NeurIPS, ICLR, ICML, CVPR, ICCV, ECCV 등 주요 컨퍼런스, 또는 Nature Machine Intelligence, Nature Computational Science, Journal of Machine Learning Research, IEEE Transactions on Pattern Analysis and Machine Intelligence 등 학술 저널지에서 발표된 최근 2년간 발표된 논문 중 2~3편 선정.
@@ -40,7 +40,7 @@ sections:
         연구 및 실습 단계에서는 개인 연구나 프로젝트와 관련된 주제를 세부적으로 설계하고, 이를 구현하기 위한 전문 기술과 이론적 기반을 심화합니다. 대학원생은 연구가 시작되는 학기 초 랩 미팅을 통해 연구 가설과 검증 방법을 포함한 연구 계획을 소개하고, 매 학기 말에는 연구실 구성원들을 대상으로 연구 진행 상황과 중간 결과를 공유합니다. 이를 통해 다양한 관점에서 피드백을 받고, 연구의 방향성과 핵심 내용을 더욱 발전시킵니다. 또한, 매 학기 한 차례 랩 세미나를 통해 연구 주제와 연관된 핵심 논문 1~2편을 선정하여 발표함으로써 연구의 심화와 관련 분야의 이해를 증진합니다. 
         
         융합 연구 수행에 필요한 기술적 역량은 Behavioral, fMRI, EEG의 네 가지 주요 분야로 구분되며, 각 영역의 세부 내용은 다음과 같습니다.
-        
+
         #### 1. Behavioral Research
         심리학적 실험 설계와 인간 행동 데이터 수집 및 분석 능력을 배양합니다.
 
