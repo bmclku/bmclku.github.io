@@ -26,7 +26,7 @@ sections:
 
         파이썬 프로그래밍에 익숙하지 않은 경우, 먼저 간단한 파이썬 튜토리얼(예: <a href="https://docs.python.org/ko/">링크</a>)을 학습하는 것을 권장합니다. 이후, 머신러닝 교재를 통해 기초 개념을 확립합니다. 머신러닝에 이미 익숙하다면, 주요 내용을 빠르게 점검한 후 아래 딥러닝 교재로 넘어가는 것을 추천합니다. 딥러닝 추천 교재(<a href="https://udlbook.github.io/udlbook/">링크</a>)의 초기 챕터에서는 신경망(Neural Networks), 경사 하강법(Gradient Descent), 역전파(Backpropagation), 손실 함수(Loss Functions), 정규화(Regularizaiton) 등 딥러닝의 핵심 개념을 학습합니다. 이후, 합성곱 신경망(Convolutional Nerual Networks), 잔차 네트워크(Residual Networks), 트랜스포머(Transformers), 생성 모델(Generative Models) 등 주요 딥러닝 모델의 원리와 적용 방법을 이해합니다. 개인 관심 분야에 따라 강화 학습(Reinforcement Learning)과 같은 추가 주제도 선택적으로 학습합니다. 아울러, 인지 신경과학 교재에서는 개인적으로 흥미로운 주제를 선정해 인지 분야에 대한 기본적인 지식을 습득합니다. 주제 선택이 어려울 경우, 6장 "Object Recognition"을 추천합니다. 
         
-        추가로, 기본 트레이닝 기간 동안 연구생은 자신이 흥미를 느끼는 주제를 중심으로 최신 논문을 찾아 검토합니다. 논문 탐색은 Google Scholar에서 관심 키워드를 검색하거나, 주요 컨퍼런스 및 학술 저널의 홈페이지에서 직접 검색하는 방식으로 진행할 수 있습니다. 특정 컨퍼런스나 저널에 한정할 필요는 없지만, 다음과 같은 기준을 활용할 수 있습니다:
+        추가로, 기본 트레이닝 기간 동안 연구생은 자신이 흥미를 느끼는 주제를 중심으로 최신 논문을 찾아 검토합니다. 논문 탐색은 Google Scholar에서 관심 키워드를 검색하거나, 주요 컨퍼런스 및 학술 저널의 홈페이지에서 직접 검색하는 방식으로 진행할 수 있습니다. 아래 가이드라인을 참고할 수 있으나, 특정 컨퍼런스나 저널에 국한할 필요는 없습니다:
         - Computer Science 및 Engineering 분야: NeurIPS, ICLR, ICML, CVPR, ICCV, ECCV 등 주요 컨퍼런스, 또는 Nature Machine Intelligence, Nature Computational Science, Journal of Machine Learning Research, IEEE Transactions on Pattern Analysis and Machine Intelligence 등 학술 저널지에서 발표된 최근 2년간 발표된 논문 중 2~3편 선정.
         - Neuroscience 및 Psychology 분야: Nature, Nature Neuroscience, Nature Communications, Nature Human Behavior, Science, Science Advances. Cell, Neuron, Current Biology, PNAS, PLOS Biology, PLOS Computational Biology 등 학술 저널지에서 발표된 최근 5년간 발표된 논문 중 2~3편 선정.
         
