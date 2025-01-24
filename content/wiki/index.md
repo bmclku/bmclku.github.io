@@ -24,13 +24,13 @@ sections:
 
         > Gazzaniga, M. S., Ivry, R. B., & Mangun, G. R. (2018). Cognitive neuroscience: The biology of the mind. W.W. Norton & Company.
 
-        우선 파이썬 프로그래밍에 익숙하지 않은 경우, 먼저 간단한 파이썬 튜토리얼(예: <a href="https://docs.python.org/ko/">링크</a>)을 학습하는 것을 권장합니다. 이후, 첫 교재를 통해 머신러닝의 기초 개념을 확립합니다. 만약 머신러닝에 익숙하다면, 주요 내용을 빠르게 점검한 후 아래 딥러닝 교재로 진행하는 것을 추천합니다. 딥러닝 추천 교재(<a href="https://udlbook.github.io/udlbook/">링크</a>)의 초기 챕터를 통해 신경망(Neural Networks), 경사 하강법(Gradient Descent), 역전파(Backpropagation), 손실 함수(Loss Functions), 정규화(Regularizaiton) 등의 핵심 개념을 학습합니다. 이후, 합성곱 신경망(Convolutional Nerual Networks), 잔차 네트워크(Residual Networks), 트랜스포머(Transformers), 생성 모델(Generative Models) 등 주요 딥러닝 모델의 원리와 적용 방법을 이해합니다. 개인 관심 분야에 따라 강화 학습(Reinforcement Learning)과 같은 추가 주제도 선택적으로 학습합니다. 아울러, 인지 신경과학 교재에서는 개인적으로 흥미로운 주제를 선정해 인지 분야에 대한 기본적인 지식을 습득합니다. 주제 선택이 어려울 경우, 6장 "Object Recognition"을 추천합니다. 
+        파이썬 프로그래밍에 익숙하지 않은 경우, 먼저 간단한 파이썬 튜토리얼(예: <a href="https://docs.python.org/ko/">링크</a>)을 학습하는 것을 권장합니다. 이후, 머신러닝 교재를 통해 기초 개념을 확립합니다. 머신러닝에 이미 익숙하다면, 주요 내용을 빠르게 점검한 후 아래 딥러닝 교재로 넘어가는 것을 추천합니다. 딥러닝 추천 교재(<a href="https://udlbook.github.io/udlbook/">링크</a>)의 초기 챕터에서는 신경망(Neural Networks), 경사 하강법(Gradient Descent), 역전파(Backpropagation), 손실 함수(Loss Functions), 정규화(Regularizaiton) 등 딥러닝의 핵심 개념을 학습합니다. 이후, 합성곱 신경망(Convolutional Nerual Networks), 잔차 네트워크(Residual Networks), 트랜스포머(Transformers), 생성 모델(Generative Models) 등 주요 딥러닝 모델의 원리와 적용 방법을 이해합니다. 개인 관심 분야에 따라 강화 학습(Reinforcement Learning)과 같은 추가 주제도 선택적으로 학습합니다. 아울러, 인지 신경과학 교재에서는 개인적으로 흥미로운 주제를 선정해 인지 분야에 대한 기본적인 지식을 습득합니다. 주제 선택이 어려울 경우, 6장 "Object Recognition"을 추천합니다. 
         
         추가로, 기본 트레이닝 기간 동안 연구생은 자신이 흥미를 느끼는 주제를 중심으로 최신 논문을 찾아 검토합니다. 다음은 논문 탐색을 위한 가이드라인입니다:
         - Computer Science 및 Engineering 분야: NeurIPS, ICLR, ICML, CVPR, ICCV, ECCV 등 주요 컨퍼런스, 또는 Nature Machine Intelligence, Nature Computational Science, Journal of Machine Learning Research, IEEE Transactions on Pattern Analysis and Machine Intelligence 등 학술 저널지에서 발표된 최근 2년간 발표된 논문 중 2~3편 선정.
         - Neuroscience 및 Psychology 분야: Nature, Nature Neuroscience, Nature Communications, Nature Human Behavior, Science, Science Advances. Cell, Neuron, Current Biology, PNAS, PLOS Biology, PLOS Computational Biology 등 학술 저널지에서 발표된 최근 5년간 발표된 논문 중 2~3편 선정.
         
-        연구생은 학습 및 논문 검토 내용을 요약한 자료(예: PPT)를 작성하여, 멘토와 협의된 일정(예: 주 1회)에 따라 진행 상황을 점검합니다. 이를 통해 학습 방향을 지속적으로 수정 및 보완합니다. 최종적으로 PI와의 상담을 통해 연구 방향과 부합하는 2개의 논문을 선정하고, 이를 랩 미팅에서 발표함으로써 연구 주제를 구체화합니다.
+        연구생은 학습 및 논문 검토 내용을 요약한 자료(예: PPT)를 작성하여, 멘토와 협의된 일정(예: 주 1회)에 따라 진행 상황을 점검합니다. 이 과정에서 교재 학습 중 생긴 질문이나 논문에서 흥미를 느낀 이유를 공유하며, 이를 바탕으로 멘토와 학습 방향을 지속적으로 조율하고 보완합니다. 최종적으로 PI와의 상담을 통해 연구 방향과 부합하는 2개의 논문을 선정하고, 이를 랩 미팅에서 발표함으로써 연구 주제를 구체화합니다.
 
         아울러 연구생은 연구실 내 프로젝트에 참여하여 멘토를 보조하고 실제 연구 경험을 쌓습니다. 이를 통해 자신의 연구 주제를 탐색하고, 향후 연구 방향을 설정하는 데 필요한 기반을 마련할 수 있습니다. 멘토는 연구생이 연구의 기초를 다지고 방향성을 설정할 수 있도록 지원하며, 필요한 기술과 이론을 습득하는 과정을 돕습니다. 이를 통해 연구실은 상호 협력과 지식 공유를 통해 모든 구성원이 함께 성장할 수 있는 환경을 지향합니다.
 
