@@ -39,23 +39,26 @@ sections:
         ### 연구 및 실습 (Research and Skills Development)
         연구 및 실습 단계에서는 개인 연구나 프로젝트와 관련된 주제를 세부적으로 설계하고, 이를 구현하기 위한 전문 기술과 이론적 기반을 심화합니다. 대학원생은 연구가 시작되는 학기 초 랩 미팅을 통해 연구 가설과 검증 방법을 포함한 연구 계획을 소개하고, 매 학기 말에는 연구실 구성원들을 대상으로 연구 진행 상황과 중간 결과를 공유합니다. 이를 통해 다양한 관점에서 피드백을 받고, 연구의 방향성과 핵심 내용을 더욱 발전시킵니다. 또한, 매 학기 한 차례 랩 세미나를 통해 연구 주제와 연관된 핵심 논문 1~2편을 선정하여 발표함으로써 연구의 심화와 관련 분야의 이해를 증진합니다. 
         
-        융합 연구 수행에 필요한 기술적 역량은 Behavioral, fMRI, EEG의 세 가지 주요 분야로 구분되며, 각 영역의 세부 내용은 다음과 같습니다.
+        융합 연구를 수행하기 위해 필요한 역량은 인지과학 주제에 대한 깊이 있는 문헌 이해(Literature Understanding)와 기술적인 전문성입니다. 기술적인 전문성은 Behavioral, fMRI, EEG의 세 가지 주요 분야로 구분되며, 이는 개인의 연구 목표나 과제 프로젝트의 특성에 따라 선택적으로 습득합니다. 각 분야의 세부 내용은 아래와 같습니다.
 
-        #### 1. Behavioral Research
+        #### 1. Literature Understanding
+        인지과학은 다양한 카테고리와 수많은 세부 카테고리를 포함하며, 각 카테고리마다 긴 연구의 역사를 가지고 있습니다. 이러한 흐름을 이해하는 것은 매우 중요하며, 개인 관심 주제에 따라 연구의 발전 과정을 정리해보는 것을 권장합니다. 관련 토픽에 대한 리뷰 페이퍼를 읽고, 이를 스스로 정리하며 체계적으로 이해하는 것이 효과적입니다.
+
+        #### 2. Behavioral Research
         심리학적 실험 설계와 인간 행동 데이터 수집 및 분석 능력을 배양합니다.
 
         > Behavior: Morling, B. (2021). Research methods in psychology: Evaluating a world of information. W.W. Norton & Company.
         
         위 교재의 Part 1: Introduction to Scientific Reasoning을 통해 과학적 추론과 실험 설계의 기초 원리를 이해합니다. 이후, PsychoPy를 활용해 실험 환경을 구현하고, 연구 주제에 맞는 행동 실험 프로토콜을 개발합니다. PsychoPy의 활용법에 대한 자세한 정보는 공식 문서(<a href="https://psychopy.org/documentation.html">링크</a>)에서 확인할 수 있습니다.
         
-        #### 2. fMRI Analysis
+        #### 3. fMRI Analysis
         fMRI 데이터를 전처리하고 분석하며, 뇌의 기능적 메커니즘을 이해하는 능력을 배양합니다.
         
         > Poldrack, R. A., Mumford, J. A., & Nichols, T. E. (2011). Handbook of functional MRI data analysis. Cambridge University Press.
 
         위 교재(<a href="https://www.cambridge.org/core/books/handbook-of-functional-mri-data-analysis/8EDF966C65811FCCC306F7C916228529">링크</a>)를 통하여 fMRI 데이터의 처리 및 분석에 대한 전반적인 개념과 방법을 습득합니다. 이후, fMRI 데이터 전처리를 위한 도구인 fMRIPrep을 사용하여 실제 데이터를 전처리하는 방법을 익히며, 데이터 분석에 필요한 기술을 체득합니다. fMRIPrep 사용법과 관련된 자세한 정보는 관련 페이퍼(<a href="https://doi.org/10.1038/s41592-018-0235-4">링크</a>) 및 공식 문서(<a href="https://fmriprep.org/en/stable/">링크</a>)를 통해 확인할 수 있습니다.
 
-        #### 3. EEG Analysis
+        #### 4. EEG Analysis
         EEG 데이터를 처리하고 신경 활동의 시간적 신호를 분석하는 능력을 배양합니다.
 
         > Cohen, M. X. (2014). Analyzing neural time series data: Theory and practice. MIT Press.
