@@ -134,22 +134,11 @@ sections:
     content:
       title: Latest News
       text: |
-        <div><b>2024.11</b></div>
-        <ul>
-          <li>Jiwon Kim and Jimin Kang join the lab. Welcome!</li>
-          <li>Hojin Jang gave talks at the Korean Society of Medical and Biological Engineering and the Artificial Vision & Neural Engineering Seminar.</li>
-        </ul>
-
-        <div><b>2024.09</b></div>
-        <ul>
-          <li><a href="/author/yunji-cho/">Yunji Cho</a>, <a href="/author/suhyun-kim/">Suhyun Kim</a>, and Minju Kim join the lab. Welcome!</li>
-        </ul>
-
-        # <div><b>2024.03</b></div>
-        # <ul>
-        #   <li>Our paper "Improved modeling of human vision by incorporating robustness to blur in convolutional neural networks" has been published in <i>Nature Communications</i>!</li>
-        #   <li>Hojin Jang has been appointed to the position of Assistant Professor in the Department of Brain and Cognitive Engineering at Korea University and the Brain and Machine Cognition Lab's website has launched.</li>
-        # </ul>
+        - <b>[2024.02]</b> Our paper "Configural processing as an optimized strategy for robust object recognition in neural networks" has been accepted in <i>Communications Biology</i>!
+        - <b>[2024.01]</b> Hojin Jang gave a talk at The International Conference on Electronics, Information, and Communication (ICEIC 2025).
+        - <b>[2024.11]</b> Jiwon Kim and Jimin Kang join the lab. Welcome!
+        - <b>[2024.11]</b> Hojin Jang gave talks at the Korean Society of Medical and Biological Engineering and the Artificial Vision & Neural Engineering Seminar.
+        - <b>[2024.09]</b> <a href="/author/yunji-cho/">Yunji Cho</a>, <a href="/author/suhyun-kim/">Suhyun Kim</a>, and Minju Kim join the lab. Welcome!
         - <b>[2024.03]</b> Our paper "Improved modeling of human vision by incorporating robustness to blur in convolutional neural networks" has been published in <i>Nature Communications</i>!
         - <b>[2024.03]</b> Hojin Jang has been appointed to the position of Assistant Professor in the Department of Brain and Cognitive Engineering at Korea University and the Brain and Machine Cognition Lab's website has launched.
     design:
