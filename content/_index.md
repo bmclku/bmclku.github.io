@@ -134,7 +134,7 @@ sections:
     content:
       title: Latest News
       text: |
-        - <b>[2024.02]</b> Our paper "Configural processing as an optimized strategy for robust object recognition in neural networks" has been accepted in <i>Communications Biology</i>!
+        - <b>[2024.02]</b> Our paper "Configural processing as an optimized strategy for robust object recognition in neural networks" has been accepted for publication in <i>Communications Biology</i>!
         - <b>[2024.01]</b> Hojin Jang gave a talk at The International Conference on Electronics, Information, and Communication (ICEIC 2025).
         - <b>[2024.11]</b> Jiwon Kim and Jimin Kang join the lab. Welcome!
         - <b>[2024.11]</b> Hojin Jang gave talks at the Korean Society of Medical and Biological Engineering and the Artificial Vision & Neural Engineering Seminar.
