@@ -38,10 +38,10 @@ education:
       institution: Brain and Cognitive Sciences, MIT
       year: 2022 - 2024
     - course: Postdoctoral Researcher
-      institution: Psychology, Vanderbilt University
+      institution: Cognitive Psychology, Vanderbilt University
       year: 2021 - 2022
     - course: Ph.D. 
-      institution: Psychology, Vanderbilt University
+      institution: Cognitive Psychology, Vanderbilt University
       year: 2016 - 2021
     - course: M.Eng. 
       institution: Brain and Cognitive Engineering, Korea University
