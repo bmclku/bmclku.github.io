@@ -16,7 +16,7 @@ sections:
       email: hojin4671@korea.ac.kr
       phone: 02-3290-5921
       address:
-        street: 219 Science Annex Building, 145, Anam-ro, Seongbuk-gu 
+        street: 617B Science Library, 145, Anam-ro, Seongbuk-gu 
         city: Seoul
         postcode: '02841'
         country: Republic of Korea
