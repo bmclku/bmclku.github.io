@@ -16,11 +16,11 @@ main:
   - name: Gallery
     url: event
     weight: 40
-  - name: Contact
-    url: contact
-    weight: 50
   - name: Calendar
     url: calendar
+    weight: 50
+  - name: Contact
+    url: contact
     weight: 60
   # - name: Labspace
   #   url: https://alpine-cartwheel-1bd.notion.site/Brain-and-Machine-Cognition-Lab-18a0543ef14f80e9b97cff825fc92712
