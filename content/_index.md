@@ -134,11 +134,11 @@ sections:
     content:
       title: Latest News
       text: |
+        - <b>[2025.09]</b> <a href="/author/yunji-cho/">Yunji Cho</a>, <a href="/author/suhyun-kim/">Suhyun Kim</a>, Jiwon Kim, Juhee Suk, Minbok Lee, and Suheon Park join the lab. Welcome!
+        - <b>[2025.09]</b> Our paper "Category-specific perceptual learning of robust object recognition modelled using deep neural networks" has been accepted for publication in <i>PLOS Computational Biology</i>!
         - <b>[2025.02]</b> Our paper "Configural processing as an optimized strategy for robust object recognition in neural networks" has been accepted for publication in <i>Communications Biology</i>!
         - <b>[2025.01]</b> Hojin Jang gave a talk at The International Conference on Electronics, Information, and Communication (ICEIC 2025).
-        - <b>[2024.11]</b> Jiwon Kim and Jimin Kang join the lab. Welcome!
         - <b>[2024.11]</b> Hojin Jang gave talks at the Korean Society of Medical and Biological Engineering and the Artificial Vision & Neural Engineering Seminar.
-        - <b>[2024.09]</b> <a href="/author/yunji-cho/">Yunji Cho</a>, <a href="/author/suhyun-kim/">Suhyun Kim</a>, and Minju Kim join the lab. Welcome!
         - <b>[2024.03]</b> Our paper "Improved modeling of human vision by incorporating robustness to blur in convolutional neural networks" has been published in <i>Nature Communications</i>!
         - <b>[2024.03]</b> Hojin Jang has been appointed to the position of Assistant Professor in the Department of Brain and Cognitive Engineering at Korea University and the Brain and Machine Cognition Lab's website has launched.
     design:
