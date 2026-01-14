@@ -1,7 +1,7 @@
 ---
 title: "Bractive: A brain activation approach to human visual brain learning"
 authors:
-- Nguyen, Xuan-Bac
+- Nguyen Xuan-Bac
 - hojinjang
 - Xin Li
 - Samee U. Khan
