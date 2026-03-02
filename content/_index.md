@@ -114,10 +114,10 @@ sections:
       text: |
         Our current research interests include (but are not limited to) the following topics:
         <ul>
-          <li><b>Visual Perception and Cognition:</b> How does the brain integrate complex visual signals to construct a seamless perception of reality?</li>
+          <li><b>Visual Perception:</b> How does the brain integrate complex visual signals to construct a seamless perception of reality?</li>
           <li><b>Machine Cognition:</b> How can deep learning models replicate human-like contextual and semantic understanding?</li>
           <li><b>Brain-Inspired AI:</b> How can principles of brain function guide the development of more robust and capable AI systems?</li>
-          <li><b>Brain Encdoing and Decoding:</b> How can machine learning help us interpret brain activity to understand cognition?</li>
+          <li><b>Brain Reading:</b> How can machine learning help us interpret brain activity to understand cognition?</li>
         </ul>
         For more details, please refer to the Research page(<a href={{< ref "research" >}}>✍️</a>).    
     design:
@@ -134,12 +134,14 @@ sections:
     content:
       title: Latest News
       text: |
-        - <b>[2025.09]</b> <a href="/author/yunji-cho/">Yunji Cho</a>, <a href="/author/suhyun-kim/">Suhyun Kim</a>, Jiwon Kim, Juhee Suk, Minbok Lee, and Suheon Park join the lab. Welcome!
-        - <b>[2025.09]</b> Our paper "Category-specific perceptual learning of robust object recognition modelled using deep neural networks" has been accepted for publication in <i>PLOS Computational Biology</i>!
-        - <b>[2025.02]</b> Our paper "Configural processing as an optimized strategy for robust object recognition in neural networks" has been accepted for publication in <i>Communications Biology</i>!
+        - <b>[2026.03]</b> <a href="/author/yunji-cho/">Yunji Cho</a> join the lab. Welcome!
+        - <b>[2025.09]</b> The paper "Category-specific perceptual learning of robust object recognition modelled using deep neural networks" has been accepted for publication in <i>PLOS Computational Biology</i>!
+        - <b>[2025.09]</b> The paper "Bractive: A brain activation approach to human visual brain learning" has been accepted for publication in <i>IEEE TPAMI</i>!
+        - <b>[2025.09]</b> <a href="/author/suhyun-kim/">Suhyun Kim</a>, Jiwon Kim, Juhee Suk, Minbok Lee, and Suheon Park join the lab. Welcome!
+        - <b>[2025.02]</b> The paper "Configural processing as an optimized strategy for robust object recognition in neural networks" has been accepted for publication in <i>Communications Biology</i>!
         - <b>[2025.01]</b> Hojin Jang gave a talk at The International Conference on Electronics, Information, and Communication (ICEIC 2025).
         - <b>[2024.11]</b> Hojin Jang gave talks at the Korean Society of Medical and Biological Engineering and the Artificial Vision & Neural Engineering Seminar.
-        - <b>[2024.03]</b> Our paper "Improved modeling of human vision by incorporating robustness to blur in convolutional neural networks" has been published in <i>Nature Communications</i>!
+        - <b>[2024.03]</b> The paper "Improved modeling of human vision by incorporating robustness to blur in convolutional neural networks" has been published in <i>Nature Communications</i>!
         - <b>[2024.03]</b> Hojin Jang has been appointed to the position of Assistant Professor in the Department of Brain and Cognitive Engineering at Korea University and the Brain and Machine Cognition Lab's website has launched.
     design:
       columns: '1'
