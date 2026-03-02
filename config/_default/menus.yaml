@@ -20,7 +20,7 @@ main:
     url: calendar
     weight: 50
   - name: Wiki
-    url: https://alpine-cartwheel-1bd.notion.site/Brain-and-Machine-Cognition-Lab-18a0543ef14f80e9b97cff825fc92712
+    url: https://alpine-cartwheel-1bd.notion.site/Brain-and-Machine-Cognition-Lab-2580543ef14f80a88278ce35e240cca9
     weight: 60
   - name: Contact
     url: contact
