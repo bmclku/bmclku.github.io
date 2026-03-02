@@ -117,7 +117,7 @@ sections:
           <li><b>Visual Perception:</b> How does the brain integrate complex visual signals to construct a seamless perception of reality?</li>
           <li><b>Machine Cognition:</b> How can deep learning models replicate human-like contextual and semantic understanding?</li>
           <li><b>Brain-Inspired AI:</b> How can principles of brain function guide the development of more robust and capable AI systems?</li>
-          <li><b>Brain Reading:</b> How can machine learning help us interpret brain activity to understand cognition?</li>
+          <li><b>Brain Reading:</b> How can we “read” the brain by using machine learning to reconstruct what a person sees, thinks, or remembers from neural activity?</li>
         </ul>
         For more details, please refer to the Research page(<a href={{< ref "research" >}}>✍️</a>).    
     design:
