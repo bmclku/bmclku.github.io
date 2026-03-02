@@ -10,7 +10,7 @@ last_name: Cho
 # superuser: true
 
 # Role/position
-role: Research Intern
+role: M.S. Student
 
 # Organizations/Affiliations
 # organizations:
@@ -83,7 +83,7 @@ social:
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - Research Interns
+  - Graduate Students
 ---
 
 My interest in the field of computer science was ignited by the idea of artificial intelligence that not only emulates human cognition but also has the potential to surpass it. To pursue this ambition, I have chosen Computer Science as my primary major to develop the technical expertise necessary for AI development. I am also majoring in Brain and Cognitive Science as an interdisciplinary major to explore the intricate workings of the human brain. To further bridge these two areas, I joined the Brain and Machine Cognition Laboratory as a Research Intern to gain deeper insights and practical experience. 

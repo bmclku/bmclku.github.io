@@ -10,7 +10,7 @@ last_name: Kim
 # superuser: true
 
 # Role/position
-role: Research Intern
+role: M.S. Student
 
 # Organizations/Affiliations
 # organizations:
@@ -83,7 +83,7 @@ social:
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - Research Interns
+  - Graduate Students
 ---
 
 The reason why I’m studying AI while majoring in computer science is that I have expectations for the instrumental usability of artificial Intelligence. Cognitive processes based on the human brain have also been my long-standing concern. Recently, I have been academically curious about human cognition, especially when using machines. For humans to use artificial intelligence better, understanding each other is inevitable. As a result, I am expanding my understanding of boundaries by double majoring in psychology. 
