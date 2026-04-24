@@ -27,9 +27,12 @@ role: M.S. Student
     
 education:
   courses:
+    - course: M.Eng. 
+      institution: Brain and Cognitive Engineering, Korea University
+      year: 2025 - Present
     - course: B.Sc.
       institution: Computer Science and Engineering, Psychology, Korea University
-      year: 2022 - Present
+      year: 2022 - 2025
 #     - course: Research Affiliate
 #       institution: Brain and Cognitive Sciences, MIT
 #       year: 2024 - Present

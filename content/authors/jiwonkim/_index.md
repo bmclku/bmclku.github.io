@@ -26,12 +26,12 @@ interests:
     
 education:
   courses:
+    - course: M.Eng. 
+      institution: Brain and Cognitive Engineering, Korea University
+      year: 2025 - Present
     - course: B.Sc.
       institution: Life Sciences and Brain & Cognitive Sciences, Korea University
       year: 2022 - 2025
-    - course: M.Eng. 
-      institution: Brain & Cognitive Engineering, Korea University
-      year: 2025 - Present
 #     - course: Research Affiliate
 #       institution: Brain and Cognitive Sciences, MIT
 #       year: 2024 - Present
