@@ -1,10 +1,10 @@
 ---
 # Display name
-title: Jiwon Kim
+title: Suhoen Park
 
 # Full Name (for SEO)
-first_name: Jiwon
-last_name: Kim
+first_name: Suhoen
+last_name: Park
 
 # Is this the primary user of the site?
 # superuser: true
@@ -21,17 +21,20 @@ role: M.S. Student
 # bio: " "
 
 interests:
-  - Visual Cognition
-  - Cognitive Neuroscience
+  - Social Cognition
+  - Vision Science
     
 education:
   courses:
     - course: M.Eng. 
       institution: Brain and Cognitive Engineering, Korea University
-      year: 2026 - Present
+      year: 2025 - Present
     - course: B.Sc.
-      institution: Life Sciences and Brain & Cognitive Sciences, Korea University
-      year: 2021 - 2026
+      institution: Cognitive Science, University of California
+      year: 2023 - 2025
+    - course: B.Sc.
+      institution: Psychology, Pasadena City College
+      year: 2021 - 2023
 #     - course: Research Affiliate
 #       institution: Brain and Cognitive Sciences, MIT
 #       year: 2024 - Present
@@ -59,7 +62,7 @@ education:
 social:
   - icon: envelope
     icon_pack: fas
-    link: 'mailto:jinnyk42@korea.ac.kr' 
+    link: 'mailto:spark020502@gmail.com' 
 #   - icon: cv
 #     icon_pack: ai
 #     link: files/CV_HojinJang.pdf
@@ -88,4 +91,4 @@ user_groups:
   - Graduate Students
 ---
 
-Driven by a deep curiosity about how humans perceive and engage with the world, my research lies at the intersection of cognitive neuroscience and artificial intelligence. With a foundation in the life sciences, I examine human cognition from a neurobiological perspective, focusing on internal representations—how information about the external world is encoded and transformed in the brain. Because humans exist within inherently social and relational environments, I position vision as a central domain of inquiry, given its fundamental role in how we encounter others and the world. I am particularly interested in the representational and computational principles underlying visual cognition. At the same time, I seek to translate insights from human vision into biologically informed AI systems, exploring how principles of visual cognition can be implemented in machines and how machine representations align with human cognition. Ultimately, I aim to clarify the mechanisms of visual representation while developing technologies that extend these capacities, contributing to deeper scientific insight and meaningful human–machine alignment.
+My research interest is how individuals perceive and understand others within complex and dynamic social environments, which led me to major in Cognitive Science during my undergraduate studies. From this perspective, I adopt an integrated approach to social cognition and vision science to understand how visual inputs are transformed into structured social representations at both neural and computational levels. Building on this foundation, I aim to formalize and extend these principles within an artificial intelligence framework. Rather than treating AI as a tool for isolated task performance, I consider it a framework for modeling core aspects of human cognition underlying socially adaptive behavior. By leveraging deep learning and computational modeling, I seek to advance a paradigm in which artificial systems can meaningfully interact with humans and operate coherently within their social environments.

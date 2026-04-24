@@ -1,10 +1,10 @@
 ---
 # Display name
-title: Jiwon Kim
+title: Juhee Suk
 
 # Full Name (for SEO)
-first_name: Jiwon
-last_name: Kim
+first_name: Juhee
+last_name: Suk
 
 # Is this the primary user of the site?
 # superuser: true
@@ -21,16 +21,17 @@ role: M.S. Student
 # bio: " "
 
 interests:
-  - Visual Cognition
-  - Cognitive Neuroscience
+  - Brain-inspired Computer Vision 
+  - Computational Visual Neuroscience 
+  - Biological Plausibility in Deep Learning
     
 education:
   courses:
     - course: M.Eng. 
       institution: Brain and Cognitive Engineering, Korea University
-      year: 2026 - Present
+      year: 2025 - Present
     - course: B.Sc.
-      institution: Life Sciences and Brain & Cognitive Sciences, Korea University
+      institution: Data Science, Korea University
       year: 2021 - 2026
 #     - course: Research Affiliate
 #       institution: Brain and Cognitive Sciences, MIT
@@ -88,4 +89,6 @@ user_groups:
   - Graduate Students
 ---
 
-Driven by a deep curiosity about how humans perceive and engage with the world, my research lies at the intersection of cognitive neuroscience and artificial intelligence. With a foundation in the life sciences, I examine human cognition from a neurobiological perspective, focusing on internal representations—how information about the external world is encoded and transformed in the brain. Because humans exist within inherently social and relational environments, I position vision as a central domain of inquiry, given its fundamental role in how we encounter others and the world. I am particularly interested in the representational and computational principles underlying visual cognition. At the same time, I seek to translate insights from human vision into biologically informed AI systems, exploring how principles of visual cognition can be implemented in machines and how machine representations align with human cognition. Ultimately, I aim to clarify the mechanisms of visual representation while developing technologies that extend these capacities, contributing to deeper scientific insight and meaningful human–machine alignment.
+My journey into computer science began with the thrill of translating ideas into code — the satisfaction of turning abstract logic into something that works. This passion naturally drew me toward AI, where algorithms don't just solve problems, but begin to mirror the very processes of the human brain. To explore this, I pursued a B.Sc. in Data Science at Korea University, where I developed the analytical and technical foundations for understanding complex systems — both biological and artificial. 
+
+My research centers on bridging human and machine vision. I am particularly interested in how human and machine vision diverge, and how incorporating biological factors and structures can make artificial vision more human-like. My long-term goal is to build computer vision systems that do not merely process images, but genuinely "see" and behave the way humans do. Currently, I am working on research related to topographic neural networks and foveated and peripheral vision — drawing inspiration from the brain's own visual architecture to inform better AI models. Through this work, I hope to contribute to a future where the boundary between human and artificial vision becomes meaningfully closer.
