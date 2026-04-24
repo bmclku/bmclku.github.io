@@ -137,7 +137,7 @@ sections:
         - <b>[2026.03]</b> <a href="/author/yunji-cho/">Yunji Cho</a> join the lab. Welcome!
         - <b>[2025.09]</b> The paper "Category-specific perceptual learning of robust object recognition modelled using deep neural networks" has been accepted for publication in <i>PLOS Computational Biology</i>!
         - <b>[2025.09]</b> The paper "Bractive: A brain activation approach to human visual brain learning" has been accepted for publication in <i>IEEE TPAMI</i>!
-        - <b>[2025.09]</b> <a href="/author/suhyun-kim/">Suhyun Kim</a>, <a href="/author/jiwonkim/">Jiwon Kim</a>, <a href="/author/juheesuk/">Juhee Suk</a>, and <a href="/author/suheonpark/">Suheon Park</a> join the lab. Welcome!
+        - <b>[2025.09]</b> <a href="/author/suhyun-kim/">Suhyun Kim</a>, <a href="/author/jiwon-kim/">Jiwon Kim</a>, <a href="/author/juhee-suk/">Juhee Suk</a>, and <a href="/author/suheon-park/">Suheon Park</a> join the lab. Welcome!
         - <b>[2025.02]</b> The paper "Configural processing as an optimized strategy for robust object recognition in neural networks" has been accepted for publication in <i>Communications Biology</i>!
         - <b>[2025.01]</b> Hojin Jang gave a talk at The International Conference on Electronics, Information, and Communication (ICEIC 2025).
         - <b>[2024.11]</b> Hojin Jang gave talks at the Korean Society of Medical and Biological Engineering and the Artificial Vision & Neural Engineering Seminar.
