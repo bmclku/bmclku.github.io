@@ -1,9 +1,9 @@
 ---
 # Display name
-title: Suhoen Park
+title: Suheon Park
 
 # Full Name (for SEO)
-first_name: Suhoen
+first_name: Suheon
 last_name: Park
 
 # Is this the primary user of the site?
