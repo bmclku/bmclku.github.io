@@ -1,7 +1,7 @@
 ---
-title: Lab Photo
+title: Lab Group Photo
 
-event: Test
+event: Lab Photo
 event_url: 
 
 location: Korea University
@@ -12,7 +12,7 @@ location: Korea University
 #   postcode: '94305'
 #   country: United States
 
-summary: Lab group photo
+summary: Lab group photo taken at Korea University.
 # abstract: Test
 
 # Talk start and end times.
