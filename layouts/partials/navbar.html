@@ -27,7 +27,6 @@
           {{- else -}}
             {{- site.Title -}}
           {{- end -}} -->
-          ha
         </a>
       </div>
       {{end}}
@@ -42,13 +41,13 @@
       {{if $show_logo}}
       <div class="navbar-brand-mobile-wrapper d-inline-flex d-lg-none">
         <a class="navbar-brand" href="{{ "/" | relLangURL }}">
-        {{- if $has_logo -}}
+        <!-- {{- if $has_logo -}}
           <img src="{{ $logo.RelPermalink }}" alt="{{ site.Title }}"
           {{with site.Params.header.image.width}}width="{{.}}"{{end}}
           {{with site.Params.header.image.height}}height="{{.}}"{{end}}>
         {{- else -}}
           {{- site.Title -}}
-        {{- end -}}
+        {{- end -}} -->
         </a>
       </div>
       {{end}}
