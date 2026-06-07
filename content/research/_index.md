@@ -35,11 +35,11 @@ sections:
         kinds:
           - page
     design:
-      view: masonry
+      # view: masonry
       # view: card
       # view: showcase
-      # view: compact-research
-      # view: article-grid
+      view: compact-research
+      # vieㅇw: article-grid
       columns: '2'
       background:
         color: '#FFFFFF'
