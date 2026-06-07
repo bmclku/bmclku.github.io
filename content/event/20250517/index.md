@@ -20,7 +20,7 @@ summary: Suhyun Kim presented her research as a poster at the VSS Conference 202
 # date: '2024-03-18T00:00:00Z'
 # date_end: '2030-06-01T15:00:00Z'
 
-date: '2026-04-02'
+date: '2026-05-17'
 all_day: true
 
 # # Schedule page publish date (NOT talk date).
