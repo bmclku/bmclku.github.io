@@ -14,6 +14,8 @@ sections:
         <br>
         <div>고려대학교 뇌기계인지 연구실은 인문학적 사고와 공학적 기술의 융합에 관심 있는 대학원생 및 인턴을 모집합니다. 심리학 전공자이면서 머신러닝/딥러닝 적용이나 뇌영상 데이터 분석에 도전해보고 싶은 분들, 그리고 컴퓨터 공학 전공자로서 인간의 인지 과정을 깊이 탐구하고 싶은 분들 모두 환영합니다. 특히 대학원 진학을 고려하고 있는 경우, 연구 주제와 연구실 분위기를 직접 경험할 수 있도록 연구 인턴십 프로그램에 사전 참여하는 것을 권장합니다. 지원 희망자는 이력서(CV), 성적증명서(Transcript), 그리고 간단한 연구 계획서를 아래 이메일로 보내주시기 바랍니다.<div>
 
+        <br>
+        
         <div><b>Research Interns</b><div>
         <div>Our research internship program offers students the opportunity to experience the lab’s research activities and environment. Interns may contribute to ongoing projects under the guidance of graduate student mentors, participate in lab seminars and study groups, and conduct small-scale projects related to the lab’s research topics. Applicants should submit their CV, transcript, and a brief statement describing their research interests and motivation by email.</div>
         <br>
