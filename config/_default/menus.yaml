@@ -14,7 +14,8 @@ main:
     url: people
     weight: 30
   - name: Wiki
-    url: wiki
+    url: https://www.notion.so/Brain-and-Machine-Cognition-Lab-2580543ef14f80a88278ce35e240cca9?pvs=13
+    # url: wiki
     weight: 40
   - name: Gallery
     url: event
