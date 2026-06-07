@@ -6,8 +6,8 @@
 # Appearance
 
 appearance:
-  theme_day: 
-  theme_night: maximal
+  theme_day: minimal
+  theme_night: 
   font: native
   font_size: M
 
