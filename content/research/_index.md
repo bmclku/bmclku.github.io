@@ -31,7 +31,7 @@ sections:
       filters:
         folders:
           - research
-        featured_only: true
+        featured_only: false
         kinds:
           - page
     design:
