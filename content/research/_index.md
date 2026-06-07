@@ -32,15 +32,15 @@ sections:
         folders:
           - research
         featured_only: true
-        # kinds:
-        #   - page
+        kinds:
+          - page
     design:
       view: masonry
       # view: card
       # view: showcase
       # view: compact-research
       # view: article-grid
-      columns: '2'
+      columns: '1'
       background:
         color: '#FFFFFF'
       spacing:
