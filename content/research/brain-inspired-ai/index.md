@@ -19,5 +19,5 @@ We aim to pursue this line of research, currently focusing on the following topi
 - Predictive coding
 - Developmetnal learning
 
-_Image from [Jang and Tong, Journal of Vision, 2021](https://doi.org/10.1167/jov.21.12.6)_
-{style="text-align: right; font-size: 12px;"}
+<!-- _Image from [Jang and Tong, Journal of Vision, 2021](https://doi.org/10.1167/jov.21.12.6)_
+{style="text-align: right; font-size: 12px;"} -->

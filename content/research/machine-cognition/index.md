@@ -18,5 +18,5 @@ Although there are many aspects to this comparative approach in studying human a
 - High-level reasoning
 - Contextual and semantic understanding
 
-_Image from [Zellers et al., CVPR, 2019](https://arxiv.org/abs/1811.10830)_
-{style="text-align: right; font-size: 12px;"}
+<!-- _Image from [Zellers et al., CVPR, 2019](https://arxiv.org/abs/1811.10830)_
+{style="text-align: right; font-size: 12px;"} -->

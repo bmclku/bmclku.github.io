@@ -14,5 +14,5 @@ A complementary approach to brain reading is decoding, which focuses on interpre
 
 The integration of encoding and decoding, powered by machine learning, has significantly contributed to expanding our understanding of cognition. By linking brain activity with external stimuli and cognitive processes, these methods offer a comprehensive framework for investigating perception, memory, decision-making, and other cognitive functions. Recent advances in AI have further enhanced the capabilities of encoders and decoders, allowing neural activity to be mapped to continuous text, visual representations, and semantic concepts. For instance, a recent study leveraged brain decoding to explore cortical representations of objects ([Nguyen et al., 2024](https://doi.org/10.48550/arXiv.2405.18808)).
 
-_Image from [Nishimoto et al., Current Biology, 2011](https://doi.org/10.1016/j.cub.2011.08.031)_
-{style="text-align: right; font-size: 12px;"}
+<!-- _Image from [Nishimoto et al., Current Biology, 2011](https://doi.org/10.1016/j.cub.2011.08.031)_
+{style="text-align: right; font-size: 12px;"} -->
