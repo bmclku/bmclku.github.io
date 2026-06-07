@@ -19,6 +19,9 @@ main:
   - name: Calendar
     url: calendar
     weight: 50
+  - name: Wiki
+    url: wiki
+    weight: 60
   - name: Contact
     url: contact
-    weight: 60
+    weight: 70
