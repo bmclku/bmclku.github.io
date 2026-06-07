@@ -31,9 +31,9 @@ sections:
       filters:
         folders:
           - research
-        featured_only: false
-        kinds:
-          - page
+        featured_only: true
+        # kinds:
+        #   - page
     design:
       view: masonry
       # view: card
