@@ -39,7 +39,7 @@ sections:
       # view: card
       # view: showcase
       # view: compact-research
-      vieㅇw: article-grid
+      view: article-grid
       columns: '2'
       background:
         color: '#FFFFFF'
