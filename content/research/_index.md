@@ -38,8 +38,8 @@ sections:
       # view: masonry
       # view: card
       # view: showcase
-      view: compact-research
-      # vieㅇw: article-grid
+      # view: compact-research
+      vieㅇw: article-grid
       columns: '2'
       background:
         color: '#FFFFFF'
