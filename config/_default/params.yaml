@@ -35,8 +35,8 @@ header:
   navbar:
     enable: true
     align: r
-    show_logo: true
-    show_language: true
+    show_logo: false
+    show_language: false
     show_day_night: true
     show_search: true
     highlight_active_link: false
@@ -96,7 +96,7 @@ features:
       app_id: ''
       api_key: ''
       index_name: ''
-      show_logo: false
+      # show_logo: false
   map:
     provider: 'mapnik'
     api_key: ''
