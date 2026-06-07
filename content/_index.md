@@ -149,20 +149,20 @@ sections:
         color: '#FFFFFF'
         # color: '#f6f9fb'
       spacing:
-        padding: ["2em", "0em", "2em", "0em"]
+        padding: ["2em", "0em", "0em", "0em"]
       css_class: "frontblock"
         
-  - block: markdown
-    content:
-      title:
-      subtitle:
-      text: |
-        {{% cta cta_link="./people/" cta_text="Meet the team →" %}}
-    design:
-      columns: '1'
-      background:
-        color: white
-      spacing:
-        padding: [0, 0, 0, 0]
+  # - block: markdown
+  #   content:
+  #     title:
+  #     subtitle:
+  #     text: |
+  #       {{% cta cta_link="./people/" cta_text="Meet the team →" %}}
+  #   design:
+  #     columns: '1'
+  #     background:
+  #       color: white
+  #     spacing:
+  #       padding: [0, 0, 0, 0]
 
 ---
