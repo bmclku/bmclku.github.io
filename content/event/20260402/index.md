@@ -4,7 +4,7 @@ title: Lab Group Photo
 event: Lab Photo
 event_url: 
 
-location: Korea University
+location: Korea University, Seoul
 # address:
 #   street: 450 Serra Mall
 #   city: Stanford

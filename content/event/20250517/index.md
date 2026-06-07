@@ -4,7 +4,7 @@ title: VSS 2026
 event: Vision Sciences Society Annual Meeting 2026
 event_url: 
 
-location: Tampa, Florida
+location: Tampa, Florida, United States
 # address:
 #   street: 450 Serra Mall
 #   city: Stanford
