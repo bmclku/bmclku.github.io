@@ -16,11 +16,11 @@ main:
   - name: Gallery
     url: event
     weight: 40
-  - name: Calendar
-    url: calendar
-    weight: 50
   - name: Wiki
     url: wiki
+    weight: 50
+  - name: Calendar
+    url: calendar
     weight: 60
   - name: Contact
     url: contact
