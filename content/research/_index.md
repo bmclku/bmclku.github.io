@@ -36,11 +36,11 @@ sections:
           - page
     design:
       # view: masonry
-      # view: card
-      view: showcase
+      view: card
+      # view: showcase
       # view: compact-research
       # view: article-grid
-      columns: '1'
+      columns: '2'
       background:
         color: '#FFFFFF'
       spacing:
