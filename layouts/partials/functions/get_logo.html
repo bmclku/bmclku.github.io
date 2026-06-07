@@ -9,13 +9,13 @@
 
 {{/* If the type of image can be resized by Hugo, resize it given a `.size` argument to the function. */}}
 {{ if resources.Get "media/logo.png" }}
-  <!-- {{ if eq .constraint "max_height" }}
+  {{ if eq .constraint "max_height" }}
     {{/* Resize logo to fit specified max height. */}}
     {{ $logo_proc = ($logo.Resize (printf "x%s" (string .size))) }}
   {{ else }}
     {{/* Constrain logo to fit within specified dimensions. */}}
     {{ $logo_proc = ($logo.Fit (printf "%sx%s" (string .size) (string .size))) }}
-  {{ end }} -->
+  {{ end }}
   {{ $logo_proc = $logo }}
 {{ end }}
 
