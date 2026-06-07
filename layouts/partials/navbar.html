@@ -7,11 +7,12 @@
 
 {{/* Get site logo. */}}
 {{ $show_logo := site.Params.main_menu.show_logo | default true }}
-<!-- {{ $has_logo := fileExists "assets/media/logo.png" | or (fileExists "assets/media/logo.svg") }}
+<!-- {{ $has_logo := fileExists "assets/media/logo.png" | or (fileExists "assets/media/logo.svg") }} -->
+{{ $has_logo := fileExists "assets/media/logo2.png" | or (fileExists "assets/media/logo2.svg") }}
 {{ $logo := "" }}
 {{ if $has_logo }}
   {{ $logo = (partial "functions/get_logo" (dict "constraint" "max_height" "size" 170)) }}
-{{ end }} -->
+{{ end }}
 
 <nav class="navbar navbar-expand-lg navbar-light compensate-for-scrollbar" id="navbar-main">
   <div class="container-xl">
