@@ -9,7 +9,7 @@ sections:
       text: |-
         <!-- Replace YOUR_CAL_ID and TZ as needed -->
         <iframe
-          src="https://calendar.google.com/calendar/embed?src=c_9aed8fe0b5c6566ffae4237d941507367a5c7d7e646d4bc7113508ec16e64fde%40group.calendar.google.com&color=%234285F4&src=c_bebf10a1cabc17c68f05623fb8a79bdb84e3d03a385f92885f91490303ca9ec6%40group.calendar.google.com&color=%23AED581&ctz=Asia%2FSeoul&mode=MONTH&showTabs=1&showTitle=0&showPrint=0&showCalendars=0"
+          src="https://calendar.google.com/calendar/embed?src=0387b2fee64061ed8e48637790f0205ff5d588754a50269cfda37550b72e0f9f%40group.calendar.google.com&ctz=Asia%2FSeoul&src=9268cfff821793bb1ff338fa26b4f87efd306d37bb413e3566612167410e6288%40group.calendar.google.com&ctz=Asia%2FSeoul"
           style="border:0" width="100%" height="800" frameborder="0" scrolling="no">
         </iframe>
     design:
