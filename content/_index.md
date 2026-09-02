@@ -134,6 +134,7 @@ sections:
     content:
       title: Latest News
       text: |
+        - <b>[2026.09]</b> <a href="/author/yangyang-hwang/">Yangyang Hwang</a> join the lab. Welcome!
         - <b>[2026.06]</b> The paper "Ecological Vision Hypothesis: Training Deep Neural Networks for Robustness and Human Alignment" has been published in <i>Annual Review of Vision Science</i>!
         - <b>[2026.03]</b> <a href="/author/yunji-cho/">Yunji Cho</a> join the lab. Welcome!
         - <b>[2025.09]</b> The paper "Category-specific perceptual learning of robust object recognition modelled using deep neural networks" has been accepted for publication in <i>PLOS Computational Biology</i>!
