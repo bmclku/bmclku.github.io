@@ -21,11 +21,11 @@ sections:
 
         <h3>Research Interns</h3>
 
-        <div>Our research internship program offers students the opportunity to experience the lab’s research activities and environment. Interns may contribute to ongoing projects under the guidance of graduate student mentors, participate in lab seminars and study groups, and conduct small-scale projects related to the lab’s research topics. Applicants should submit their CV, transcript, and a brief statement describing their research interests and motivation by email.</div>
+        <div>Our research internship program offers students the opportunity to experience the lab’s research activities and environment. Interns may contribute to ongoing projects under the guidance of graduate student mentors, participate in lab seminars and study groups, and conduct small-scale projects related to the lab’s research topics. Applicants are expected to have basic programming knowledge or experience, and should be comfortable learning computational tools as needed for research. Applicants should submit their CV, transcript, and a brief statement describing their research interests and motivation by email.</div>
 
         <br>
 
-        <div>연구 인턴십 프로그램은 학생들이 연구실의 연구 활동과 환경을 직접 경험해볼 수 있는 기회를 제공합니다. 인턴은 대학원생 멘토의 지도 아래 진행 중인 프로젝트에 참여하고, 랩 세미나와 스터디에 참석하며, 연구실 주제와 관련된 소규모 프로젝트를 수행할 수 있습니다. 지원 희망자는 이력서(CV), 성적증명서, 그리고 연구 관심 분야 및 지원 동기를 간단히 정리한 글을 이메일로 보내주시기 바랍니다.</div>
+        <div>연구 인턴십 프로그램은 학생들이 연구실의 연구 활동과 환경을 직접 경험해볼 수 있는 기회를 제공합니다. 인턴은 대학원생 멘토의 지도 아래 진행 중인 프로젝트에 참여하고, 랩 세미나와 스터디에 참석하며, 연구실 주제와 관련된 소규모 프로젝트를 수행할 수 있습니다. 기본적인 프로그래밍 지식이나 경험이 있는 지원자를 권장하며, 연구에 필요한 계산 도구를 배우고 활용할 수 있는 분을 환영합니다. 지원 희망자는 이력서(CV), 성적증명서, 그리고 연구 관심 분야 및 지원 동기를 간단히 정리한 글을 이메일로 보내주시기 바랍니다.</div>
         
         <br>
 
