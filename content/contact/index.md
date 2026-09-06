@@ -21,7 +21,7 @@ sections:
 
         <h3>Research Interns</h3>
 
-        <div>Our research internship program offers students the opportunity to experience the lab’s research activities and environment. Interns may contribute to ongoing projects under the guidance of graduate student mentors, participate in lab seminars and study groups, and conduct small-scale projects related to the lab’s research topics. Applicants are expected to have basic programming knowledge or experience, and should be comfortable learning computational tools as needed for research. Applicants should submit their CV, transcript, and a brief statement describing their research interests and motivation by email.</div>
+        <div>Our research internship program offers students the opportunity to experience the lab’s research activities and environment. Interns may contribute to ongoing projects under the guidance of graduate student mentors, participate in lab seminars and study groups, and conduct small-scale projects related to the lab’s research topics. Applicants are expected to have basic programming knowledge or experience (e.g., Python, MATLAB), and should be comfortable learning computational tools as needed for research. Applicants should submit their CV, transcript, and a brief statement describing their research interests and motivation by email.</div>
 
         <br>
 
