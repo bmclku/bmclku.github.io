@@ -26,6 +26,6 @@ slides:
 projects:
 ---
 
-![Poster presentation](photo2.jpg)
+<!-- ![Poster presentation](photo1.jpg) -->
 
-<!-- {{< figure src="photo1.jpg" >}} -->
+{{< figure src="photo1.jpg" >}}
