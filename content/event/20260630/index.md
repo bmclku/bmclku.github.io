@@ -15,6 +15,7 @@ authors: []
 tags: []
 
 featured: false
+count: 5
 
 url_code: ''
 url_pdf: ''
@@ -31,3 +32,6 @@ projects:
 Suhyun Kim and Jiwon Kim presented their research as a poster at KU-Synapse 2026.
 
 ![KU-Synapse 2026](photo1.jpg)
+
+
+{{< figure src="photo1.jpg" >}}
