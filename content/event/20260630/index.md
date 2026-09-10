@@ -26,4 +26,8 @@ slides:
 projects:
 ---
 
+## KU-Synapse 2026
+
+Suhyun Kim and Jiwon Kim presented their research as a poster at KU-Synapse 2026.
+
 ![KU-Synapse 2026](photo1.jpg)
