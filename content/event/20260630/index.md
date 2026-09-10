@@ -26,6 +26,4 @@ slides:
 projects:
 ---
 
-<!-- ![Poster presentation](photo1.jpg) -->
-
 {{< figure src="photo1.jpeg" >}}
