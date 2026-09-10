@@ -25,3 +25,5 @@ slides:
 
 projects:
 ---
+
+![KU-Synapse 2026](photo1.jpg)
