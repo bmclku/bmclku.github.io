@@ -25,8 +25,3 @@ slides:
 
 projects:
 ---
-
-<div style="display: flex; gap: 1em; flex-wrap: wrap;">
-  <img src="featured.jpg" alt="Suhyun Kim and Jiwon Kim at KU-Synapse 2026" style="width: 48%; min-width: 250px;">
-  <img src="photo2.jpg" alt="Suhyun Kim and Jiwon Kim at KU-Synapse 2026" style="width: 48%; min-width: 250px;">
-</div>

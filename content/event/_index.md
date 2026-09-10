@@ -9,3 +9,5 @@ banner:
   caption: ''
   image: ''
 ---
+
+![KU-Synapse 2026](photo1.jpg)
