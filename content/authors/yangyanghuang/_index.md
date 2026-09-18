@@ -1,10 +1,10 @@
 ---
 # Display name
-title: Yunji Cho
+title: Yangyang Huang
 
 # Full Name (for SEO)
-first_name: Yunji
-last_name: Cho
+first_name: Yangyang
+last_name: Huang
 
 # Is this the primary user of the site?
 # superuser: true
@@ -21,9 +21,9 @@ role: M.S. Student
 # bio: " "
 
 interests:
-  - Brain-inspired AI
-  - Computer Vision
-  - Computational Cognitive Neuroscience
+  - Visual Cognition
+  - Individual Differences in Perception
+  - Human–Model Comparison
     
 education:
   courses:
@@ -31,7 +31,7 @@ education:
       institution: Brain and Cognitive Engineering, Korea University
       year: 2026 - Present
     - course: B.Sc.
-      institution: Computer Science and Engineering, Brain and Cognitive Sciences, Korea University
+      institution: Psychology and Brain & Cognitive Sciences, Korea University
       year: 2022 - 2026
 #     - course: Research Affiliate
 #       institution: Brain and Cognitive Sciences, MIT
@@ -60,7 +60,7 @@ education:
 social:
   - icon: envelope
     icon_pack: fas
-    link: 'mailto:robosun78@korea.ac.kr' 
+    link: 'mailto:huangyangyang260@gmail.com' 
 #   - icon: cv
 #     icon_pack: ai
 #     link: files/CV_HojinJang.pdf
@@ -89,6 +89,6 @@ user_groups:
   - Graduate Students
 ---
 
-My interest in the field of computer science was ignited by the idea of artificial intelligence that not only emulates human cognition but also has the potential to surpass it. To pursue this ambition, I have chosen Computer Science as my primary major to develop the technical expertise necessary for AI development. I am also majoring in Brain and Cognitive Science as an interdisciplinary major to explore the intricate workings of the human brain. To further bridge these two areas, I joined the Brain and Machine Cognition Laboratory as a Research Intern to gain deeper insights and practical experience. 
+With a background in psychology and brain and cognitive sciences, I am interested in understanding how humans perceive, remember, and interpret the world. During my undergraduate studies at Korea University, I studied human cognition from behavioral and neuroscientific perspectives. My experience conducting behavioral and physiological experiments further motivated me to explore not only how people behave, but also the mechanisms underlying their behavior.
 
-My research focuses on modeling brain mechanisms using AI, with the aim of advancing AI technologies based on these models. My long-term goal is to make meaningful contributions to the field of neuroscience and to support the development of Artificial General Intelligence (AGI)-a future where AI possesses the ability to perform any intellectual task that a human can do. Through this interdisciplinary approach, I hope to push the boundaries of what AI can achieve and advance our understanding of both artificial and human intelligence.
+I am currently learning how computational models and artificial intelligence can provide new perspectives on human cognition. I am particularly interested in how people perceive ambiguous, degraded, or incomplete visual information, why perceptual strategies differ across individuals, and whether differences among computational models can help explain these variations in human perception. As I build my foundation in deep learning and computational modeling, I hope to gradually develop research questions that connect human cognition with artificial intelligence.
