@@ -26,4 +26,5 @@ slides:
 projects:
 ---
 
-{{< figure src="photo1.jpeg" >}}
+{{< figure src="photo1.jpg" >}}
+{{< figure src="photo2.jpg" >}}
