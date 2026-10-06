@@ -26,5 +26,9 @@ slides:
 projects:
 ---
 
-{{< figure src="photo1.jpg" >}}
-{{< figure src="photo2.jpg" >}}
+<figure>
+    <img src="photo1.jpg" style="image-orientation: from-image;">
+</figure>
+<figure>
+    <img src="photo2.jpg" style="image-orientation: from-image;">
+</figure>
